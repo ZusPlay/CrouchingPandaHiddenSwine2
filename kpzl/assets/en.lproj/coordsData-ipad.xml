@@ -1,0 +1,7 @@
+<coords>
+	<coord name="a01" x="40" y="100" width="" height="" /><!-- Животное в Характеристиках -->
+	<coord name="town1" x="178" y="505" width="" height="" />
+	<coord name="town3" x="552" y="349" width="" height="" />
+	<coord name="town5" x="833" y="459" width="" height="" />
+	<coord name="ratingDetailsDescription" x="107" y="156" width="" height="" />
+</coords>

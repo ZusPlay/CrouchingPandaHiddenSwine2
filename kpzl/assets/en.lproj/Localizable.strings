@@ -1,0 +1,322 @@
+"Ok" = "Ok";
+"Cancel" = "Cancel";
+"Error" = "Error";
+
+"DailyBonusTitle" = "Come back to the game every day and get prizes";
+"DailyBonusTime" = "Time until the next prize:";
+"DailyBonusDay" = "Day";
+
+"Boss battle description win" = "You won:";
+"Boss cost" = "Cost";
+"Boss rebirth" = "You can buy a scroll of boss resurrection.";
+"Boss min level" = "Your level should be greater than ";
+"Boss max dead" = "Boss killed maximum number of times";
+"Boss dead" = "The boss will be available in %s";
+"Boss min wins count" = "To fight the boss, you need %s more victories over opponents";
+"Boss weak" = "First you have to win over a weak boss";
+
+"Social long messages" = "Too much of long messages";
+"Social enter a message" = "Enter a message";
+"Social facebook not login" = "Facebook not login";
+"Social twitter not login" = "Twitter not login";
+"Social already added" = "This user is already your friend";
+"Social message no send" = "Failed to send a message";
+"Social no name" = "Player";
+"Social new players not found" = "Players among your friends not found";
+"Social deleteFriend" = "Are you sure you want to remove this user from your friends?";
+"Social add using code" = "If you know the Personal Code of another player,<br>enter it here to add it to your friends.";
+"Social deleteHistory" = "Are you sure you want to delete the message history with this user?";
+"Social full inbox" = "The recipient more than 20 new posts, please try later";
+"Social not network for post" = "Posting in a social network is turned off, turn on the \"Social Network\"";
+"Social added by code" = "Added by code:";
+"Social add new friends" = "Add new friends:";
+
+"Wheel Your gain is" = "Your gain is ";
+"Wheel Congratulations" = "Congratulations on the arena offers additional fights ";
+"Wheel You won the" = "You won the ";
+"Wheel Count" = " pieces";
+"Wheel further attempt" = "You have won a further attempt";
+"Wheel Vacant slot in your inventory" = "Vacant slot in your inventory to pick up the prize. ";
+"Wheel New Achiev" = "Congratulations, you have a new record:";
+
+"Perk new instinct" = "You got a new instinct ";
+
+
+"User not found" = "Player not found";
+
+"Availability boss" = "Available from level %d";
+"Prizes for winning the following:" = "Received prizes:";
+
+"The server sent not what you need!!!" = "The server sent what wasn't expected!";
+"No internet connection" = "No internet connection";
+
+"Choose one of the heroes" = "Choose one of the heroes";
+
+"Inventory" = "Inventory";
+"Instincts" = "Instincts";
+"Training"  = "Training";
+
+"Enter name" = "Enter name";
+"Enter code" = "Enter code";
+
+"TrainingDescription" = "Each training improves the response to 2 units. \n Please note that the physical shape is easy to lose: every day the bonus is reduced by 2 units. This training costs %d Pesos";
+"AreSureToUse" = "Are you sure you want to use the %s";
+"Price:" = "Price:";
+"Amount:" = "Amount:";
+"Are you sure you want to sell?" = "Are you sure you want to sell?";
+"Sell" = "Sell";
+"Buy" = "Buy";
+"Use" = "Use";
+
+"SelectItems" = "Select the number of items that you want to transfer from %d to %d";
+
+"Power:" = "Strength:";
+"Endurance:" = "Endurance:";
+"Dexterity:" = "Agility:";
+
+"strength: %d" = "strength: %d";
+"endurance: %d" = "endurance: %d";
+"aglity: %d" = "agility: %d";
+
+"No internet connection" = "Error: No internet connection";
+
+"Counterattack" = "Counterattack";
+"Are you sure you want to buy this item?" = "Are you sure you want to buy this item?";
+
+"Item purchased and is in your backpack" = "Item purchased and is in your Inventory";
+"You do not have enough money to buy this item" = "You do not have enough money to buy this item";
+"In the backpack is not enough space for this subject" = "Not enough space in the backpack for this subject";
+"This item is not suitable for you requirements" = "This item doesn't match you requirements";
+
+"Weapons" = "Weapons";
+"Armor" = "Armor";
+"Different" = "Other";
+"Params:" = "Params:";
+"Health:" = "Health:";
+
+"AppsFireNewNotification" = "You have new notifications";
+"AppsFireNoNewNotification" = "You have no new notifications";
+
+"Exp:" = "Exp:";
+"expDesc" = "exp";
+
+"GainExp" = "        Experience:                %s";
+"GainCoins" = "        Coins:                         %s";
+"NewLevelDesc" = "Congratulations on getting to level %d.\nThe store includes new items!";
+
+"Town" = "TOWN";
+"Arena" = "ARENA";
+
+"strenght" = "strength";
+
+"Level" = "Level";
+
+"TailPers" = "Your character is tired of fighting, so it can return to the arena not earlier than:";
+"You can buy one more fight:" = "You can buy one more fight:";
+
+"Buy (1)" = "Buy (1)";
+"Buy (5)" = "Buy (5)";
+
+"Loading" = "Loading";
+"Request in progress.." = "Request in progress..";
+
+"Shake to refresh" = "Shake to refresh";
+
+"Please enter name of your pet" = "<center>Please enter name of your pet</center>";
+"You have no money for training" = "You have no money for training";
+
+"NOTMONEY" = "You don't have enough money!";
+
+"LevelDown" = "Level down";
+"LevelUp"   = "  Level up";
+"LevelUp?" = "Are you sure you want to level up of instinct %s for %d %s?";
+"LevelDown?" = "Are you sure you want to level down of instinct %s for %d %s?";
+
+"Your game version is outdated! Download a new version." = "Your game version is outdated! Download a new version.";
+"Download update: %d/%d" = "Download update: %d/%d";
+
+"RateTitle" = "Love Panda? Please rate it in the App Store!";
+"RateAlertDescription" = "\n";
+"RateOk" = "Rate Now!";
+"RateCancel" = "No Thanks";
+"RateNever" = "Never ask";
+
+"Pesso" = "Peso";
+"Real" = "Real";
+
+"Choose to buy" = "Choose to buy";
+"ItemBonusPrice" = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bonus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Price";
+"Bank" = "Bank";
+
+"Are you done the creating of your pers?" = "<br><center>Are you done the creating your character?</center>";
+"Peso" = "Peso";
+"Loading Request" = "Request in progress...";
+"<br>Do you want to buy %d %@ for %@?" = "<center><br>Do you want to buy %d %s for %s?</center>";
+"Reals" = "Reals";
+"Pesos" = "Pesos";
+"<center>Select the number of items that you want <br>to transfer 1 to %d</center>" = "<center>Select the number of items that you want <br>to transfer 1 to %d</center>";
+"<center>Select the number of items that you want to buy</center>" = "<center>Select the number of items that you want to buy</center>";
+"<center>Select the number of items that you want to sell<br>1 to %d</center>" = "<center>Select the number of items that you want to sell<br>1 to %d</center>";
+
+"Position&nbsp;Name&nbsp;Wins" = "&nbsp;Rank&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wins amount";
+
+"POST_ACHIEV" = "I have reached level %2$d %1$s achievement in \"Crouching Panda Hidden Swine\" game for iPhone!";
+"ENTER_CODE" = "Enter code %s in the game and you will gain 300 Pesos. Join us for free in App Store.";
+
+"Succesfully posted to wall!" = "Successfully posted to wall!";
+"See your Facebok page for detailes" = "See your Facebook page for details";
+
+"Failed to post to your wall" = "Failed to post to your wall";
+"Unknown error occured" = "Unknown error occurred";
+
+"Download in app" = "The game link in App Store";
+"Are you sure" = "<br>Are you sure?";
+
+"The game link in App Store." = "The game link in App Store.";
+
+"You have no enought money" = "You have no enough money";
+
+"GAME_TITLE" = "Crouching Panda Hidden Swine";
+
+"New perk!" = "New instinct!";
+"You've reach a new perk" = "You've reach a new instinct";
+
+"The new battles is comming.." = "The new battles are coming..";
+
+"I`ve reached level %2$d %1$@ achievement in Crouching Panda iPhone game! Join me for free! Download it from  App Store." = "I`ve reached level %2$d %1$s achievement in Crouching Panda iPhone game! Join me for free! Download it from  App Store.";
+
+"App Store link" = "App Store link";
+
+"POST_LEVEL" = "I have Level %d in Crouching Panda Hidden Swine!";
+"POST_LEVEL_TWITTER" = "I have Level %d in Crouching Panda Hidden Swine!";
+
+"POST_CODE" = "I need your help in Crouching Panda Hidden Swine iPhone game!";
+"POST_CODE_DETAILS" = "Download it for free, enter code %s and we will receive 300 Pecos Bonus each. Join me!";
+"POST_CODE_TWITTER" = "Crouching Panda for iPhone is great game! Download it for free, enter code %s to gain 300 Pecos!";
+
+"ONLINE" = "Online";
+"OFFLINE" = "Offline";
+
+"Social connect" = "Select a social network you want to share your achievements in the game, putting a check mark in front of them.";
+"Facebook" = "Facebook";
+"Twitter" = "Twitter";
+
+"Social networks" = "Social networks";
+
+"Networks Allow To Post" = "Networks &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Allow To Post";
+
+"POST_PERK_TWITTER" = "I`ve reached level %2$d %1$s instinct in Crouching Panda iPhone game! Join me for free! Download it from  App Store.";
+"POST_PERK" = "I have reached level %2$d %1$s instinct in \"Crouching Panda Hidden Swine\" game for iPhone!";
+
+"Code Button" = "Personal code";
+
+"YourCode" = "Ask your friends in social networks to enter <font color=#ff0000>your personal code in our game: %s</font> and you'll both receive 300 bonus Peso!";
+
+"AttackYouFriendButtonLabel" = "Attack your friend";
+"PreferencesLabel" = "Preferences";
+"FAQ" = "F.A.Q.";
+"MoreGamesLabel" = "More games";
+
+"AttackYouFriend" = "If you know the Personal Code of another player,<br>enter it here to fight him directly.";
+
+"EnterCode" = "Enter the Personal Code of another player here to receive 300 Pesos.";
+
+"YouCodeIsIncorrect" = "<center>Code you entered is incorrect.<br>Check the code and try again</center>";
+
+"CodeSuccesfullyAdded" = "<br><center>You code was successfully added!</center>";
+
+"Top 50 for a month" = "TOP 25 (Month)";
+"Top 50 for a week" = "TOP 25 (Week)";
+"Top powerful for a week" = "TOP 25 for Strong Animals (Week)";
+"Top dexterous for a week" = "TOP 25 for Agility Animals (Week)";
+"Top stamina for a week" = "TOP 25 for Enduring Animals (Week)";
+
+"Enable Push new fights notifications" = "New fight availability notification";
+"Enable Push attacked notifications" = "Attack notification";
+"Enable Push notifications" = "Notify me when new fight is available.";
+"Enable sound" = "Enable sound";
+
+"Are you sure to logout from %@" = "Are you sure to logout from %s?";
+
+"Are you sure to change you Animal<br>for %d %@?" = "Are you sure you want to change your animal?<br>Only its type will change. All characteristics remain the same. It costs %d %s";
+
+"Enable sound" = "Enable sound";
+
+"This message will be post" = "This message will be posted";
+
+"Введите код с картинки" = "Enter code from the image";
+
+"FRIEND_HELP" = "Please help! I`m playing in “Crouching Panda” iPhone game and need some more fights.";
+"FRIEND_HELP_DETAILS" = "Please click the link bellow and I will receive additional fight. Thanks!\n%s";
+"FRIEND_HELP_TWITTER" = "Please help! I need add fight in Crouching Panda... game. Click the link, please. Thanks!\n%s";
+
+"ASK_FRIEND_TO_HELP" = "Ask your friends for help.<br>%d/10 already helped (%d %s).";
+"1fight" = "fight";
+"2fight" = "fights";
+"5fight" = "fights";
+
+
+"BUY_MORE_BATTLES" = "Buy more battles:";
+
+"NO_MONEY_FOR_CHANGE_ANIMAL" = "You don't have enough money to change your animal.";
+
+"HelpTo" = "Help %s";
+
+"PAIR_BERRY" = "Combine these items?";
+"SURE_TO_UNPLUG_BERRY" = "Do you really want to take off the improvement?";
+"UNPLUG_%s_FIRST" = "This item already has \"%s\" improvement. You should get it off first.";
+"GLADE_IS_COMPLETE" = "You have collected all improvements here. It`s time to move on.";
+"BATTLE_IN_GLADE" = "An enemy has jumped from the bushes. Ready for battle!";
+"To glade" = "Back";
+"ENERGY_IS_OUT" = "You are out of energy. You need to have a rest";
+"USE_POTION" = "Use potion";
+"BUY_ENERGY" = "Buy energy";
+"NOT_YET_AVAILABLE" = "When you will reach Level 8, you will be able to enter the Glade. There are a lot of treasures there. You`ll find Pesos, Potions and different improvements there, which can extremely increase you equipment strength if you use them. Go ahead to Level 8!";
+"NOT_YET_AVAILABLE2" = "Your animal can become even stronger very soon! After the reaching Level 8 you will be able to add the Improvements from the Glades to your equipment. Improvements increase your equipment abilities extremely!";
+"UNPLUG_BERRY_BEFORE_SELL" = "There is an improvement in this equipment. You should take it off before selling";
+
+"You under attack" = "You`ve been attacked!";
+"You`ve been attacked!" = "You`ve been attacked!";
+"No news" = "No news";
+"YouWon" = "You won!";
+"EnemyWon" = "You lose.";
+"You was attacked by" = "Name";
+"Attack date" = "Date";
+"Winner" = "Winner";
+"enemyLevel" = "Level";
+"dd.MM.yyyy" = "MM.dd.yyyy";
+"%@ You`ve been attacked by %@" = "%s You`ve been attacked by %s";
+
+"LiguePrizeDescription" = "The next time for the prizes for a place in the League: %s";
+"TournirRestartTime" = "The current Tournament ends:%s %s";
+
+"NewItemsInStore" = "The store now includes new items";
+"New level!" = "New level!";
+"#&nbsp;Name&nbsp;Rating" = "   #         Name            Rating       League        Prize";
+"Bronze ligue" = "Bronze";
+"Silver ligue" = "Silver";
+"Gold ligue" = "Gold";
+
+"Your don't participate in Tournament"  = "Your don't participate in a Tournament";
+"Ligues don't exist" = "League don't exist"; 
+"Item will be destroyed at:" = "This item will be destroyed:";
+
+"Experience:" = "Experience:";
+"Coins:" = "Coins:";
+"Ligue's place:" = "League's place:";
+"Ligue's prize:" = "League's prize:";
+
+"PossibleCauseOfLoss" = "Possible cause of loss";
+"ChangeAnimalDescription" = "Only appearance of your animal will change";
+"DeleteUserDescription" = "Your animal will be deleted";
+"ChangeAnimal" = "Change Animal";
+"ChangeAnimalButton" = "Change animal / Restart the game";
+"DeleteUser" = "Start the game from the beginning";
+"SureToDeleteUser%d %@" = "Are you sure you want to start the game from the beginning? It costs %d %s. All your progress, payments and data will be lost.";
+
+"CANT_ATTACK" = "You can`t attack this player now. Please try later.";
+"TRAINING_COST=%d"="<br>The total cost of this training is %d Pesos. Are you sure?";
+
+"SERVER_UNAVAILABLE" = "There are some problems with Internet access.";
+
+"Enter Personal Code of another player to receive 300 Pesos for you both" = "Enter Personal Code of another player to receive 300 Pesos for you both";

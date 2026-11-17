@@ -1,0 +1,6174 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_33 (Apple Inc.)
+
+Name: assets/newsButtonBg.png
+SHA1-Digest: 95QLEMWJUMSmdI31y6DcV0iSzhw=
+
+Name: assets/0c-ipad.pvr.ccz
+SHA1-Digest: Pv8hN2y7gImkMrCE8inFdkbu4UU=
+
+Name: assets/wp0Big/s24-ipad.png
+SHA1-Digest: 1wy+XkJZs3OFaNzv/5itSDSR2qI=
+
+Name: assets/GraphicDump/07/00/070500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/10-ipad.png
+SHA1-Digest: d/u6WsyMeyyTAq5iGuBilHlLXfs=
+
+Name: assets/42.png
+SHA1-Digest: +fmNB/9m1GOyaltJNUT86nzV+18=
+
+Name: assets/plusLevelPerk.png
+SHA1-Digest: UIBbs5PDh+lqjnobTNKZbMpWoc0=
+
+Name: assets/sv0/a05.png
+SHA1-Digest: 07WkB24zh7VEO3FI5pUqUHHIXJQ=
+
+Name: assets/57.png
+SHA1-Digest: 5NZWfN5PNeASFm0d+2AdpYvtZuk=
+
+Name: assets/wp0/s05.png
+SHA1-Digest: mZGs7s1emyariadjbox/Lp38EWc=
+
+Name: assets/window8.png
+SHA1-Digest: sgrgrNAJVRPDFXcxNiyadQp8n0s=
+
+Name: assets/wp0Big/s111.png
+SHA1-Digest: tgVY7M5tzwMu0flf9RoKnjWhopY=
+
+Name: assets/ac0/a43.png
+SHA1-Digest: KHuJrugkHvd4MBAtexf1DNlfLnc=
+
+Name: assets/wp0Big/s65.png
+SHA1-Digest: 3QLNlgpb1DSotXdjls0rRduyoSw=
+
+Name: assets/HealthLineBattle.png
+SHA1-Digest: SzJV0XGMF9tVzqVZBCsEPYm3yFs=
+
+Name: assets/DailyBonus-ipad.pvr.ccz
+SHA1-Digest: Qvp1B6/Xnb8dnv62gj2hb91upcA=
+
+Name: assets/Animation/x0f.pvr.ccz
+SHA1-Digest: gp7Yoct2jPcM8Lhako4dmDzCxL4=
+
+Name: assets/GraphicDump/011/00/0110500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/wp0Big/s12-ipad.png
+SHA1-Digest: EnppyYQAIRBq+o6uclbDYtkVivE=
+
+Name: assets/Agility_1.png
+SHA1-Digest: My4VQNOPJsRESVHvp4N0kU3bqAU=
+
+Name: assets/message7.png
+SHA1-Digest: 3XaEStSOChisNeiFRFKP3TZ1SWk=
+
+Name: assets/wp0Big/e01-ipad.png
+SHA1-Digest: 2AnYNwCeklBC5Uk6dDWGvOJvczU=
+
+Name: assets/wp0Big/sae1-ipad.png
+SHA1-Digest: pFAbEVym9NHz81tfzo0tydu1TG0=
+
+Name: assets/Tahoma22.png
+SHA1-Digest: fBEdDGICmAIHwFhjuRB5bS7+oHA=
+
+Name: assets/WheelOfFortune.plist
+SHA1-Digest: 25WMqsChDtS7im8ElXr9SpPOzd0=
+
+Name: assets/wp0Big/s33.png
+SHA1-Digest: q7zWL02HeZmWBxG1wnNdobbciIw=
+
+Name: assets/wp0/s107.png
+SHA1-Digest: wWQMvpwvnSIvldQ54W16IQROYBk=
+
+Name: assets/interface/inventory_open.m4a
+SHA1-Digest: vIu6MkRQQawE6/DHaUOmlI9x5ks=
+
+Name: assets/interface/drop.m4a
+SHA1-Digest: uMj68tc7Q16t5gJvBId+UhYdCF8=
+
+Name: assets/66.png
+SHA1-Digest: /F1ouEDms0Naqwxw+biTdxo3GJE=
+
+Name: assets/wp0Big/s7c-ipad.png
+SHA1-Digest: yIxmkjVLRoAOQdMOevMpb4A7s48=
+
+Name: assets/pad5.png
+SHA1-Digest: g6qg2U0XF7ebkAGtWkpeLvLNyTs=
+
+Name: assets/CurrentTab.png
+SHA1-Digest: xj54/EvzD5xC1iOYFxOI9jvKcNo=
+
+Name: assets/ac0/a40.png
+SHA1-Digest: PuEQUatQVnKaxT/hx38HtjuDOok=
+
+Name: assets/05-ipad.tps
+SHA1-Digest: 3VA+sVgQHSVns4BzivDkcIHyhs8=
+
+Name: assets/Battle/5-ipad.pvr.ccz
+SHA1-Digest: 9LLm086yxTf+miKc9pIHt/hyxJE=
+
+Name: assets/wp0Big/s112.xml
+SHA1-Digest: 38ME1DxJ0cOoFjUh1IHZfb5MCH4=
+
+Name: assets/wp0Big/s74.xml
+SHA1-Digest: 95XPxXzY4ujgZA0bYeQgBGlbbUY=
+
+Name: assets/stoneButton_1.png
+SHA1-Digest: 02/V11DRGgBRf8peg12Zqj0udoE=
+
+Name: assets/011-ipad.plist
+SHA1-Digest: e2dCuD72TyhdAglGNBguueO9ymE=
+
+Name: assets/s12.png
+SHA1-Digest: ZJZwuwaxkHBqCI0sZiudVPW6shs=
+
+Name: assets/wp0Big/saa-ipad.png
+SHA1-Digest: DUsoyS0lDNeTG0CPS7wz/y/09VQ=
+
+Name: assets/ActivePrize_234.png
+SHA1-Digest: vnsgCEk0gAhwaI8QftZB82ZDNIo=
+
+Name: assets/ef0/x0a.m4a
+SHA1-Digest: WRUnbH54XF8+238TRRDCh6RD53A=
+
+Name: assets/54.png
+SHA1-Digest: FaKHLNKfWj8sapfESfEljhMrmsI=
+
+Name: ormma.js
+SHA1-Digest: nYhPS3Em3GzaFokt8P6ZqV8NhIM=
+
+Name: assets/perks8.png
+SHA1-Digest: 0B0Q0g8DiYM7ByiO0hKtbTAOvjE=
+
+Name: assets/GraphicDump/0b/00/0b0600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/BigEnemies/15.png
+SHA1-Digest: nZGgPQ5psjpo7idwLWEuFvT6KTQ=
+
+Name: assets/wp0Big/s42-ipad.png
+SHA1-Digest: nrzT63TVSGukV4ukTsgREH1XiZo=
+
+Name: assets/pk0/p18.png
+SHA1-Digest: U32VV7Jb+k+TsXYqNzyHK31b6eM=
+
+Name: assets/wp0/s113.png
+SHA1-Digest: SroXvYWH8y2Kqgtj8bp5bj1PjW0=
+
+Name: assets/gui/open.ogg
+SHA1-Digest: y74Ws+kNOxSByZX/g7Lp7MBnAg4=
+
+Name: assets/wp0Big/s6d-ipad.png
+SHA1-Digest: kz/Mv7GjNPKkwLJp1NMFUbOon5I=
+
+Name: assets/AlertTextFont.png
+SHA1-Digest: De7tLzbRBUqWTe3bDU/nBmyBP3k=
+
+Name: assets/Weapons.png
+SHA1-Digest: sIrxNo9at79OF4sYdK4khHFUguk=
+
+Name: assets/69.png
+SHA1-Digest: /F1ouEDms0Naqwxw+biTdxo3GJE=
+
+Name: assets/wp0/sa6.png
+SHA1-Digest: vakiler+tYZXhmWAU3MkxMntqiQ=
+
+Name: assets/wp0Big/s24.png
+SHA1-Digest: H3VeefoICK7flCFlodVxbxGmMTQ=
+
+Name: assets/ru.lproj/Localizable.strings
+SHA1-Digest: R7YQw22P5SDzWu9Tl1jRx+wftOo=
+
+Name: assets/51.png
+SHA1-Digest: ujZKGMNyq6uvel96eKXp3J29FqY=
+
+Name: assets/sv0/a17.png
+SHA1-Digest: vUPmb+289ltfebbVJYOKxAyoQ7g=
+
+Name: assets/TrainingStranghtFont.fnt
+SHA1-Digest: +iYdJYMR9WRWTQTOsgtEo0aFdtE=
+
+Name: assets/GraphicDump/013/00/0130000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/gui/elixir_set.m4a
+SHA1-Digest: 99iSIVcoZA+4uoWRxUhyPvMpp9c=
+
+Name: assets/pk0/p16.png
+SHA1-Digest: 9S72/ddBBFz1Kuzdv2B6sfC6sGE=
+
+Name: assets/wp0Big/s41.xml
+SHA1-Digest: eygDCrmibhtifMVgc/B2RVPkeXs=
+
+Name: assets/wp0Big/s114.png
+SHA1-Digest: zI25Dy5Jt/fT37flC5g2iLVD2O8=
+
+Name: assets/s02.png
+SHA1-Digest: Eq1TvhkTVSgqxIuCI10HzqDBN8w=
+
+Name: assets/wp0Big/s107-ipad.png
+SHA1-Digest: zRKgP7xIB1tCU6q2OBW4MwZ1lYU=
+
+Name: assets/Battle/1.pvr.ccz
+SHA1-Digest: EbZymkD+MZrfM8W7pwgvdF6U0Fc=
+
+Name: assets/EnergyProgr_1.png
+SHA1-Digest: 3BFBqvyxnLzCT0IIVIaMRV1p+C0=
+
+Name: assets/wp0Big/s75.xml
+SHA1-Digest: sJfFKd4BgYUsYJ+UQFb+lF/gTv8=
+
+Name: assets/pk0/p29.png
+SHA1-Digest: AokxbHi6oT+vLwNhLwiJ1mfdND8=
+
+Name: assets/wp0Big/sa9.xml
+SHA1-Digest: PAWAPA9rwcvYzlo14edwraEv5II=
+
+Name: assets/Buttons.tps
+SHA1-Digest: lgZ3cwI0JPLJzCWEXSREdke8urM=
+
+Name: assets/19.png
+SHA1-Digest: bbyabOYgR3mnxCED9hHp2XaG2TI=
+
+Name: assets/sv0/a14.png
+SHA1-Digest: N88vbKmfmhlXd0X1c8nZySuG2I0=
+
+Name: assets/Animation/x07.pvr.ccz
+SHA1-Digest: O09i7l7eFwK3opeT11eClf7TxME=
+
+Name: assets/Tahoma18.pvr.ccz
+SHA1-Digest: fcrFSx5Mr0+cmVWGsrYnxjh0+Ls=
+
+Name: assets/0f.pvr.ccz
+SHA1-Digest: NESLbR0jPXR4fnK4nBxQ6LYoOag=
+
+Name: assets/wp0Big/s25-ipad.png
+SHA1-Digest: TV2Hqs5rX2uGmJJwl8OyNtSaiBo=
+
+Name: assets/HealthProgrNewBattle_2.png
+SHA1-Digest: p9l3GTSrzRzJlG7lNFBFxYWPUaM=
+
+Name: assets/wp0Big/s108.png
+SHA1-Digest: SOvfREec3aSPMDBDsaw6C0MIa0M=
+
+Name: assets/wp0Big/s4c.png
+SHA1-Digest: uhmIIE8yA427BQ0mRvJ0BW/cyHg=
+
+Name: assets/wp0Big/d02-ipad.png
+SHA1-Digest: 3McXGJEX2HjfE87eu4wxFhtrzLw=
+
+Name: assets/01-ipad.tps
+SHA1-Digest: QOXB8sPT6Vcf+tQs18810wAya3c=
+
+Name: assets/wp0Big/s57-ipad.png
+SHA1-Digest: c4o82shPjtnYzPNhHNxA6Lpr7pg=
+
+Name: assets/bag/bag13.png
+SHA1-Digest: c85XtH6WGyaGafDdbfiGTYLKPq8=
+
+Name: assets/BuyOneBattleButton.png
+SHA1-Digest: jTVI/6DIsGR9a8FiwVOJPtZ+8d4=
+
+Name: assets/wp0/s50.png
+SHA1-Digest: 1fJamIalo/f4IbsVezUIAPbUhds=
+
+Name: assets/wp0Big/s48-ipad.png
+SHA1-Digest: UK0PSobaY6ZqRUCvr5b5BEtb374=
+
+Name: assets/wp0Big/s31.xml
+SHA1-Digest: BbfcvGzXQ+JTq7GyyvEzMzz2e2Y=
+
+Name: assets/wp0/s94.png
+SHA1-Digest: u1Of8SqFMOFRJue/41p97htJiVI=
+
+Name: assets/wp0/s22.png
+SHA1-Digest: 4KBh78DMLW/D3Sh4h/+/CiZAe24=
+
+Name: assets/wp0Big/s84-ipad.png
+SHA1-Digest: 7sJWqLk8EyG475WtuGTy3KKwp9U=
+
+Name: assets/perkLevel4.png
+SHA1-Digest: VMdD96QRNkEA2pqiPVoG/v/EAwU=
+
+Name: assets/wp0/s6a.png
+SHA1-Digest: YSXj1gxnNEm48Nexw4fre7Qn0ag=
+
+Name: assets/0d-ipad.plist
+SHA1-Digest: 4I5SMIa4qvJNVOVbfwq7XY/4gQU=
+
+Name: assets/healthbar2.png
+SHA1-Digest: 97+5cE67GFdXgdx90/BoYC5tg/Y=
+
+Name: assets/GraphicDump/013/00/0130800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/s11.png
+SHA1-Digest: mM1LuSI5WPME+1U7dqiQlnmYVBA=
+
+Name: assets/08-ipad.tps
+SHA1-Digest: 5uqz+V4gY/YZ+tBkHcaETRbXchM=
+
+Name: assets/wp0/s73.png
+SHA1-Digest: nZwoXJ3Z+lqPzhG590ZT7b9BFgk=
+
+Name: assets/sv0/a04.png
+SHA1-Digest: HmQD6tY9edDmpffSZY5aCbDncxo=
+
+Name: assets/wp0Big/g02-ipad.png
+SHA1-Digest: KM3QjNPQ9jUuqcY6axls1FCxU5g=
+
+Name: assets/wp0Big/e03.png
+SHA1-Digest: 4dNt83xU4o8oD2q7m/QSYtWRabo=
+
+Name: assets/AdvancedMenu.png
+SHA1-Digest: NCwSSfK1tJ5tsHrsNPduvB4as0k=
+
+Name: assets/wp0Big/s27-ipad.png
+SHA1-Digest: jwOJ4gwQG2u5U6gw9Jg8mK6CTqg=
+
+Name: assets/wp0/s49.png
+SHA1-Digest: Q7/QxPucLu1QJ6BBfW+eL4y6SMA=
+
+Name: assets/ac0/a11.png
+SHA1-Digest: ryUNNv/6HEaL7NaDDMl1g0GsQL4=
+
+Name: assets/wp0Big/s47.xml
+SHA1-Digest: oj9yygHsOZD54LTKZGr7lP1ho2w=
+
+Name: assets/010-ipad.tps
+SHA1-Digest: +PYpepbtxkSfzUnbQPeV3h5YyVE=
+
+Name: assets/bag/bag07.png
+SHA1-Digest: 4n3e3XsxndfnozNwTSBqzwqNNdA=
+
+Name: assets/wp0Big/s1101-ipad.png
+SHA1-Digest: S5TR7L6ojJm3iVmkmdX1KbLFr/Y=
+
+Name: assets/BerrysOnItems.pvr.ccz
+SHA1-Digest: kFsU79TbMpSVKvykAN4+lPf/HSs=
+
+Name: assets/interface/book_open.m4a
+SHA1-Digest: CQnM7pbWBfns7JeI+8oaRvQ+F2c=
+
+Name: assets/achiev_level_5.png
+SHA1-Digest: OVkJKKspbZp1y/JCpe48X4R5eC8=
+
+Name: assets/fontArenaHealth.fnt
+SHA1-Digest: l+bc4DyoxuPH/P6/WlgNfkOhbCc=
+
+Name: assets/wp0Big/s45.png
+SHA1-Digest: OibcFN2ZyTTUd/T8Z0sPofYW78E=
+
+Name: assets/wp0Big/s75.png
+SHA1-Digest: YRj2OKcccA6vvzieU4Ia9HhcN3A=
+
+Name: assets/wp0Big/s8e-ipad.png
+SHA1-Digest: /iOr5XVz3WcY0BRg0EIwlxnfX0Q=
+
+Name: assets/wp0Big/s88.png
+SHA1-Digest: 8cYJsqw1oFjFlSgC7OKC3jfU8qY=
+
+Name: assets/BigEnemies/14.png
+SHA1-Digest: m4M5c+G/sDlQP5cqIfwJRriOnRQ=
+
+Name: assets/ru.lproj/botName.txt
+SHA1-Digest: IV9WW+98EmroO2A+ZsKv9+EHFMA=
+
+Name: assets/wp0Big/sb1.png
+SHA1-Digest: s7rDCNsK9xC46fQnpDpqS1DWd78=
+
+Name: assets/ru.lproj/ShopBackgroundWhenBuy.png
+SHA1-Digest: CGTIY7kIie1c5nLbtgs1vRWnmmc=
+
+Name: assets/Strenght_2.png
+SHA1-Digest: 3vKwa5+OyNa+hw9S7qLBAnuIBAw=
+
+Name: assets/sv0/a11.png
+SHA1-Digest: Jxqc+0SHDlO3hGobHC0a7nj39Pk=
+
+Name: assets/wp0Big/s05.png
+SHA1-Digest: sykp0xSAtr2Nl+vvoAuHkw/74Bk=
+
+Name: assets/wp0Big/s33.xml
+SHA1-Digest: PT8+wbncRqzILxmhmdZFPyMYwb8=
+
+Name: assets/town3.png
+SHA1-Digest: PxfSkHXbokORFbO2ETvRnEib8+4=
+
+Name: assets/wp0/s56.png
+SHA1-Digest: zAjn0BO0AEd3YofWezoBTR8ruMg=
+
+Name: assets/BigEnemies/19.png
+SHA1-Digest: O2Rp7FwZi1aLGhFaJQ7uFgC6qEg=
+
+Name: assets/wp0Big/s114.xml
+SHA1-Digest: syL9Uj4goBn/uJTKNXGt+NY7kVQ=
+
+Name: assets/perks0.png
+SHA1-Digest: Vw1DWYiZrEu4+EcmTukdh53n4Xc=
+
+Name: assets/010-ipad.pvr.ccz
+SHA1-Digest: OGdAUPIHTMjTuYCkXeBUTzRUo0A=
+
+Name: assets/GraphicDump/012/00/0120000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/stumpButton_1.png
+SHA1-Digest: 25USo/CBHLSgPOrQRfDYh6xKrNs=
+
+Name: assets/x0e.tps
+SHA1-Digest: Bh9lBjNSLEoI5LD+vTX+H35jZ3A=
+
+Name: assets/ac0/a36.png
+SHA1-Digest: lk7ec+/RZ/nf4TpA8/sPuoVxJCg=
+
+Name: assets/bt0/d01.png
+SHA1-Digest: 0MSIPKC7L0XRbpX2PJTrTs1hfKY=
+
+Name: assets/9.png
+SHA1-Digest: 87QE8xLqBBdMK86drSdj1z6Pnj0=
+
+Name: assets/wp0Big/s48.png
+SHA1-Digest: x61VNpEA4eEjwXxuvsots6GhXAU=
+
+Name: assets/RemoveButton.png
+SHA1-Digest: LSBvMGBVB1TGmmD/X9vzfx78zcU=
+
+Name: assets/9-ipad.png
+SHA1-Digest: tUjPFktufsWo/wIE63IqeeqiiGk=
+
+Name: assets/wp0/s91.png
+SHA1-Digest: g1vrWJcJJZodwbfOCuEvWEUURtw=
+
+Name: assets/GraphicDump/0c/00/0c0600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/wp0/s69.png
+SHA1-Digest: ft4RJoJ9aQtVDHdjA5xaOq38PIY=
+
+Name: assets/ComponentButton22.png
+SHA1-Digest: jqrzb8wPxfCC3Kqy3IVyFQg9ItM=
+
+Name: assets/gui/level_up.m4a
+SHA1-Digest: T575Qig64RasvOHIpsgymR2uwOY=
+
+Name: assets/Pers/3.png
+SHA1-Digest: 49TustFh2BTdFjHPbx+qjBIjFY4=
+
+Name: assets/GraphicDump/06/00/060600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/bag/bag11.png
+SHA1-Digest: +u15Zyr/DaG7wmfu8uGCkTDfjWQ=
+
+Name: assets/wp0Big/s8b1.png
+SHA1-Digest: prvyhzmC0bSNL41ACzdRR9J8qGU=
+
+Name: assets/Animation/x1a.png
+SHA1-Digest: xFg55g+HRP9DLFJ9KLgBux5vzCQ=
+
+Name: assets/perkLevel3.png
+SHA1-Digest: n9epIOVtvoj9qOjPRsedJhxJw5g=
+
+Name: assets/wp0/s76.png
+SHA1-Digest: Mi3pLDcDU6dmP0pzxAjn1B9sfLo=
+
+Name: assets/Pers/10.png
+SHA1-Digest: wcf//OZw5aMIyRzjuoGi1CRociI=
+
+Name: assets/wp0Big/s27.png
+SHA1-Digest: TtMh7LnJcCZxoY8fimNxsWltzpg=
+
+Name: assets/wp0Big/sa8-ipad.png
+SHA1-Digest: QWCbOSI0IXktGk3wq/ljCuCjZME=
+
+Name: assets/wp0Big/s82-ipad.png
+SHA1-Digest: JyQgKphZ1BIMzqQtPDKS5qVwoxA=
+
+Name: assets/ac0/a38.png
+SHA1-Digest: BbOtxMe3oRvFFGnecPIa7D4ce4Y=
+
+Name: assets/0.png
+SHA1-Digest: /F1ouEDms0Naqwxw+biTdxo3GJE=
+
+Name: assets/wp0/s89.png
+SHA1-Digest: kBMATb11jtWRxCaAiVNDsj3MCP4=
+
+Name: assets/LoadingProgressFrame-ipad.png
+SHA1-Digest: HdXnJq0zteaElpjmO0B+E3Okt+s=
+
+Name: assets/05.pvr.ccz
+SHA1-Digest: UxLYeE4N6trndVoHddIHQDcGECU=
+
+Name: assets/textBgTrans.png
+SHA1-Digest: dyfOcv2DlZxaWXhgX1yfZaDjyjI=
+
+Name: assets/wp0Big/s70.png
+SHA1-Digest: N2SLcOW6oAFc/MnkneP2y7xEf/8=
+
+Name: assets/wp0Big/s8c.png
+SHA1-Digest: TyPVPCNythyQaZNCdG06XrDvGPY=
+
+Name: assets/Arrow.png
+SHA1-Digest: ANHPjM7yq6XxTy+xBhtLhYzMrZI=
+
+Name: assets/Animation/x05.png
+SHA1-Digest: C9rlZ5ti7g6YQIE5FohjnE0EZV8=
+
+Name: assets/GraphicDump/04/00/040600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/wp0Big/s92.xml
+SHA1-Digest: 1Q3Xg5YQglGCHQ1wD2YAilQCuGU=
+
+Name: assets/wp0Big/s03.png
+SHA1-Digest: 3e0OSlIRfGeYuoBaYSxQSjEOr9g=
+
+Name: assets/en.lproj/coordsData-ipad.xml
+SHA1-Digest: 8lb5cZ+Me6vlLl1NXDzffKKeO5k=
+
+Name: assets/wp0Big/s13-ipad.png
+SHA1-Digest: q63QUNi0X+4TXxEHWHQiV+/xL20=
+
+Name: assets/wp0Big/s6f.png
+SHA1-Digest: Tk1sbs0c5oMLf4zCKRm5gKAeodA=
+
+Name: assets/wp0Big/sb41.png
+SHA1-Digest: WpP6qliCMzrtbiSMjZzTJ/GOuGQ=
+
+Name: assets/wp0Big/s12.xml
+SHA1-Digest: 2j9Z0wIxfzrXURdCus4ynvlkJ9k=
+
+Name: assets/pCurTabOld2.png
+SHA1-Digest: 2vvFil9bjS+so2pLn6l+j8qNqlk=
+
+Name: assets/pk0/p11.png
+SHA1-Digest: mSKX56N/cSeBP0J1VU7LBxFIeAw=
+
+Name: assets/sv0/a16.png
+SHA1-Digest: Qvqw/0BdFd/XlrfsqjBferHySLA=
+
+Name: assets/sh0/s10.png
+SHA1-Digest: w4Q2ErRfWWS96WOXCS6U8WW1RN4=
+
+Name: assets/gui/win.ogg
+SHA1-Digest: JQMHFna0QUw2U5fi76DTEgjAIJk=
+
+Name: assets/en.lproj/Requirements.png
+SHA1-Digest: be5HsbTqI6cykp9W9T+lxZ3LglQ=
+
+Name: assets/MenuButton.png
+SHA1-Digest: mrbplrvS8Z5mSoABHpKiHQ/ay3c=
+
+Name: assets/Animation/animations.xml
+SHA1-Digest: g6CFROWx6kMDjkcO6QFikmd5/Uk=
+
+Name: assets/bt0/z03.png
+SHA1-Digest: 3tuZI8mTS+MW5uVMiDqiFfIC5cQ=
+
+Name: assets/wp0Big/s27.xml
+SHA1-Digest: VI+CORFYjRZ1PcsH4fk8U5jFzqI=
+
+Name: assets/wp0Big/s4c-ipad.png
+SHA1-Digest: rJZP0zQwRt7ZTU7jB8U4Ti6pXK4=
+
+Name: assets/wp0Big/s23.png
+SHA1-Digest: 3cNNISNI3A+ZBnXRNzFS8/WWcms=
+
+Name: assets/WheelOfFortune.tps
+SHA1-Digest: X27Yhizw1hQYSmmTLFu0anQtkDM=
+
+Name: assets/wp0Big/saf.png
+SHA1-Digest: CZW4/OTrU8DjRGDnmQf5RVFxOYc=
+
+Name: assets/wp0Big/s37-ipad.png
+SHA1-Digest: sK0uFNVBSG2UxL/GqecF0g0ums8=
+
+Name: assets/Battle/4-ipad.pvr.ccz
+SHA1-Digest: R2zz+wmCJdIbIk4UvRM5on5FlOg=
+
+Name: assets/wp0Big/s73-ipad.png
+SHA1-Digest: SJi2LRduFtU//cxL9n7Dxi9c4rI=
+
+Name: assets/gui/round_start.m4a
+SHA1-Digest: 9tlCcU+ch+FPnBWvVCM9g5hX63A=
+
+Name: assets/wp0Big/s95.xml
+SHA1-Digest: BsgfvfVeI4yRCjX1YEH4xxtHsmA=
+
+Name: assets/wp0Big/s44.png
+SHA1-Digest: AhbQH+Qm/geNHhorx+1RQCzLR/Y=
+
+Name: assets/wp0Big/sa6-ipad.png
+SHA1-Digest: 5c7FVFVx8O/9RfwJyVzadAOQ3D8=
+
+Name: assets/Battle/1-ipad.pvr.ccz
+SHA1-Digest: ZZwxwNtZ4bSI4/RayvK+IbdGSQo=
+
+Name: assets/ef0/x0e.m4a
+SHA1-Digest: bh1ZSdsU/g6zOvxQBM2KrrG3lLY=
+
+Name: assets/wp0Big/s48.xml
+SHA1-Digest: 85GSAik9nC1PP4jN7lxtVxDbuPU=
+
+Name: assets/wp0/s51.png
+SHA1-Digest: pPsRTrbDFNARtnmhKV3r7OJeDW0=
+
+Name: assets/icon-72.png
+SHA1-Digest: gJQRcrLX0uaaZyLmhAA1LcSvQk4=
+
+Name: assets/GraphicDump/02/00/020800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/wp0Big/s8c-ipad.png
+SHA1-Digest: /cbCWkcT03uTdI6XNzroPCtJMQo=
+
+Name: assets/wp0Big/sb1.xml
+SHA1-Digest: nugkNX4OUXAuyXJ7LUblzaZV4vM=
+
+Name: assets/wheelStartButton.png
+SHA1-Digest: oDz6FxBDtjqcC49Ov2+YmZeeWBA=
+
+Name: assets/pk0/p32.png
+SHA1-Digest: Ek56Q32aXPddnMAJCV+TRl2CJ3Q=
+
+Name: assets/LoadmingProgressBarBack.png
+SHA1-Digest: hV8gIpAt7MCdEfMpKUv05++GghA=
+
+Name: assets/Animation/x04.png
+SHA1-Digest: cOkRfYVUsZx2L8d/oxVGTCi4mgc=
+
+Name: assets/perks4.png
+SHA1-Digest: vjwcRk+fZicMANZXlk09dEbHndY=
+
+Name: assets/flowerButton_3.png
+SHA1-Digest: Yu/9BmQOG2Xm2CYBvNmDI36ZOCY=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: TgIKNmq2KULD66pjLmV0oQjjSzs=
+
+Name: assets/pk0/p06.png
+SHA1-Digest: H2qe/qBjgg/1JfxpEKjWwzd5WDY=
+
+Name: assets/healthbar0.png
+SHA1-Digest: AJoDKO6Qb/QDob9KFXyLKeXjGBs=
+
+Name: assets/wp0/s13.png
+SHA1-Digest: 0FdH/HT1DFnLNzAond/g3DuCZ4E=
+
+Name: assets/ac0/a30.png
+SHA1-Digest: 0b9Uo3kXkl8i/kJkjwlIrpxIdKc=
+
+Name: assets/PessoGift.png
+SHA1-Digest: jV6Jlx1w/AtLDutralM6NL15j9E=
+
+Name: assets/tutorial5.png
+SHA1-Digest: THODBv+KvPAMkCJpUKZ3/c/ieho=
+
+Name: assets/Battle/3.pvr.ccz
+SHA1-Digest: 2ymu0jcKTAYoP02z42oegO9/ydg=
+
+Name: assets/wp0/s9a.png
+SHA1-Digest: 9jNxtv6CGrGzrUEG1fWs389DYAo=
+
+Name: assets/Pers/7.png
+SHA1-Digest: bX6ZEshA47L/lH7QC6uDApDyJ8Q=
+
+Name: assets/01-ipad.plist
+SHA1-Digest: v3BzccIxY9MSbwnjtLCWpuB/AoY=
+
+Name: assets/wp0Big/s104.png
+SHA1-Digest: mctO1wNnoFUGYfaWYt3bNdsCrWU=
+
+Name: assets/fps_images.png
+SHA1-Digest: BzqBCNxlVAPN2JEsIJ0W506sMnM=
+
+Name: assets/interface/inventory_group.m4a
+SHA1-Digest: FoG7G4VhnimycZrMwtwVtvgszek=
+
+Name: assets/sh0/s0f.png
+SHA1-Digest: EAjAEzkjfRprsDvS8Okvvv9DiXU=
+
+Name: assets/wp0Big/s8f.xml
+SHA1-Digest: 9JOA0rzpyxx+PPYROx4RccwAxzs=
+
+Name: assets/GraphicDump/011/00/0110800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/Badge2.png
+SHA1-Digest: OfFe3I8y2ytcEY/uyGmiq0rjbuE=
+
+Name: assets/wp0Big/sa5.png
+SHA1-Digest: LBPkiPyUMxHJpGPjWJoYeKFxkGA=
+
+Name: assets/GraphicDump/08/00/080500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/11-ipad.png
+SHA1-Digest: d7XBtXix5QDnDkLB9IPt2I/EOeY=
+
+Name: assets/wp0Big/s81.png
+SHA1-Digest: YtjJzRblCzlDDbv0MpQwBXS656A=
+
+Name: assets/wp0Big/sb0-ipad.png
+SHA1-Digest: wY45lBEnPF9Oa5X1UJbEGwWIGsI=
+
+Name: assets/DonePrize_234.png
+SHA1-Digest: W6N77oJoycL/ut/MUYRNJEu83SU=
+
+Name: assets/wp0/sb2.png
+SHA1-Digest: UH6Wf0VLeWYf4vhYp/5gx9eaJIc=
+
+Name: assets/ru.lproj/BuyPessoReals.png
+SHA1-Digest: dNL40UTbIRgfqwjXe8TI+QJQtLA=
+
+Name: assets/Animation/x09.plist
+SHA1-Digest: wN6l3NVDwyX6YQVZ6FUBpVC/fN4=
+
+Name: assets/wp0Big/s44.xml
+SHA1-Digest: zeexJHMliR13MMv7WBEhJtad8+s=
+
+Name: assets/ef0/x07.ogg
+SHA1-Digest: ghKNOFbMkH42K0N5tNCSiMQY0gQ=
+
+Name: assets/wp0Big/s9e-ipad.png
+SHA1-Digest: FR7ILCqIoOtXCw/37P8SkkOp5rY=
+
+Name: assets/wp0Big/s7f.png
+SHA1-Digest: V+FElgtiuUAaFyDO0JRoDw/OxfY=
+
+Name: assets/wp0Big/s106.png
+SHA1-Digest: 3cHb/x9Wab57wQeyHIPc107XQaM=
+
+Name: res/layout/helloworld_demo.xml
+SHA1-Digest: cXa4my8rL5MJdGsdaxiLpPsQUDM=
+
+Name: assets/wp0Big/s851.png
+SHA1-Digest: YjzICQvxD3PRhFg6Lmx7zC87A10=
+
+Name: assets/interface/book_close.m4a
+SHA1-Digest: AjpiSBjVTFW+PalSMpod/UKtbXc=
+
+Name: assets/bt0/c01.png
+SHA1-Digest: RKRu+7GzvUstgHpkAxLkxJHX6hQ=
+
+Name: assets/fontArenaBlue.fnt
+SHA1-Digest: INQD/LYCF8TKkZ92I1iuECwkpaw=
+
+Name: assets/fnts.png
+SHA1-Digest: OqKrFu0XO1aybLBVFgrlRizT9Dk=
+
+Name: assets/GraphicDump/03/00/030500/lib.xml
+SHA1-Digest: V/WeCTT8sEhNASbqA8OmQOT9SZs=
+
+Name: assets/Animation/x04.plist
+SHA1-Digest: jdIvSZCB/95YLN0ksGl3R9KWbXU=
+
+Name: assets/wp0Big/s66.xml
+SHA1-Digest: O+9/L35ohrcKyFN8Uzbje7ad65Q=
+
+Name: assets/wp0Big/s9e.png
+SHA1-Digest: Omu4+05IK7c5qxvxgWEitviXDgw=
+
+Name: assets/GraphicDump/0f/00/0f0800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/wp0Big/s4f.png
+SHA1-Digest: 1U+Hvq3BARW77WPbOzUhkyVufQY=
+
+Name: assets/56.png
+SHA1-Digest: U7RCy+WmqxI9TUKSlkMf3g+5zPY=
+
+Name: assets/wp0Big/s110.png
+SHA1-Digest: q4AZeIAuikHk5RRTsU3YNX6s5KY=
+
+Name: assets/wp0Big/sa1-ipad.png
+SHA1-Digest: hGnRXE9lJwwgBhK+irU8iOXb4Es=
+
+Name: assets/01.plist
+SHA1-Digest: 97fhNfk9q0tjSGdFikocV5GEUu4=
+
+Name: assets/wp0Big/s100.xml
+SHA1-Digest: bUp3baNtyMEu6KKWXhIy94M24gk=
+
+Name: assets/InviteTWBGBlue.png
+SHA1-Digest: YVP1EFG+c7WC1Rzd4vRVxuOlKW0=
+
+Name: assets/pk0/p44.png
+SHA1-Digest: YwzZkBe5GQjJHN4qXdtRpKboJbw=
+
+Name: assets/wp0/d02.png
+SHA1-Digest: NJ+UoaXWqQPWFmv+JzXpLYV238c=
+
+Name: assets/wp0Big/s6c-ipad.png
+SHA1-Digest: 9MNAbx4o80hglahGq1JmJrbtt04=
+
+Name: assets/wp0Big/sb3.png
+SHA1-Digest: C/2UlIYedoo4BpILFTOxamaniAQ=
+
+Name: assets/ButtonSend.png
+SHA1-Digest: 0f0Ydadd+ejbVQ5cdnWA+zFykf0=
+
+Name: assets/GraphicDump/0f/00/0f0600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/wp0Big/sab.xml
+SHA1-Digest: PChHWp0GCuSYEGDxkQEaKaaZnR0=
+
+Name: assets/GraphicDump/0a/00/0a0600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/ru.lproj/MenuGraphic-ipad.pvr.ccz
+SHA1-Digest: pD7+qTB5mLzj+DObdaz6FEaW6Ys=
+
+Name: assets/wp0Big/s107.png
+SHA1-Digest: LodxBul1oYYFcQAs05LauGvpWX4=
+
+Name: assets/wp0Big/s64.xml
+SHA1-Digest: cOnOHG1P/5Og6dMCRJ/6e/jtSSM=
+
+Name: assets/Animation/x08.png
+SHA1-Digest: QTSsRNuxyY+efyPDHkEWJzPp8Tc=
+
+Name: assets/bag/bag10.png
+SHA1-Digest: mbCCCwTbXdt53DYSxDDKIjDbTTg=
+
+Name: assets/wp0Big/s97.xml
+SHA1-Digest: x7FOeh5V0YBTfu4oXi/I06ufKs8=
+
+Name: assets/wp0Big/g01-ipad.png
+SHA1-Digest: UzzEQ50UVUtILd9sgwR7zktOr1c=
+
+Name: assets/health.fnt
+SHA1-Digest: nspQVJd1r+NIIO5nRZq3jrTvCE4=
+
+Name: assets/s18.png
+SHA1-Digest: +1vn4zsqgRfidnKC3Qobils7k0U=
+
+Name: assets/Bg.png
+SHA1-Digest: yzvmOFCwtgT4hjlD34+sS9PorFw=
+
+Name: assets/0c-ipad.plist
+SHA1-Digest: 8tzZPYOXz5J5Ntjoib3H6nuYhlk=
+
+Name: assets/wp0Big/s32-ipad.png
+SHA1-Digest: 3XuPhX6nBhjz3MIIRrgmYPS/WRc=
+
+Name: assets/sh0/s1.png
+SHA1-Digest: 5PGU7BCrXEUx66CxVH/0jo4UVVU=
+
+Name: assets/DexterityProgrOriginal_1.png
+SHA1-Digest: zqAfDTa5NE58lEhFlOaV0GpmusI=
+
+Name: assets/03-ipad.pvr.ccz
+SHA1-Digest: riL72+fa75Jwk/hI8T9OGAUsxwk=
+
+Name: assets/tieRating_0.png
+SHA1-Digest: sLOqyJaCYkgtGcEtsz3zklKrxrI=
+
+Name: assets/DexterityProgressLine.png
+SHA1-Digest: xeQDEm4XjmeTBGG3TEE08RrTSFo=
+
+Name: assets/01.pvr.ccz
+SHA1-Digest: yfiTrXeoraayDAvNM49jVZdd690=
+
+Name: assets/wp0Big/s781.xml
+SHA1-Digest: Pz0tiVUyLzJa9tsiODVfoHAH69k=
+
+Name: assets/Other.png
+SHA1-Digest: tCy4GLCfrLyOOeRAb5/wNfWNJbE=
+
+Name: assets/fog.png
+SHA1-Digest: r7PjLiOjUM5NBNOtK07gdz8rKlw=
+
+Name: assets/pk0/p33.png
+SHA1-Digest: 1HuMuWoVw/a/h3XqmdsLFwGICDE=
+
+Name: assets/enemy_bg.png
+SHA1-Digest: z7ytPs9qYSPrKZ/2iP0lUdUjiUs=
+
+Name: assets/wp0Big/s4d.png
+SHA1-Digest: 0yw1syDsbkNC4MAX4IVoJndrkME=
+
+Name: assets/wp0Big/s681.png
+SHA1-Digest: 3S3KVGwisCMloyhfJWOVYFEpvgk=
+
+Name: assets/CommonGraphics.plist
+SHA1-Digest: DrBZTtTqEgMGKqDFXRlwbBd5+6k=
+
+Name: assets/icon57.png
+SHA1-Digest: krd8smmTlxTaMleOMsUTB6tBz8A=
+
+Name: assets/sv0/a29.png
+SHA1-Digest: ggI7zCbFh5Ouslw+IskQ0Mw6zLQ=
+
+Name: assets/hint3.png
+SHA1-Digest: 1lP3i4uk8me+LEtOZtxSSgOq5WY=
+
+Name: assets/FBCircle.png
+SHA1-Digest: lYLHj++i/0FpfKmt6zy50DhHhYg=
+
+Name: assets/wp0Big/s50.png
+SHA1-Digest: tjSxPUYfiE/yAH8MqNcE5ELzi10=
+
+Name: assets/wp0Big/s41-ipad.png
+SHA1-Digest: Cju3Oibr7xhnqegfIHo1Utcenlo=
+
+Name: assets/wp0/s7f.png
+SHA1-Digest: 2ZKSm6ndB2jhVk1MBFnh3O1BhF8=
+
+Name: assets/wp0Big/s64.png
+SHA1-Digest: 59hVkhqHCcjPxa+fpLPmKH1roYI=
+
+Name: assets/GraphicDump/08/00/080600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/ac0/a25.png
+SHA1-Digest: 4WwpoeBKxvEXD9Ekd5ZNxEUTbzo=
+
+Name: assets/wp0/g03.png
+SHA1-Digest: ay/x6ovaY2TAcfOV5ig6y3zMDWg=
+
+Name: assets/BigBoss/16.png
+SHA1-Digest: RN6/KuzPjFhUfne8R854MThcB54=
+
+Name: assets/GladeProgressBack.png
+SHA1-Digest: T49HXBW4DREL94saGLjfpPkKgFc=
+
+Name: assets/Animation/x15.png
+SHA1-Digest: Ae3dGdtyX+dweSEwnCQfcXxz+m8=
+
+Name: assets/wp0Big/sa3-ipad.png
+SHA1-Digest: Mdcfpqyg2c0eAUEr1q0ilwV+6R8=
+
+Name: assets/wp0Big/s9f.xml
+SHA1-Digest: WGiJKQe8g8/JiGPAjq5y+PICHRQ=
+
+Name: assets/wp0/sa1.png
+SHA1-Digest: 6Y58hsV/tOcw1DAuzKfpWWl725w=
+
+Name: assets/pk0/p37.png
+SHA1-Digest: X5ojkL2JA6er9wBDqdj1Rbq6SYA=
+
+Name: assets/Battle/4.pvr.ccz
+SHA1-Digest: oLYNevULWhplF6PV33HTmtKiS3E=
+
+Name: assets/wp0/s85.png
+SHA1-Digest: RomK4NxBIcwI+DQ7bpjmcggIFjU=
+
+Name: assets/Animation/x0c.png
+SHA1-Digest: H63VCBj17Anp1/XVBDBP44Gc0/M=
+
+Name: assets/3-ipad.jpg
+SHA1-Digest: aG2/41bjUD6Gg34cCmtpaB+1Rb8=
+
+Name: assets/wp0Big/s34.png
+SHA1-Digest: GW8WrFRf/EKlnzbYCysVAHrO0Ac=
+
+Name: assets/sv0/a20.png
+SHA1-Digest: fhO/iSOTpQFuabLFSDbHhDjNV50=
+
+Name: assets/0b.pvr.ccz
+SHA1-Digest: 9RyWUKVOqh/v+DJTkOXRO/78U3g=
+
+Name: assets/wp0Big/s113.png
+SHA1-Digest: TDBdSwUViXtlLl37Yg9UcmMSdw8=
+
+Name: assets/wp0Big/s66-ipad.png
+SHA1-Digest: Dw9Qo0kzh2g7pcrHN15W3sqRRyI=
+
+Name: assets/wp0Big/s51.xml
+SHA1-Digest: kspocux55aZsnf2X0g+Gzr0qDNs=
+
+Name: assets/Arrow2.png
+SHA1-Digest: MT8KPVemYanBxVZFY2wKwb5rvAQ=
+
+Name: assets/wp0Big/s46-ipad.png
+SHA1-Digest: QJa44217iuhkTtkpIDdNQk87mj4=
+
+Name: assets/Badge1.png
+SHA1-Digest: zWbc5o5uXsIKkNiKYXn4Z40WlaI=
+
+Name: assets/s06.png
+SHA1-Digest: OfaXnBw+cxcZH1J8K6M1RrNjTqs=
+
+Name: assets/pad1.png
+SHA1-Digest: WJkN6+8zvVIgbGjlr6GfxAL6nYY=
+
+Name: assets/interface/drag.ogg
+SHA1-Digest: NIgiqlqJbE4Gn7RWU6pwdckc8ts=
+
+Name: assets/wp0Big/s25.png
+SHA1-Digest: A54p8VGoFKjDfiujsshvXjDLBcs=
+
+Name: assets/wp0Big/s881-ipad.png
+SHA1-Digest: BdQsBjXbWsoy5ZrJiT1hefWak9U=
+
+Name: assets/sh0/s04.png
+SHA1-Digest: q7A56q3/uTQzzDGX8YMx32QN+XI=
+
+Name: assets/EnergyProgr_2.png
+SHA1-Digest: 7w2JwkgCg7Hx/vxTPGv0ua9GRnk=
+
+Name: assets/bt0/b01.png
+SHA1-Digest: 9ctDcWnNQt8lOXWNL9vA+AhP460=
+
+Name: assets/HealthProgrNewBattle_1.png
+SHA1-Digest: OPWyc4GENf7b1cGp2NnE+yKLRgc=
+
+Name: assets/pk0/p34.png
+SHA1-Digest: M5mPydNI8uSxh7qmsw4mHxuLcX8=
+
+Name: assets/ef0/x07.m4a
+SHA1-Digest: D+z2Hbv30Ay3uxVr7qUJlyyB8Bw=
+
+Name: assets/wp0Big/s8f-ipad.png
+SHA1-Digest: QHqO8RVsu/rw4kn7NE/PXyH/m6o=
+
+Name: assets/bt0/f02.png
+SHA1-Digest: 2hGOZfkb1fjXp3BIQWWnRGYEMjI=
+
+Name: assets/pCurTabOld.png
+SHA1-Digest: b7QosybsS3h5GUGNFKhXtN4UycI=
+
+Name: assets/wp0Big/s100-ipad.png
+SHA1-Digest: 21Cr79t0OiZxCU29fk8UsOTq8vI=
+
+Name: assets/ac0/a14.png
+SHA1-Digest: 1UjYuwo+t9Jl1J5nSQWBfkZgIP8=
+
+Name: assets/wp0Big/s7b.png
+SHA1-Digest: 7iqgVegMyHFNVnYA4armoKiHbd4=
+
+Name: assets/s05.png
+SHA1-Digest: MfMe9VNzkt/T8PI1uvwhAaQPcTc=
+
+Name: assets/pTab.png
+SHA1-Digest: A3MfjAytxWZHrQPw9RfeoomK/ko=
+
+Name: assets/18.png
+SHA1-Digest: P7jvFDcPvOLI6JJ/tRW9Y8I6H1Y=
+
+Name: assets/ac0/a35.png
+SHA1-Digest: i4RC1LtOy6+WDNIcZZ790qqOkhc=
+
+Name: assets/8-ipad.png
+SHA1-Digest: Iea5cJJbiytodJgLS3HVQC2tHeA=
+
+Name: assets/sh0/s08.png
+SHA1-Digest: FtcJKKqj2EbQiPBF+a+Zk0LCfuM=
+
+Name: assets/HealthProgr_1.png
+SHA1-Digest: TQ5NX0aJpnwnoU2zzxdwqTFniLw=
+
+Name: assets/011-ipad.tps
+SHA1-Digest: /m8wjXVAZVZgjQiDI5VIeyZUTHY=
+
+Name: assets/wp0/e01.png
+SHA1-Digest: rddHHNdibqn8oSZglD2TUsMNVhc=
+
+Name: assets/ExpProgr_2-ipad.png
+SHA1-Digest: QcjpUp7Y6+OflUhlW+8HCLuqIRI=
+
+Name: assets/StaminaProgressLine.png
+SHA1-Digest: kly401EfVaqUPnoU8J+aflaEAq8=
+
+Name: assets/s0e.png
+SHA1-Digest: d237YB0zwrER4X/XyxCYMsOCGlQ=
+
+Name: assets/SocialNetworksPostOk.png
+SHA1-Digest: JvN15TnxWp52XyjyPFn7W8y4nMk=
+
+Name: assets/wp0/s70.png
+SHA1-Digest: P9dyalbfcX4P+Rt0iyeT3V8Qto8=
+
+Name: assets/wp0/s34.png
+SHA1-Digest: icGtY+4c0aSRe5M8YWvbyoj2iSc=
+
+Name: assets/Pers/16.png
+SHA1-Digest: wyYVLtZDTzNBZQBigs8Dl37xGbQ=
+
+Name: assets/GraphicDump/0e/00/0e0800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/wp0Big/s77.xml
+SHA1-Digest: hBPxPm48pT6rWSuviJH/dKn4GEg=
+
+Name: assets/HealthProgrNew_0.png
+SHA1-Digest: mzYndID/VVfOtY10TTdBA738AbY=
+
+Name: assets/GraphicDump/07/00/070800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/0e.plist
+SHA1-Digest: 57SFb2QCBmMmJNaDNC1pewsDD4o=
+
+Name: assets/0c.plist
+SHA1-Digest: smy3AoZk7JsMoTMWENF5br0G6tc=
+
+Name: assets/pk0/p05.png
+SHA1-Digest: aSctQUcYsQZ2v0/nZylhT21Ptdo=
+
+Name: assets/wp0Big/s49.xml
+SHA1-Digest: CyjC7yHy0uLs/TbLsYeylELs2ig=
+
+Name: assets/head_angry.png
+SHA1-Digest: rLkw17Ku8s/whILpfHANfgX8KbU=
+
+Name: assets/wp0/d03.png
+SHA1-Digest: JSHRDz9H1urmOjcyRe9kD3OtGoE=
+
+Name: assets/wp0Big/s73.png
+SHA1-Digest: 3Y0Jn57/ut/v2tVmSFl3sRJRR04=
+
+Name: assets/Animation/x06.pvr.ccz
+SHA1-Digest: H2v5FqCccVCfOonDp+njUS3L+F0=
+
+Name: assets/LoadingProgressFrame.png
+SHA1-Digest: 66lTTAdHEJMJd14u2ZapzXROglI=
+
+Name: assets/x07.tps
+SHA1-Digest: 3IudxQbVEHsoiokthar1pYC+A+k=
+
+Name: assets/wp0Big/s25.xml
+SHA1-Digest: Hp+PR5kQ5W2d7o8xeh+OkkQqNLw=
+
+Name: assets/wp0Big/s78.png
+SHA1-Digest: XBdWbc/8KhXWfKzAssTqXUAfiVI=
+
+Name: assets/pk0/p40.png
+SHA1-Digest: int5AOEtsENv2jIitP2DRXCN49s=
+
+Name: assets/wp0Big/sae1.png
+SHA1-Digest: jUy7ekwWqJhWe8/KpfV3jtlafGE=
+
+Name: assets/ru.lproj/MenuGraphic-ipad.plist
+SHA1-Digest: WYIQjDXlybmTxZa4e6snE4VPeH8=
+
+Name: assets/wp0Big/s73.xml
+SHA1-Digest: tILe1owxhkBALxyQxvgdD9FcKNQ=
+
+Name: assets/wp0Big/s91.png
+SHA1-Digest: Bgs+MbBZ3KbPRP+u28EcqbXI7QM=
+
+Name: assets/wp0/s108.png
+SHA1-Digest: Dh2jclWoWtYOWlOLB5x2ChOLwDQ=
+
+Name: assets/wp0Big/sa2.png
+SHA1-Digest: zzobXeTKSoBBfUQ/k5R7PNaI77M=
+
+Name: assets/04.pvr.ccz
+SHA1-Digest: +zojTu7qb/oAIu8w4wQrQARBMDI=
+
+Name: assets/wp0Big/s8b.xml
+SHA1-Digest: Qofgn3u5AY55OeLwWM/X/ZmGVIk=
+
+Name: assets/my_friends_TabBar.png
+SHA1-Digest: AMKLt321Z4EEJMK/x6srocNMS4c=
+
+Name: assets/013.pvr.ccz
+SHA1-Digest: ihd7G3fBonUhFium34n3chR4otM=
+
+Name: assets/TabButtonBackpack.png
+SHA1-Digest: nSx/NJmDVuwI1OIsn6jAZfTLzeg=
+
+Name: assets/GraphicDump/0c/00/0c0300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0Big/sab1.png
+SHA1-Digest: lxt9Gz+R8FU34YjpIz20da7J/Vs=
+
+Name: assets/bt0/e02.png
+SHA1-Digest: iwXXchQvKqYs+/zpGpAOyvhq4pg=
+
+Name: assets/PersCode.xml
+SHA1-Digest: BN4EWj0KWHIvlBk6uy+dxsr4Vag=
+
+Name: assets/ac0/a16.png
+SHA1-Digest: loeWRtu1yoLXChid99ekRe938YA=
+
+Name: assets/wp0Big/s54.xml
+SHA1-Digest: v825lt7esrRk3QALCTTxKbvYilQ=
+
+Name: assets/wp0Big/s56-ipad.png
+SHA1-Digest: zAjn0BO0AEd3YofWezoBTR8ruMg=
+
+Name: assets/PowerProgressLine1.png
+SHA1-Digest: CIiJsKsZTbZGVw9Q1JFzCTdNVYI=
+
+Name: assets/wp0Big/f01.png
+SHA1-Digest: AMl1HCoKilXT6hPeQ2n2YhP+jnY=
+
+Name: assets/Animation/arenaSmoke.plist
+SHA1-Digest: jh4wZ+//MNbvfn9JX+zZp3EWGhk=
+
+Name: assets/wp0/sae.png
+SHA1-Digest: pbozfp1e3T2vdGu3lJTfRWPMkBY=
+
+Name: assets/wp0/s46.png
+SHA1-Digest: l4MNhQLheFv/IxXZLjarLgCJPiY=
+
+Name: assets/pk0/p27.png
+SHA1-Digest: GDFX3pi1QaHmCCZ2Cewsr9mIyhc=
+
+Name: assets/04.plist
+SHA1-Digest: SUXHrZ8VpH1qOblhkKet5MnJv/o=
+
+Name: assets/37.png
+SHA1-Digest: Sd5rBN38XHLOwIWBoyeQWYXzfN8=
+
+Name: assets/wp0/s98.png
+SHA1-Digest: 74a3ELC7ulQGubKQDRAUNRKppIM=
+
+Name: assets/06-ipad.tps
+SHA1-Digest: 1WjaNncoEX+mk5xOge88X7u4zIE=
+
+Name: assets/Animation/x11.png
+SHA1-Digest: Ae3dGdtyX+dweSEwnCQfcXxz+m8=
+
+Name: assets/0d-ipad.tps
+SHA1-Digest: QGZR/omW2aizoW/voh16u8isSvM=
+
+Name: assets/s17.png
+SHA1-Digest: Cwuj8vAHSf0AvqsWb+rjC7mISvI=
+
+Name: assets/DexterityProgr_2.png
+SHA1-Digest: aIyDCWRnOSF45e+sGE5b00wcths=
+
+Name: assets/wp0Big/s89.xml
+SHA1-Digest: r5vdR0QoRPwLznf+j7MFTWccpvA=
+
+Name: assets/wp0Big/s39-ipad.png
+SHA1-Digest: UUrQSnk2JUnchROweAQmhD3fgl8=
+
+Name: assets/wp0Big/s80.xml
+SHA1-Digest: CNg5gG346YnnZa4g3k1sc62r3JY=
+
+Name: assets/wp0/s14.png
+SHA1-Digest: 2Frdr3b3CLfSV/efTs4yBaZxAao=
+
+Name: assets/wp0Big/sb5.xml
+SHA1-Digest: RCravOlxZ4+8/PDSmV39pcOb8ww=
+
+Name: assets/Animation/x03.png
+SHA1-Digest: lH0/Im0OQftXG8H9VSu5G2KynBo=
+
+Name: assets/wp0Big/s101.png
+SHA1-Digest: qUAdjtZ7dkjQF9takxXk1cAHQrY=
+
+Name: assets/wp0Big/s87.xml
+SHA1-Digest: n3NuiLUNeFmwRe4RQzxDG3PYmuk=
+
+Name: assets/012-ipad.pvr.ccz
+SHA1-Digest: La2d38sVgMfqi4FiEMh+vrJ9Z1g=
+
+Name: assets/ButtonWheelStart.png
+SHA1-Digest: OKcTDxYXIMr9qa/OltLCFpGs8Zc=
+
+Name: assets/CommonGraphics.pvr.ccz
+SHA1-Digest: cDjTDK8CUsTLPjtYUZUqoQ61ZoY=
+
+Name: assets/wp0/s25.png
+SHA1-Digest: 6FhPDH8VNmQix59QW6GFZykC9m8=
+
+Name: assets/wp0/s114.png
+SHA1-Digest: De8oPvjBU+fjioiZPDbLb6J/ZtU=
+
+Name: assets/wp0/s100.png
+SHA1-Digest: 1TExZ4y31RzzWu2lsCP+jgIvRXo=
+
+Name: assets/BigEnemies/6.png
+SHA1-Digest: hHd2cx5t+J58qpbL8XsU9EpRWx0=
+
+Name: assets/ExpBegin.png
+SHA1-Digest: wbxS5vJH22fRWTuwBoG6H/nhvF8=
+
+Name: assets/wp0/s6c.png
+SHA1-Digest: ByIrTqQS9xaIYtbEN/zE7Zsu/so=
+
+Name: assets/wp0/s9f.png
+SHA1-Digest: oAlkz3vbhneh40bSQJ1ktDQAwRs=
+
+Name: assets/wp0Big/s8b-ipad.png
+SHA1-Digest: CjR56kfMzU7XkL/CMsbtByQ+AHk=
+
+Name: assets/wp0Big/s7e.png
+SHA1-Digest: hXmZaK9LNhDIj7sl9bnjnVv63TE=
+
+Name: assets/0f-ipad.pvr.ccz
+SHA1-Digest: xYTlUj2ulWjdxfPURXKZta3N0eY=
+
+Name: assets/ru.lproj/Loading.png
+SHA1-Digest: Irzrh1OaKIPvajRHJmSKNuzhHHA=
+
+Name: assets/WinLabel.png
+SHA1-Digest: l0Jn2GUYJeR1OpaCoOgGBoowodI=
+
+Name: assets/GraphicDump/03/00/030300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/Animation/arenaSmoke.png
+SHA1-Digest: 7ON1qsNCmrCEFtLhWDp8xveYAFE=
+
+Name: assets/ac0/a05.png
+SHA1-Digest: Us4lN1Zrb3kzqdSVUOPqYUC5GUA=
+
+Name: assets/FriendsBgSocialTw.png
+SHA1-Digest: S8IEw0jDKIlYV0rTRc8e2I3IplY=
+
+Name: assets/en.lproj/LooseLabelEnergy.png
+SHA1-Digest: 64fLDCJAmdEN+AQr/vwHoJqnCm8=
+
+Name: assets/pk0/p21.png
+SHA1-Digest: CywsLLVN9F0JMWl2EeUKhfRm57k=
+
+Name: assets/sh0/s03.png
+SHA1-Digest: kmg3ynBbIAO7HpJcu6VtN3MbaMk=
+
+Name: assets/namePad.png
+SHA1-Digest: M38tjUWqo8dz1cdiExVY9220a9k=
+
+Name: assets/010.tps
+SHA1-Digest: fBVIP6LdLxrk8AswCIxjm3j3ut4=
+
+Name: assets/sh0/s17.png
+SHA1-Digest: tuFD5DvNe3hi5ggHbwZjBlRsL4I=
+
+Name: assets/Checkbox2.png
+SHA1-Digest: NpLJxFagpXzTXd7tlwKCqzPjG0s=
+
+Name: assets/wp0Big/s72-ipad.png
+SHA1-Digest: DZ5awrJZjYkl+O+As2r2kJL/ypU=
+
+Name: assets/BigEnemies/18.png
+SHA1-Digest: eQq5kN962tpFQ4AkpR+8+N+2/SU=
+
+Name: assets/bt0/a01.png
+SHA1-Digest: uy3kvz8wY9tZDUlOm+UzWth0vuM=
+
+Name: assets/RoundOkButton.png
+SHA1-Digest: ZikwGcfaBm6pwigPnPl/WJNPVEE=
+
+Name: assets/DexterityProgrBrown_1.png
+SHA1-Digest: wODxYmjQ3rW8yZVnz9R/mSTEGFc=
+
+Name: assets/BigBoss/17.png
+SHA1-Digest: dTqFLp9Z7t/jLjVussSb3VrBa1U=
+
+Name: assets/FreeReals.png
+SHA1-Digest: rNnLsehKJj0fautkZnRvjoE5kmo=
+
+Name: assets/wp0/s79.png
+SHA1-Digest: cPjA8q98FPe+MzLxjaJcVhHoNkQ=
+
+Name: assets/wp0Big/sab1-ipad.png
+SHA1-Digest: Izaa62Dbtw4uSrZplCs1v4ffcJ4=
+
+Name: assets/013-ipad.pvr.ccz
+SHA1-Digest: Xjml0oaeyFTBsb0MnkKVYTuGPck=
+
+Name: assets/town1.png
+SHA1-Digest: Rnrf5eaxpx+43zl3kpkCF7aV1zA=
+
+Name: assets/0e-ipad.tps
+SHA1-Digest: bBvscT8WWtYlSVVSDpoofZqitPA=
+
+Name: assets/6.jpg
+SHA1-Digest: tMkK1t4GW+Y4moHh9xrvwqWpq3Y=
+
+Name: assets/s0c.png
+SHA1-Digest: YckPMPPNO2kyr9S3zItWm2DEuic=
+
+Name: assets/icon@2x.png
+SHA1-Digest: oLbE/vvcHuS1E3UinqcpAXHTXkU=
+
+Name: assets/wp0Big/s6f1-ipad.png
+SHA1-Digest: QYfQrkQzrK8E4OY1AlcEvkfOlZw=
+
+Name: assets/wp0Big/sb3-ipad.png
+SHA1-Digest: x0uBmmU9RfPWiidy4o3MVUKvcuE=
+
+Name: assets/50.png
+SHA1-Digest: FEj8NY7pzSnOi2sMB37WwOc8M8E=
+
+Name: assets/wp0/s36.png
+SHA1-Digest: j9bu12dfYLDe6VG0Ykw1KeCpW+Y=
+
+Name: assets/pk0/p09.png
+SHA1-Digest: zhDqxbC6JqlcSC0Kzga7qt9zbDM=
+
+Name: assets/012-ipad.tps
+SHA1-Digest: pHOB7TnbbbrZV6b0casm1NI311Q=
+
+Name: assets/wp0/s81.png
+SHA1-Digest: 7WOa1mBDWyo8TwGv9h9aFITEjms=
+
+Name: assets/GraphicDump/0c/00/0c0500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/Animation/x02.pvr.ccz
+SHA1-Digest: 0wrC247kqVpdJL1CnDnrGNouk4U=
+
+Name: assets/wp0Big/d03.png
+SHA1-Digest: fZE9UCw9nlhsgtIO1gYkViavHLI=
+
+Name: assets/Battle/7.pvr.ccz
+SHA1-Digest: GeRlJ4rkVwL9TaaMWIS9b3E5Lzo=
+
+Name: assets/stumpButton_3.png
+SHA1-Digest: c/pT3GC8Ir8OyPSbhlRETJkKscc=
+
+Name: assets/wp0/s40.png
+SHA1-Digest: KbvjcydvtClEJ5ajMVsICfBIqrQ=
+
+Name: assets/wp0Big/sac.xml
+SHA1-Digest: xZVAX9LjQZUeQXOcJFVrSTJBuTo=
+
+Name: assets/wp0Big/s11.xml
+SHA1-Digest: sLON6fQ2bJpovK+p25C7Q+0WW5M=
+
+Name: assets/gui/open.m4a
+SHA1-Digest: wVsjj4L3EJi8xtX14F3hzCqzsKo=
+
+Name: assets/PrizeChest.png
+SHA1-Digest: BswO2+fht6h2nb4dvA3sNu1d6JI=
+
+Name: assets/Animation/x10.png
+SHA1-Digest: oSSfBBWN+uCB1vAk69vkCdSlvII=
+
+Name: assets/wp0Big/s84.xml
+SHA1-Digest: oob4Rn/3/XZ1V08x2hMUqIjemm8=
+
+Name: assets/wp0Big/s35-ipad.png
+SHA1-Digest: UQIwvISjOck4MSaVrPKDf1UmgmI=
+
+Name: assets/wp0/s67.png
+SHA1-Digest: fvwSQQ/5R7MzAB8rCVJK41dl4t8=
+
+Name: assets/Battle/11.pvr.ccz
+SHA1-Digest: th+aOUzguJAHuW6vjIEaCoqgBvI=
+
+Name: assets/wp0Big/s36.xml
+SHA1-Digest: ajJIuqfxlcldQw98/ip3elNoSug=
+
+Name: assets/Tahoma20.png
+SHA1-Digest: Z0iIXYZbv7P4uSdOux06YbFZFRY=
+
+Name: assets/Animation/x03.plist
+SHA1-Digest: XaPXJh4HC8QmzXsKBQk/8Geissg=
+
+Name: assets/fLabel.png
+SHA1-Digest: f0WRL8n9dud2CzcnOKZlAB7vf68=
+
+Name: assets/wp0/s37.png
+SHA1-Digest: Z7F5Goz1NjoOkbQrPIXKeEQxarg=
+
+Name: assets/wp0/g01.png
+SHA1-Digest: DjaVQ2rtKmbF8+A+JibyFsIduFA=
+
+Name: assets/wp0Big/s36.png
+SHA1-Digest: TpVCy+kJ4EeZxKksfssypy9M6/o=
+
+Name: assets/window7.png
+SHA1-Digest: 4Urzwe37h9wUDQlRn2JhIceAdQI=
+
+Name: assets/07.tps
+SHA1-Digest: 3HvXBX7JhPvMvDG3exZcK+ZNfyY=
+
+Name: assets/PowerProgrBrown_2.png
+SHA1-Digest: FhYiYUXyN7Dx1V1WPoXCRxDV50g=
+
+Name: assets/DailyBonus-ipad.plist
+SHA1-Digest: m0MKucet+KjxHuMgdL10ALYei0E=
+
+Name: assets/sv0/a08.png
+SHA1-Digest: a3Rz3ckGQmt+3xbN7UtjPmWK6Lc=
+
+Name: assets/wp0Big/s14-ipad.png
+SHA1-Digest: xk3ZKnTn7O1C9ZCrnVbsehWQG5I=
+
+Name: assets/x04.tps
+SHA1-Digest: /5kMI60cqxQ3zTxI+J0OgKQV3rQ=
+
+Name: assets/ButtonCancel.png
+SHA1-Digest: 3WXGObBoMsuhhqtqVjsSbpxGhmA=
+
+Name: assets/ru.lproj/NewFightGift.png
+SHA1-Digest: +RdMIda/fmP9ZKKMGkO0HZCIZ08=
+
+Name: assets/perks2.png
+SHA1-Digest: jHM2QmZYeTMzk+vQZCNkrP/lZhs=
+
+Name: assets/PrizeExp.png
+SHA1-Digest: 8IHUtuv2kcCvWmAksGuPvBwlnE0=
+
+Name: assets/window3.png
+SHA1-Digest: 5kr8Sz3aCwIuNEvzZsWaG4Eun0A=
+
+Name: assets/ac0/a01.png
+SHA1-Digest: p7MkRdm2Si8tH9xwT2fM9EOGd2I=
+
+Name: assets/wp0/s55.png
+SHA1-Digest: vUE+x1eO6+wsJUOL/wId3P2xDjA=
+
+Name: assets/en.lproj/Tutorial-ipad.xml
+SHA1-Digest: +NfOHwF5wtJ1L5HonkafO2XrDlo=
+
+Name: assets/wp0Big/s6e.xml
+SHA1-Digest: ykQ5rPvAg6L/L5utMr2BzuPvlmY=
+
+Name: assets/wp0Big/e02.xml
+SHA1-Digest: N1uWkEkWcd60Tu0ajTFbEdlyXLk=
+
+Name: assets/wp0Big/s55.png
+SHA1-Digest: jdlLrJwvZ188Yo5EyDRHsVEC4V8=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 7Ft/Rirt+l/JRX2KjDREScdbCZk=
+
+Name: assets/pk0/p31.png
+SHA1-Digest: VhjnWJlGubVXHrtSXnHe/t+5dXo=
+
+Name: assets/bag/bag04.png
+SHA1-Digest: QxVz2O7y4Z5ULeHDPCys0UN56HQ=
+
+Name: assets/BattleFail.png
+SHA1-Digest: 6LPnmMINmmoSv+yYpgAl/q/hzrQ=
+
+Name: assets/mLabel.png
+SHA1-Digest: GAo2k15b+gjiOJz6rh+voKudA+4=
+
+Name: assets/expFont.fnt
+SHA1-Digest: sWjaXdK79boPVxwh7ssZe0znKAo=
+
+Name: assets/en.lproj/coordsData.xml
+SHA1-Digest: dehajMon/af9+PP3rPbOdQckrFg=
+
+Name: assets/47.png
+SHA1-Digest: sy8CTGE2pEuu+Z/g9RJ2oAn90N4=
+
+Name: assets/wp0Big/s101.xml
+SHA1-Digest: 8FYXIqYj97ANfSTHMtsct00lxss=
+
+Name: assets/ac0/a22.png
+SHA1-Digest: OaVB/8O43R6JVEou9lcukN3IWkA=
+
+Name: assets/GraphicDump/0b/00/0b0500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/minusLevelPerk.png
+SHA1-Digest: d3CprvCzFdwW1ID2IsZc4U1xAnI=
+
+Name: assets/en.lproj/Code.png
+SHA1-Digest: qTsJRnC7+Wf04XZ2dkgYvp7YTA0=
+
+Name: assets/BigEnemies/13.png
+SHA1-Digest: DvYmKGK2uz1txiYp7ORyLyMZBo8=
+
+Name: assets/wp0Big/s84.png
+SHA1-Digest: j1fRNpPC0kM+xlOUqMkc+NiXOH4=
+
+Name: assets/wp0/e02.png
+SHA1-Digest: G4Z25sSWw8ZVbExvIvUW70waYDc=
+
+Name: assets/sv0/a22.png
+SHA1-Digest: mWAWJqfUdSRl9RwOsIOvC1nwryE=
+
+Name: assets/41.png
+SHA1-Digest: Kw/khYKgmJNyi4NiIj6GlXDWaaE=
+
+Name: assets/price.png
+SHA1-Digest: GTpTehynqEpeWv29LRe5Y8j+SRE=
+
+Name: assets/NewsTabAdmin.png
+SHA1-Digest: iu+Bz0L+CllY4wuAG/TUc2Cy1qE=
+
+Name: assets/x02.tps
+SHA1-Digest: c9rfC7PCNfvGyFHtGdQyO98OdGI=
+
+Name: assets/wp0Big/s69.png
+SHA1-Digest: JPYxBgQUTReIyiE6DHbT2Xpz+WU=
+
+Name: assets/x10.tps
+SHA1-Digest: I+zqgCKqypfEpU6NkZzUnQdV/is=
+
+Name: assets/wp0/s4d.png
+SHA1-Digest: 3W8ack9H1IAI8gVB6lBAiFsiLT8=
+
+Name: assets/LevelMini.png
+SHA1-Digest: n+j2itgWqNkPnx6Wcza+/yM7yIU=
+
+Name: assets/09.tps
+SHA1-Digest: 3UdiqlZFLfOdidlD/G19/JTfD/8=
+
+Name: assets/wp0Big/s05-ipad.png
+SHA1-Digest: 7mm0tDfTgcD1HfGai5oQfzTImXk=
+
+Name: assets/wp0Big/s111.xml
+SHA1-Digest: JxrmrbyxrNtw7FsjQCpIwDOrE2o=
+
+Name: assets/Tahoma40.fnt
+SHA1-Digest: hoEpTyYm6/RFJ5SIgdZIniJ/2FI=
+
+Name: assets/flowerButton_1.png
+SHA1-Digest: Epl60Y4vNqZnBLou5IF5pMcMY0w=
+
+Name: assets/bag/bag18.png
+SHA1-Digest: n3xTOg4+OWU4kwbMD/SdnkUSjRs=
+
+Name: assets/DexterityProgrBrown_2.png
+SHA1-Digest: d6+bsKxlESnzx89sb5izvt7u8cM=
+
+Name: assets/ru.lproj/Tutorial.xml
+SHA1-Digest: kplpHEiAjgmuQvxaxqmEg5j/Zd0=
+
+Name: assets/wp0Big/s76-ipad.png
+SHA1-Digest: 4nK6lDePW+Bo1IlXez2wtz6XorE=
+
+Name: assets/GladeBackground.jpg
+SHA1-Digest: k0CkQb2eKoMkP60aV471u0Lz0Go=
+
+Name: assets/endurance.xml
+SHA1-Digest: NDKbuKZhbxbc7CmnIwcJ+9gmDuU=
+
+Name: assets/ActivePrize_1.png
+SHA1-Digest: 9OqpeQlbOCu7f5LS4+wP5HvYypc=
+
+Name: assets/45.png
+SHA1-Digest: I5wfhUlK8cA7rraRRZF0iLExNyo=
+
+Name: assets/wp0Big/s105.xml
+SHA1-Digest: 7omrbWYBfHkJVX3oKNyItgW6Va8=
+
+Name: assets/wp0Big/s8e1.png
+SHA1-Digest: Ww47EOBKFz5rqZIwWa8WtBxXTVk=
+
+Name: assets/BigEnemies/16.png
+SHA1-Digest: oDKIQCFdJvPfMvCyxyYrvzjmkeo=
+
+Name: assets/bt0/f03.png
+SHA1-Digest: ynuTadJb3Dj0sRIc6TRDAUYB4Y4=
+
+Name: assets/53.png
+SHA1-Digest: HcTGW20Lz5u75S2Zixhu7UoOymE=
+
+Name: assets/tutorial0.png
+SHA1-Digest: 0AtIW1onmEHCBTE2r/++fHlbqQI=
+
+Name: assets/WheelOfFortune-iphone.tps
+SHA1-Digest: JzizPkt52JZCKIpDujxZ8ecb9kw=
+
+Name: assets/InputieldBackground.png
+SHA1-Digest: MCAqgj4sZjpzgtiH5k9gG0puVfs=
+
+Name: assets/Tahoma16.png
+SHA1-Digest: Nde+YFetDYQPYcptMP1eQRaKW0E=
+
+Name: assets/GraphicDump/09/00/090600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/Animation/arenaElk.plist
+SHA1-Digest: ULqreKhonldpsEOVpXFKgRDFifA=
+
+Name: assets/ac0/a03.png
+SHA1-Digest: BjopkmfoHFJWYAd/7MHgu67mKF4=
+
+Name: assets/ExpProgr_1-ipad.png
+SHA1-Digest: LEZK9L4E2FNj0E/iMRSVrIfeNag=
+
+Name: assets/wp0/s42.png
+SHA1-Digest: 8DT/x3ayi5mEDywu1P574zytfYs=
+
+Name: assets/49.png
+SHA1-Digest: 6CJSspNgLGjYW0pMkB42zgLWRqw=
+
+Name: assets/AttacImg.png
+SHA1-Digest: zE/zxwB8pUb73CQeRui6PCRliZU=
+
+Name: assets/wp0Big/s15-ipad.png
+SHA1-Digest: lEBXkrsRegkaKFqKFsBDToCm/nk=
+
+Name: assets/ExpProgrSmall_1.png
+SHA1-Digest: rNsS64geFfINRsQbjlFDRR2C0+U=
+
+Name: assets/wp0Big/s81-ipad.png
+SHA1-Digest: YvuhhD82wBiY53R/1SzcBzkZf0w=
+
+Name: assets/wp0Big/sa9.png
+SHA1-Digest: gTbKlr2SHblF3WKCLZQaoaJTyM0=
+
+Name: assets/wp0Big/sab-ipad.png
+SHA1-Digest: +S7wHgl6eHLSPrfgIKXC42MIhrI=
+
+Name: assets/wp0Big/s105.png
+SHA1-Digest: L99ZtrX/Hfjje5mWbFPKJAct+jk=
+
+Name: assets/wp0Big/g01.png
+SHA1-Digest: UzzEQ50UVUtILd9sgwR7zktOr1c=
+
+Name: assets/24.png
+SHA1-Digest: a0EeudktnpCRaGFjI9qnUVA1rmE=
+
+Name: assets/ButtonFacebook.png
+SHA1-Digest: gOMgsEPxQsMuEpkbEK+F6u6eSRU=
+
+Name: assets/wp0Big/s7b-ipad.png
+SHA1-Digest: gvOys1w1TPFpqGgUSnG0SjtPDCg=
+
+Name: assets/wp0/s9d.png
+SHA1-Digest: z/ZAXBtxodbRZOiN7bvlB75H5u8=
+
+Name: assets/achiev_level_1.png
+SHA1-Digest: Y8eOU86JVqrUJ6WdOst26zm7NUo=
+
+Name: assets/BigBoss/15.png
+SHA1-Digest: NXoZcrNjgmvzko+bRaC86AKJQwI=
+
+Name: assets/wp0Big/s67-ipad.png
+SHA1-Digest: gT5LNvmYWJCXTROt40REAtVIaYQ=
+
+Name: assets/GraphicDump/01/00/010300/lib.xml
+SHA1-Digest: 0qaWJXzNCDzfLHR3WmY46SOMffI=
+
+Name: assets/ru.lproj/Bosses_button.png
+SHA1-Digest: 1GbreUMPnBJcvkq569owwazsPr8=
+
+Name: assets/Tahoma18.fnt
+SHA1-Digest: pLQXMQYM2HHcjpqrZpu41JiUsoQ=
+
+Name: assets/en.lproj/MenuGraphic.plist
+SHA1-Digest: 529YSzEP4jzmFeFNf++INKqpo94=
+
+Name: assets/ShopBackgroundWhenBuyWOPrice.png
+SHA1-Digest: ErT24c4ZD9jMaKFK+FF0Hyky5Qg=
+
+Name: assets/en.lproj/WinLabelEnergy.png
+SHA1-Digest: 6FFgqvuNwHRQri7sinuKNr+K9nc=
+
+Name: assets/58.png
+SHA1-Digest: XiFBYJ8vWE+CCWTiIEig+Vimd0I=
+
+Name: assets/wp0Big/s112.png
+SHA1-Digest: vXB4N4rebHHojEcx5kf+4BzVX+A=
+
+Name: assets/Pers/17.png
+SHA1-Digest: GtG0+pR9aP548xtoTwf81moiBFs=
+
+Name: assets/wp0Big/s69.xml
+SHA1-Digest: CZBx/25/z6SJYROwWOfcl/IT5Rk=
+
+Name: assets/wp0Big/s99-ipad.png
+SHA1-Digest: fiJq8Derb5PAAwg+kP3W4Fmhix4=
+
+Name: assets/message6.png
+SHA1-Digest: FetY6JsqFRALLvCla5NkHOH4y7I=
+
+Name: assets/wp0Big/s28.png
+SHA1-Digest: KdhTqV5lBsKakceqLgcHY3yZp50=
+
+Name: assets/0a-ipad.tps
+SHA1-Digest: rz44pFL2SH2GEjRcc9Yry/fS2qs=
+
+Name: assets/endurance.fnt
+SHA1-Digest: zdVO+0gAV4tj3Q8VxoQ7An+7F5o=
+
+Name: assets/wp0/s9b.png
+SHA1-Digest: RKZCzMk2CYgvImnk5/la0oZiMJw=
+
+Name: assets/wp0Big/s9d.xml
+SHA1-Digest: VYI6jADV7+VbuBRgCZaGotRRZDg=
+
+Name: assets/pk0/p19.png
+SHA1-Digest: i5oyG8z9AI0/8+dBHco7qKCNCnY=
+
+Name: assets/02.plist
+SHA1-Digest: I0NqvsjnlaBPONtyYh3hE09H8bQ=
+
+Name: assets/grass.png
+SHA1-Digest: cuyNpWjkzSOIBxwyuMPJjoh3NWs=
+
+Name: assets/GraphicDump/04/00/040800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/bag/bag05.png
+SHA1-Digest: 0OPEW+1nZfKAcyMgUx2oreSMznw=
+
+Name: assets/wp0Big/s31.png
+SHA1-Digest: zkowjibkeVG8POk8Ass+5uRrPNE=
+
+Name: assets/wp0Big/s35.xml
+SHA1-Digest: HMPcGI5uLCXEcClfF9jOFSj5S0w=
+
+Name: assets/Animation/x07.png
+SHA1-Digest: HiZWb2UjL3rKDYY37LCFbfr2t1o=
+
+Name: assets/icPaper.png
+SHA1-Digest: kA4Swh/4MC0xNk0zLe5/XbXO28s=
+
+Name: assets/wp0Big/s110-ipad.png
+SHA1-Digest: GdtLWwAHMb9EV261mU2e5tZApbU=
+
+Name: assets/wp0Big/s88.xml
+SHA1-Digest: 5olwV0XgHiryYLqKIixdy1lZe8o=
+
+Name: assets/Animation/arenaSmoke1.plist
+SHA1-Digest: zejZZxZplHcCYTN9YQGotKIbEQU=
+
+Name: assets/Animation/x0e.plist
+SHA1-Digest: fbFWwYclJeIa5NvZvKA1iNBtkwU=
+
+Name: assets/wp0Big/s6a.png
+SHA1-Digest: /+dq9CNinq/pFpmz83HskGuqSew=
+
+Name: assets/08-ipad.pvr.ccz
+SHA1-Digest: gxI7PyqGFdVBj7wFRwexhHN+1Xs=
+
+Name: assets/Pers/8.png
+SHA1-Digest: U1L7AUyYI5Z+p/MaLO+0LvwaS7Y=
+
+Name: assets/wp0/s8a.png
+SHA1-Digest: mLnjavpawdK2PbfVVW21PZJhEr4=
+
+Name: assets/wp0Big/sa0-ipad.png
+SHA1-Digest: /pTm8hOxcGTFU+rqXHCCq0EpH5A=
+
+Name: assets/gui/level_up.ogg
+SHA1-Digest: 4nvWrWX3QCIQpLq3jo2GAiJBvpo=
+
+Name: assets/Animation/x08.pvr.ccz
+SHA1-Digest: EPe6bQXf1A/xAzEgyVXvFsYUNDM=
+
+Name: assets/GraphicDump/0d/00/0d0800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/GraphicDump/09/00/090800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/bt0/z01.png
+SHA1-Digest: STYYVtkubjYLgWm1/k+v/I7hzb4=
+
+Name: assets/sh0/s05.png
+SHA1-Digest: cFgEYxoo2Onh3zZKPtms2hQKeWM=
+
+Name: assets/ef0/x0b.ogg
+SHA1-Digest: 7oURYVeuS/5Q/l92m+EkjheVDgE=
+
+Name: assets/StaminaProgr_2.png
+SHA1-Digest: IMsYBJ2pLE169jCRofDpzThzD7Q=
+
+Name: assets/wp0Big/s751-ipad.png
+SHA1-Digest: 3J3IOy+j4J4I1r1XEf/9z4pJLhA=
+
+Name: assets/ButtonView.png
+SHA1-Digest: oXfibpIfnuT2fPfUVO4UjpKXQuM=
+
+Name: assets/wp0Big/sa3.xml
+SHA1-Digest: cViDHkzl4uvE9J6gfFM8OTRMwxo=
+
+Name: assets/wp0Big/sae.png
+SHA1-Digest: Ba0C6dMtiGYwXvhRy+f+meaJVUw=
+
+Name: assets/ac0/a26.png
+SHA1-Digest: P7JiDeaqrJA88ut36WaLQeAc9GA=
+
+Name: assets/RealGift.png
+SHA1-Digest: W6qZIJ2FtGaJfjLc2ButSGwEASA=
+
+Name: assets/wp0Big/g01.xml
+SHA1-Digest: o562aHz8sq0uFhKwYfkVIeiPK3w=
+
+Name: assets/wp0/s66.png
+SHA1-Digest: HRVNoJRmyZzlglqQpLt443lPrMs=
+
+Name: assets/wp0Big/s9d-ipad.png
+SHA1-Digest: lPeHW12q9p4ifLeC4oKW5y5nO04=
+
+Name: assets/x0d.tps
+SHA1-Digest: KsQbHss3PqpvaFtYGFFKdsDttj8=
+
+Name: assets/wp0Big/s9c.xml
+SHA1-Digest: MPWsEsxbDNy6SFIk+v1chMUTLpY=
+
+Name: assets/wp0/sa5.png
+SHA1-Digest: 9hS/+/ArJDlJu7UnUbBzjPj4awk=
+
+Name: assets/wp0Big/s39.png
+SHA1-Digest: TUDqWVG4YyKHxvHpNnsZes2a+fo=
+
+Name: assets/namePad_1.png
+SHA1-Digest: FCsAGToOwJWvG2l6k1mN3TYQozg=
+
+Name: assets/NewsNotification1.png
+SHA1-Digest: 4BxjNKiXIezlBZErFVy7Isp4A7c=
+
+Name: assets/sv0/a01.png
+SHA1-Digest: brJcvJTDr72TqSXOJaSdjMoyoGo=
+
+Name: assets/ExpProgrSmall_0.png
+SHA1-Digest: RQCpJgc3Voy8HZGIt02AjegH6sA=
+
+Name: assets/wp0Big/s47-ipad.png
+SHA1-Digest: H6+IQMcgRiaxwbLyCPuFEy9Q0bs=
+
+Name: assets/wp0Big/s45.xml
+SHA1-Digest: NfvuqivMCM7xMy1QA2niMIJCsQ4=
+
+Name: assets/wp0Big/s74.png
+SHA1-Digest: wjFeXmer0VqA0bmuxyjcIMNXp68=
+
+Name: assets/010.pvr.ccz
+SHA1-Digest: H/sOLQoUflpyHSJJbTlAxT2tnW0=
+
+Name: assets/wp0Big/s03-ipad.png
+SHA1-Digest: DKsMczknDLFryyAhNacUlEiGLv0=
+
+Name: assets/ComponentButton21.png
+SHA1-Digest: 0oKH6Qc5zbldv0ad0ZmGQpkunlI=
+
+Name: assets/13.png
+SHA1-Digest: RQ60tQfQHlKhm83TBt743M6rARo=
+
+Name: assets/wp0/s03.png
+SHA1-Digest: fzee57EzCnjP4wicrf9yHgp3v0o=
+
+Name: assets/sv0/a25.png
+SHA1-Digest: jazOHE8cLcrhCJzIEbDBBsoPOo0=
+
+Name: assets/Endurance_2.png
+SHA1-Digest: OxRvz3CTvk5IxbVU7Bqm6qaFqEc=
+
+Name: assets/window6.png
+SHA1-Digest: SJnOOMVlsq9IfQwwmQvvNYum1rA=
+
+Name: assets/bag/bag15.png
+SHA1-Digest: 7+f6tAu9xcdezkgwMLBOMg0PAtU=
+
+Name: assets/fontArenaPink.fnt
+SHA1-Digest: dvUQOWLs7BLwCbP9gWcQbVULINw=
+
+Name: assets/tutorial8.png
+SHA1-Digest: MIpReNio51mIt8XtqZ1fipx+YKc=
+
+Name: assets/wp0Big/s28-ipad.png
+SHA1-Digest: csoyPZ7MzmCSTM9Dgfv4IVlUeSo=
+
+Name: assets/agility.xml
+SHA1-Digest: S3eYG0/7mLDqvSujoXSPP+p7OBw=
+
+Name: assets/4.png
+SHA1-Digest: 1+1Rn1aXjP0uLDld6cF3A6lGZMw=
+
+Name: assets/wp0Big/saa.xml
+SHA1-Digest: P3wWm8944q3jWm9MNAxASyCRqq4=
+
+Name: assets/GraphicDump/08/00/080000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/25.png
+SHA1-Digest: PtNZOCxNYnFWS8hbVhnUd1zcoHg=
+
+Name: assets/Tahoma22.fnt
+SHA1-Digest: CbEFF62CkWp5pkh2eSzsUWpA3JM=
+
+Name: assets/wp0Big/s7e-ipad.png
+SHA1-Digest: Aak/BYs+72nIX5rCEKn2YI+8E0k=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: H23FoPoI0SKeXDeTFY3pUYMvndU=
+
+Name: assets/wp0Big/s9a.png
+SHA1-Digest: nyNmtIchafoP89yTn+JcBbFxBFA=
+
+Name: assets/scrollArea2.png
+SHA1-Digest: iYCli/SAEjA6+oCMEENTx/jHPUU=
+
+Name: assets/ru.lproj/GeneralLocalGraphic.pvr.ccz
+SHA1-Digest: emhKRE4lJkRlLOfhlUdehUUMfeA=
+
+Name: assets/09-ipad.pvr.ccz
+SHA1-Digest: j7HsIfvCUxxrK+Eec4eEH4EsFxA=
+
+Name: assets/wp0/sb3.png
+SHA1-Digest: MOrt51RxrhQRAUMf8VYQDbTcvZI=
+
+Name: assets/GraphicDump/03/00/030800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/wp0Big/s04.xml
+SHA1-Digest: 7GnHJz+tjPwAHSiUwZu6bAE5WNM=
+
+Name: assets/Agility_0.png
+SHA1-Digest: zyzxs/M2EiPAk2WoMJjVu884Yuo=
+
+Name: assets/Animation/x0d.png
+SHA1-Digest: Eaga4l/zsvLkC+4zrtSdrZ/OQZA=
+
+Name: assets/GraphicDump/0d/00/0d0600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/PowerProgrOriginal_1.png
+SHA1-Digest: CXOEYY4Tu+SzVVVPjerYWBNWa+0=
+
+Name: assets/GraphicDump/0b/00/0b0300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0Big/s101-ipad.png
+SHA1-Digest: 48LJVqLlvfsmLfUekYRjSWxDI3Q=
+
+Name: assets/slotMar.png
+SHA1-Digest: cjfsCqpCZXeQxd/6ZbUU6MkjbG4=
+
+Name: assets/moneyBG.png
+SHA1-Digest: tmv4By8zOQUEqplFxAh1P8RZA/g=
+
+Name: assets/wp0/s72.png
+SHA1-Digest: ZCy92/hwtZLElm0dKGNuZezhB6A=
+
+Name: assets/wp0Big/s105-ipad.png
+SHA1-Digest: vHwYeXYZ1fvGhLmWcg+RpKWxS28=
+
+Name: assets/GraphicDump/07/00/070600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/wp0/s45.png
+SHA1-Digest: DeYtN3LSkzr45W7ycx7Rt5r/oSU=
+
+Name: assets/bt0/c02.png
+SHA1-Digest: aSibTQT6TP5sIVMtkPcJJYWAY5c=
+
+Name: assets/health.xml
+SHA1-Digest: d7EWA9st9vyqyOw1e2UBJ39lKlM=
+
+Name: assets/013-ipad.plist
+SHA1-Digest: xWfkovw8XtrEhYrVcr3eD82n1Q0=
+
+Name: assets/achiev_bg_6.png
+SHA1-Digest: kfVUXSNPx3FRa3Zje5eOmRX4Zwk=
+
+Name: assets/Battle/9.pvr.ccz
+SHA1-Digest: 9Wo4Tbr5NAVjHd3oYho8qJj4hs0=
+
+Name: assets/gui/loose.ogg
+SHA1-Digest: 2m+jNlyp492uTRs2EJgXijyF9Yk=
+
+Name: assets/LiguesButton.png
+SHA1-Digest: 1A2wk0jWiPJ6joZZE8RNjjyMn4s=
+
+Name: assets/interface/page_flip.ogg
+SHA1-Digest: zmXQozwzeVkaZlB8aRJgAPo2qoY=
+
+Name: assets/GraphicDump/04/00/040000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/Animation/x10.plist
+SHA1-Digest: lCxNRB6UD1ewH4EzYqnfdPymeBE=
+
+Name: assets/wp0Big/s93-ipad.png
+SHA1-Digest: dBvumgavSz0KbNuHJbpaypDFyeU=
+
+Name: assets/en.lproj/AglityCrystal.png
+SHA1-Digest: VcbP4jaGD6ywmQa1MYa+2nj7rOM=
+
+Name: assets/perkLevel5.png
+SHA1-Digest: XG4wlIsVQ7nXQdlwz1iKYro3SWM=
+
+Name: assets/slotShadowed.png
+SHA1-Digest: UDDS9lp3KbyWPznuQFvoK1gY+8o=
+
+Name: assets/PowerProgr_2.png
+SHA1-Digest: vwgc7yxkM5HNf6DNG6Xu7veLHJI=
+
+Name: assets/GraphicDump/05/00/050500/lib.xml
+SHA1-Digest: V/WeCTT8sEhNASbqA8OmQOT9SZs=
+
+Name: assets/pk0/p14.png
+SHA1-Digest: jLZhwxPd0Vv5j+tl6dytHglv8To=
+
+Name: assets/gui/next_page.ogg
+SHA1-Digest: dBNQcglq7lEYpZL6VjhZfs8+Kms=
+
+Name: AndroidManifest.xml
+SHA1-Digest: GDBto4YAM5t8wHLzotEzIr06+YI=
+
+Name: assets/ArenaBackground.png
+SHA1-Digest: +eHjlFKqWlaEbdd9V3G8ryQvGEg=
+
+Name: assets/hint0.png
+SHA1-Digest: +q/XFYMNmqK96qwM42QT/CLlg58=
+
+Name: assets/wp0Big/s8a.xml
+SHA1-Digest: zioQ3hxn1cEQIhQ0gelg4RDewE8=
+
+Name: assets/wp0Big/s76.png
+SHA1-Digest: 06h7qUOk9Ag2fIyYRp9SUt/cOIQ=
+
+Name: assets/wp0Big/s8f.png
+SHA1-Digest: LF9HJ318RfZ1EqkvwydGjSm0Jko=
+
+Name: assets/GraphicDump/0d/00/0d0500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/CircleArrow.png
+SHA1-Digest: FEVOrQqYFn2WCv3fBpZWGtyQKlc=
+
+Name: assets/Animation/x0a.plist
+SHA1-Digest: kXZKOdBut4AW5Yhp/HRjJDC/1+g=
+
+Name: assets/wp0Big/s6c2.png
+SHA1-Digest: Xme9cZd6+a1avOJM5vq7sqXU6vQ=
+
+Name: assets/wp0Big/s04.png
+SHA1-Digest: S/IpBOMAKAvvhfCBWWbRYVO0WcI=
+
+Name: assets/pad2.png
+SHA1-Digest: zGCSjddu8OmVEQ+d5AHXUAUnhS8=
+
+Name: assets/GraphicDump/05/00/050800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/wp0Big/s681-ipad.png
+SHA1-Digest: rsETonREPhCYybk/KTtjv0Rx1eg=
+
+Name: assets/wp0Big/sa0.xml
+SHA1-Digest: IYshIMA+8J4qLXDvuLtP9g6qIHQ=
+
+Name: assets/DailyBonus.tps
+SHA1-Digest: yYsCsrGotP14YEyGNQYzS0tMzIs=
+
+Name: assets/pk0/p04.png
+SHA1-Digest: UeExMJ3Quce2Q2GRSb04Ix+2qkY=
+
+Name: assets/wp0Big/s31-ipad.png
+SHA1-Digest: uanMYbFcVNnrcqlRswYsaCKvXuA=
+
+Name: assets/14.png
+SHA1-Digest: xCjKc7CNxvFLLX/dL4vSRso238U=
+
+Name: assets/fontArenaOtang.fnt
+SHA1-Digest: CGWfMTmJT3I1cW2N06vcnwXfKII=
+
+Name: assets/GraphicDump/0e/00/0e0300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/Tahoma18.png
+SHA1-Digest: eP+hTx6N4ZgAN0ei/vAqK0fNRuo=
+
+Name: res/layout/custom_notification.xml
+SHA1-Digest: N9PmzTNxxvn4xs/oXt/PjKlRU08=
+
+Name: assets/wp0Big/sa6.xml
+SHA1-Digest: mXo9nDFTzyBgHN4vNVGRqmYkFdc=
+
+Name: assets/WheelOfFortune-ipad.plist
+SHA1-Digest: iMb2olK3PUKCRUmifaGcLVav8PQ=
+
+Name: assets/wp0Big/s751.png
+SHA1-Digest: 3vaYGMDUdrbFpnCHzgVbkzGJZ8U=
+
+Name: assets/011-ipad.pvr.ccz
+SHA1-Digest: cHKGHRuCUD/P9VJqTfduLHy6SIo=
+
+Name: assets/message1.png
+SHA1-Digest: 3XaEStSOChisNeiFRFKP3TZ1SWk=
+
+Name: assets/interface/book_open.ogg
+SHA1-Digest: iJ1PbuTAp2bdP2dLXAkDYHS4brs=
+
+Name: assets/ef0/x09.ogg
+SHA1-Digest: Sk4Hfk1ANVBjVRU2jlqw+fL1rws=
+
+Name: assets/07-ipad.tps
+SHA1-Digest: a82ZmeL80zPpx+j6f+qSUVt1JSk=
+
+Name: assets/wp0/s24.png
+SHA1-Digest: Eo3Mtzg/ex3NkZGwTngUNagK3Cc=
+
+Name: lib/armeabi/libcocosdenshion.so
+SHA1-Digest: 9895Qvi5/UrXmKGtHovoIAdM28w=
+
+Name: assets/wheelText.png
+SHA1-Digest: H/VwQqCVINa/YN+K/vxmDnONlS4=
+
+Name: assets/Ligues.png
+SHA1-Digest: cjpMzq0wCAfXT4yqpiGEsyVorlQ=
+
+Name: assets/wp0Big/s03.xml
+SHA1-Digest: P3FJW0RLNtQRyGmjBLxCfVnO4D4=
+
+Name: assets/pk0/p43.png
+SHA1-Digest: 4yuucFCLaJm8/8HCsUVyNQCQCK4=
+
+Name: assets/wp0Big/e03-ipad.png
+SHA1-Digest: 4dNt83xU4o8oD2q7m/QSYtWRabo=
+
+Name: assets/TabButton.png
+SHA1-Digest: dYsh93a3GVe4el6XxlJOpA7bGM0=
+
+Name: assets/ru.lproj/Town-ipad.pvr.ccz
+SHA1-Digest: 3qmMCscGClzSN31LoItK1Yup2Io=
+
+Name: assets/wp0/s9e.png
+SHA1-Digest: ltKr4B98rLRdaSpZ346FdiArVnQ=
+
+Name: assets/wp0Big/sb4-ipad.png
+SHA1-Digest: vVkJHcpsPx033E+dbm4NmDwmrXM=
+
+Name: assets/11.png
+SHA1-Digest: XMM7dgyZdZxcyb5pDt4UB/2UGNM=
+
+Name: assets/wheelPrizeBox.png
+SHA1-Digest: ZKZP3VWCWdKFmE15Y0jxsXns774=
+
+Name: assets/x.png
+SHA1-Digest: Vk5zFZ+xThRxGRJUt4IbpIHHF+A=
+
+Name: assets/wp0Big/s100.png
+SHA1-Digest: /G9uJY0G93W02LvRLmgnSqe3+RU=
+
+Name: assets/wp0Big/s721.png
+SHA1-Digest: zN/jR+lwdV6PexT/HnsxDiyWs8U=
+
+Name: assets/interface/drop.ogg
+SHA1-Digest: Qm1R2OmizWgToqaBpkgnfobYiog=
+
+Name: assets/PowerProgrOriginal_2.png
+SHA1-Digest: K0nuE1fet1dz4oig3EaX8XFeeNs=
+
+Name: assets/Animation/x0c.pvr.ccz
+SHA1-Digest: 1DUBdU/Su/HPgmtGfFQPw3CK+Cw=
+
+Name: assets/Coins.png
+SHA1-Digest: 5LaQJWOuZEEdR9B3IuAB1D+l9WI=
+
+Name: assets/wp0Big/s66.png
+SHA1-Digest: RA8wZjGtADIQlLOcMimHqIhNNPI=
+
+Name: assets/2.png
+SHA1-Digest: kcQyP9RkIhRcaPF1ILNON+surQg=
+
+Name: assets/Untitled-1.png
+SHA1-Digest: aKZ1Gu/vVTJnHNsTexrPyhURYAk=
+
+Name: assets/pk0/p07.png
+SHA1-Digest: O9eePIbp1Sq8P7ZkVNIsbKvV5Fk=
+
+Name: assets/03-ipad.plist
+SHA1-Digest: 5vcZP5ZA0qZaQs2N8To0EL1PFbA=
+
+Name: assets/ef0/x0b.m4a
+SHA1-Digest: pRbFwpoRHcZ60NyLPam1/ZKhBgw=
+
+Name: assets/perkLevel1.png
+SHA1-Digest: MherbSXxFWHDWb3KisxJgBa2uJE=
+
+Name: assets/s0f.png
+SHA1-Digest: fMCQgDuFprED5W1tHfQm34kYzfE=
+
+Name: assets/wp0/e03.png
+SHA1-Digest: V2LhqUJWKBvWBmAiIS2X+7QVmU8=
+
+Name: assets/achiev_bg_3.png
+SHA1-Digest: vdkXVjIFxFep7n5ruqedOBlS1sw=
+
+Name: assets/sh0/s0d.png
+SHA1-Digest: tQjscXc9ZabJhgQAVP9Y76+Dn2c=
+
+Name: assets/wp0/s74.png
+SHA1-Digest: zOg18/xjlh15bmME4TiPIbJ42/Q=
+
+Name: assets/wp0Big/s4f.xml
+SHA1-Digest: PSsw6KmD9a81vfyj95JzRS41fSU=
+
+Name: assets/EnemyWinRating_0.png
+SHA1-Digest: PlLhZuUJWBriCqcYyVknoV4M4vg=
+
+Name: assets/wp0/sa9.png
+SHA1-Digest: XUfs3K4gLFJTUMzNtXgCFvFxAPg=
+
+Name: assets/looseItemPad.png
+SHA1-Digest: ZTHnKeIql/hasPZWRoIfScBlAS8=
+
+Name: assets/Skils.png
+SHA1-Digest: EwNE21s/Ch74Df2KdXT8Wi0ujvY=
+
+Name: assets/arenaSmoke1.tps
+SHA1-Digest: FijqXjcNI2sHCZnrYo2R53MRw1c=
+
+Name: assets/wp0Big/s4b.png
+SHA1-Digest: cPYnO8T096j7ovIaRA0yO58kH2U=
+
+Name: assets/wp0Big/s6c2.xml
+SHA1-Digest: vl3/ll3wvAaT5Idw+9sfDu9Zu48=
+
+Name: assets/wheelFrame.png
+SHA1-Digest: uM9U0Rb5FL8pVuLB1OYJGOse4kA=
+
+Name: assets/ChatTextInput2.png
+SHA1-Digest: a4T7X3qijQhpatqEohekxGxp2iM=
+
+Name: assets/self_target.png
+SHA1-Digest: pjxu5fRbnz+OuSezrTWT0jAbzRM=
+
+Name: assets/achiev_bg_1.png
+SHA1-Digest: 7EyjpA8kgkDl3nqrpL+hE2XkgY4=
+
+Name: assets/wp0Big/s94.png
+SHA1-Digest: Z4SVgHcMxbM8/LIhXsRnOrAJZA4=
+
+Name: assets/sh0/s0c.png
+SHA1-Digest: Ksrytt6w2Awep/LUWAWIETCRZR8=
+
+Name: assets/wp0Big/s781.png
+SHA1-Digest: Hhwg8KQCsnB8JSOKTHlQoY+uArE=
+
+Name: assets/pk0/p01.png
+SHA1-Digest: e8VUqRa58gqtUUnCfsUHxpDXTsk=
+
+Name: assets/createChar_bg.png
+SHA1-Digest: 26I1qME3wK8zQ48Wu8N9K51GAzw=
+
+Name: assets/message3.png
+SHA1-Digest: 3XaEStSOChisNeiFRFKP3TZ1SWk=
+
+Name: assets/wp0/s83.png
+SHA1-Digest: rM98J9XcherD+rcZ8z84oK8BUQo=
+
+Name: assets/Animation/arenaSmoke1.png
+SHA1-Digest: 4fytjjkmzozJcFy/5Nd25Ik3DgA=
+
+Name: assets/slot4.png
+SHA1-Digest: wv6LAixLfZ6BWgFwfZ528Acgl0I=
+
+Name: assets/DailyBonus.pvr.ccz
+SHA1-Digest: B4iWlQvdF8YQhQ9USc2w6TKVfrY=
+
+Name: assets/x09.tps
+SHA1-Digest: v794Xl7GZ8K3/8Pe5t21h9H18n8=
+
+Name: assets/ru.lproj/Code.png
+SHA1-Digest: 6PBfVqfLOW+6QYUkNyWekQo1tgY=
+
+Name: assets/wp0Big/s21-ipad.png
+SHA1-Digest: O02QApr4NXyp3Gco6NZQ2IfvOYs=
+
+Name: assets/wp0Big/s04-ipad.png
+SHA1-Digest: t2NOX1NG4++RHB3Yh/Ahb6k7VBw=
+
+Name: assets/gui/elixir_set.ogg
+SHA1-Digest: 0F7HfpWfgG7eYPDEPaFIey/X7j4=
+
+Name: assets/BigBoss/18.png
+SHA1-Digest: +cywD2QnevQwKR17IzPLZCKRPoo=
+
+Name: assets/wp0Big/s6b.png
+SHA1-Digest: LyayavJ5klTiXXXz9iEx+Aolyyk=
+
+Name: assets/wp0/sb0.png
+SHA1-Digest: TGN4BKHxIurgfViKXBmwaHUpHrM=
+
+Name: assets/wp0Big/s49.png
+SHA1-Digest: W0Ub5cpHFINIRXwDJFgK+Uw4vzI=
+
+Name: assets/GraphicDump/04/00/040500/lib.xml
+SHA1-Digest: V/WeCTT8sEhNASbqA8OmQOT9SZs=
+
+Name: assets/BigEnemies/2.png
+SHA1-Digest: OvPxbDa+Jj9/jrTXj1M1L37yIrU=
+
+Name: assets/wp0Big/s45-ipad.png
+SHA1-Digest: /7avTSTtw5KmBdCsGyBpElJjaxE=
+
+Name: assets/wp0Big/s40.png
+SHA1-Digest: GMMn3qAKHeqBhQNiNnAlMWXh1iQ=
+
+Name: assets/wp0Big/s7f.xml
+SHA1-Digest: 04i8nn6qlCAsda2at/IuVnZGmSg=
+
+Name: assets/wp0Big/sb41-ipad.png
+SHA1-Digest: k/YBiv5lnpaZU5GvTJi/mJmvWV4=
+
+Name: assets/GraphicDump/01/00/010600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/Pers/11.png
+SHA1-Digest: Uv1WOTD0CO10IkQM0f1OKEeRsCE=
+
+Name: assets/Animation/x06.plist
+SHA1-Digest: UhRwBYSEcqIvikYY9F3GV8/YDQo=
+
+Name: assets/gui/next_page.m4a
+SHA1-Digest: dUxsFppcPRJXO6Mft3uSUknxilk=
+
+Name: assets/sh0/s01.png
+SHA1-Digest: ZWZV8dqywEVwqSyf13YSOM8Wuto=
+
+Name: assets/1.png
+SHA1-Digest: t2Ww5H9r7KK+zJNFZDOQnqLo3Dw=
+
+Name: assets/BerrysOnItems.plist
+SHA1-Digest: 1aWgCdYGO9kWotfLpt5w6U6w+L8=
+
+Name: assets/wp0/s78.png
+SHA1-Digest: Bkv5dRnlqdnb5FbBBxUIBITSmZA=
+
+Name: assets/wp0Big/s34.xml
+SHA1-Digest: 9lHVtjbEkv1HUeBP3dDjbgdDPmI=
+
+Name: assets/agility.fnt
+SHA1-Digest: SfIkMpcjZJ2h9YnaU2dUMVHOpP4=
+
+Name: assets/body_anim.png
+SHA1-Digest: bulw8AW+4vyPdKuqywcWm0d9/2o=
+
+Name: assets/ru.lproj/LooseLabelEnergy.png
+SHA1-Digest: 43C/moDGtgVXzEiKiqLsSCXfuaY=
+
+Name: assets/ef0/x08.ogg
+SHA1-Digest: CYXjNmEtggiO7uAPPgvh8ZSckn0=
+
+Name: assets/7.jpg
+SHA1-Digest: gQe1YbwcHdHz4tg6taO2jcirTEA=
+
+Name: assets/wheelTextArea.png
+SHA1-Digest: JNPAVx4RYqv4WSHJ3l3hmdf4S0o=
+
+Name: assets/Animation/x0a.png
+SHA1-Digest: FZlY4K07LbwU4fUwx3seiavf4p0=
+
+Name: assets/interface/book_close.ogg
+SHA1-Digest: OWgbURdtQU0LrunPe5K85jDeTew=
+
+Name: assets/wp0Big/s50.xml
+SHA1-Digest: 68RTe+6q9CDDiZULZe7RqckK6UE=
+
+Name: assets/0b-ipad.tps
+SHA1-Digest: XNENyogRI1XJRE7cUXw/hOthy98=
+
+Name: assets/Tahoma26.png
+SHA1-Digest: DEZY8V106jxKd2q7n1+fZpsVa2c=
+
+Name: assets/wp0/s28.png
+SHA1-Digest: n1f+u1Y+rGwiAJFUFD4nwh7vt2E=
+
+Name: assets/wp0/s11.png
+SHA1-Digest: HYrVZtb1+M0iGTmOR3/KqBJm6Bk=
+
+Name: assets/wp0Big/s4d.xml
+SHA1-Digest: ESvpqiUDwKDq83WIwb4DL17XR64=
+
+Name: assets/pk0/p10.png
+SHA1-Digest: 9+fznpUYkIZY8gIKQ2DYpPBdZI4=
+
+Name: assets/wp0Big/s6b.xml
+SHA1-Digest: /9/qOjk1v+dyZ/F7wUvsgL1UmBE=
+
+Name: assets/scrollArea.png
+SHA1-Digest: 8Ps5TRgn2nPrp48t1sHSHF22lfA=
+
+Name: assets/wp0/s23.png
+SHA1-Digest: tIluQhzF2VHChqAKoaGi5aulhQA=
+
+Name: assets/sh0/s3.png
+SHA1-Digest: sOFZpOTxeqyANJGS2Hn7dOIk6rA=
+
+Name: assets/Battle/11-ipad.pvr.ccz
+SHA1-Digest: WqNyXpR0J9puMxKGqw6SY6CChIQ=
+
+Name: assets/SingleRoundCloseButton.png
+SHA1-Digest: 02QBj8k1kvuC50LRYU/oJxg66zY=
+
+Name: assets/wp0Big/s80-ipad.png
+SHA1-Digest: rTbtxzrbiA+h8tpQ148wNhRHhJw=
+
+Name: assets/wp0Big/f03.xml
+SHA1-Digest: XDY0MUvimPXeOByZu5nDQ+3CLtk=
+
+Name: assets/gui/loose.m4a
+SHA1-Digest: /fAxErflOGQ23FIu3MjgLIeix5o=
+
+Name: assets/GraphicDump/010/00/0100800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/wp0Big/s30.png
+SHA1-Digest: hxkG4doNieBEWhDgq2FtpuZrNGI=
+
+Name: assets/pad6.png
+SHA1-Digest: Uf1uS/mlxMrHNiEcaq3P7627tPA=
+
+Name: assets/gui/win.m4a
+SHA1-Digest: hnwHR2oV5XnSf35LO3FqGg1gUcs=
+
+Name: assets/gui/round_start.ogg
+SHA1-Digest: jNO7M5T28RoO6gklP3gFvZyTMrc=
+
+Name: assets/SocialPlace.png
+SHA1-Digest: Yrw3vms2ZVZv9A2VWan/TEk3vIU=
+
+Name: assets/wp0Big/sad.xml
+SHA1-Digest: Piv+DCvelwbhoC7Ijb7UxFlyUpI=
+
+Name: assets/wp0Big/s9b.xml
+SHA1-Digest: j3QLGvtsm+eiXuRCNsgtmzhAlfI=
+
+Name: assets/wp0Big/s40.xml
+SHA1-Digest: 9fjI+R1ucc41G6PC+2rz/Rn5E/I=
+
+Name: assets/BigEnemies/3.png
+SHA1-Digest: tVSgXCaUrEkHepdl1BFIs0T9W7w=
+
+Name: assets/sv0/a30.png
+SHA1-Digest: JEtXMF+GU6gczq/L+Y6Dsz3nWVw=
+
+Name: assets/wp0/s6f.png
+SHA1-Digest: XxZVOfmv/vxQqLJ4+DLcdctFGlE=
+
+Name: assets/ac0/a29.png
+SHA1-Digest: 579KTdEbINpdtvG3wk62W1qoyRQ=
+
+Name: assets/wp0Big/s113.xml
+SHA1-Digest: 07JKcibSdk+zrhy0o4gaipU0QWo=
+
+Name: assets/Tahoma32.png
+SHA1-Digest: HRw0DwWzcYd3+OTT5DcoTmjheHw=
+
+Name: assets/slot.png
+SHA1-Digest: tCtFxy2/VyE6hyxdbfAihscx9I8=
+
+Name: assets/add_TabBar_ru_test.png
+SHA1-Digest: SiDwVmmw/3kcsLe4nEJlG71v4M4=
+
+Name: assets/wp0Big/sb4.png
+SHA1-Digest: bKxZDgbmkNa9eIadMM7ufX2uEhw=
+
+Name: assets/BigEnemies/7.png
+SHA1-Digest: PR1sd+2DFV8c/Dk25IwdQ04jn/I=
+
+Name: assets/Pers/5.png
+SHA1-Digest: /LEJlEsjnbRPswCjaM7P98CVMu4=
+
+Name: assets/head_happy.png
+SHA1-Digest: JnH2rdP6D+djKzABFGSudbH5jBA=
+
+Name: assets/en.lproj/EnduranceCrystal.png
+SHA1-Digest: hJwsA8cpK+D580udaHoPzlmpBWk=
+
+Name: assets/ef0/x0a.ogg
+SHA1-Digest: /SLY4y+lHFUYyzWoeWGfbZvc97A=
+
+Name: assets/04-ipad.plist
+SHA1-Digest: vArNc1z5xALlZh0LsnGx+VIRmv8=
+
+Name: assets/bt0/g02.png
+SHA1-Digest: +cI4m0isAn0br8J4HKqtU2itOOY=
+
+Name: assets/wp0Big/s13.png
+SHA1-Digest: YRkphQZASwHZ3bJFBqOoFaWKpOQ=
+
+Name: assets/Battle/6.pvr.ccz
+SHA1-Digest: TXtJ54p2vveSI5ubNCVnp33P3ps=
+
+Name: assets/ComponentButton23.png
+SHA1-Digest: 4a4k/Fz2NJMs/OLrpBZiLGM1gYM=
+
+Name: assets/Strenght_0.png
+SHA1-Digest: ZmhAQKeIewjm9DsCRrwERr7briI=
+
+Name: assets/05-ipad.pvr.ccz
+SHA1-Digest: 7XVQgeVlqjCf58QQY2i60WdfaxU=
+
+Name: assets/Animation/x07.tps
+SHA1-Digest: 3IudxQbVEHsoiokthar1pYC+A+k=
+
+Name: assets/wp0/f01.png
+SHA1-Digest: LcvkeyLX9MplI+ejl2vH4Ck8BNE=
+
+Name: assets/wp0Big/sa7-ipad.png
+SHA1-Digest: r80ObYJDAFi11dse55zfxKEruAc=
+
+Name: assets/wp0/sa0.png
+SHA1-Digest: IFWp7G0qGQSldy2ROyBjkaa4SrU=
+
+Name: assets/48.png
+SHA1-Digest: jbdRK89Ejz3DvtEmWljGOoJ2xPg=
+
+Name: assets/012-ipad.plist
+SHA1-Digest: 6WHbc0B9tOv2FtzNdnctWTpNaqE=
+
+Name: assets/Battle/6-ipad.pvr.ccz
+SHA1-Digest: AzOPgeLCnh+ADok5vXA9RCcZhUA=
+
+Name: assets/2-ipad.jpg
+SHA1-Digest: lPX7FadW3iyYoD9svesUcaw4GZU=
+
+Name: assets/HealthProgrNewBattle_2-ipad.png
+SHA1-Digest: L3IPQ7fNX7ka/1o9FS7NkYo6S3o=
+
+Name: assets/Animation/x05.pvr.ccz
+SHA1-Digest: lg+XMvKIKyG3txMHPB5jifo2btU=
+
+Name: assets/ac0/a17.png
+SHA1-Digest: CIN150TukXP8KvGcVVFRTiKwjdU=
+
+Name: assets/wp0Big/s82.xml
+SHA1-Digest: JAq8fIQlvhOgfHRh6PSgWKmI/hY=
+
+Name: assets/Battle/10-ipad.pvr.ccz
+SHA1-Digest: wOnnZFhXQ+x6sAP2t+2gqpH64Ks=
+
+Name: assets/ac0/a08.png
+SHA1-Digest: zfETnd5tLVoJtxCV77J5+Ne1F8c=
+
+Name: assets/ShineBackgroung.png
+SHA1-Digest: 3Ek9QXc4fr2RVkoG2G1CKui4jec=
+
+Name: assets/wp0Big/s78.xml
+SHA1-Digest: C4oBbpDpjyZQPTFXlJSKsXgAInc=
+
+Name: assets/wp0Big/s93.xml
+SHA1-Digest: vp0eXA+NXNSZenanpO6Z4vlTh/Q=
+
+Name: assets/wp0Big/s97.png
+SHA1-Digest: lqvc+rCdTHb+x2J9vq+3imvg0LM=
+
+Name: assets/realFont.fnt
+SHA1-Digest: VE45KL0bh4wXrJQVhJg/ivSodYA=
+
+Name: assets/wp0/s7a.png
+SHA1-Digest: TyOI+uUV4/5BxD1Rlmmrf41R2o8=
+
+Name: assets/wp0Big/s13.xml
+SHA1-Digest: 2pE2Nqsm7a514jBipLL/FdhlxKg=
+
+Name: assets/pad0.png
+SHA1-Digest: jORlhnbAdMX8d9vCkDa7TT2nP5g=
+
+Name: assets/en.lproj/Default.png
+SHA1-Digest: QwPNBzUpPhMkWIXUFbQvJj0xkRc=
+
+Name: assets/StaminaProgrBrown_2.png
+SHA1-Digest: WhfQNUV8t29bvi7uVVpIlorp7oU=
+
+Name: assets/wp0Big/sb1-ipad.png
+SHA1-Digest: F6fHhQrkUcW7t4jzYwKxFwRBHR4=
+
+Name: assets/wp0Big/s34-ipad.png
+SHA1-Digest: MCcBsuXieHonjz0ZGLL9u5rlX6g=
+
+Name: assets/wp0/sa8.png
+SHA1-Digest: UESY0xaTnHZuGTbKsQxe+OJAeRo=
+
+Name: assets/GraphicDump/010/00/0100600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/ArrowButton.png
+SHA1-Digest: ojMsz+Eq1sujxgi+hvyNpC6fHK4=
+
+Name: assets/sh0/s2.png
+SHA1-Digest: 1W8+SPj6MFlcXrKUt6S7SrDHZnQ=
+
+Name: assets/wp0Big/s85-ipad.png
+SHA1-Digest: 8cyjqUebEPRPEjj0qS+08K4ACDU=
+
+Name: assets/BigEnemies/255.png
+SHA1-Digest: ixdYODHbwTaG4HaON7qaL0k7v3g=
+
+Name: assets/sh0/s11.png
+SHA1-Digest: vF8R2C6V8K+p9EWNxyyYHIOq1ZE=
+
+Name: assets/wp0Big/s90.png
+SHA1-Digest: raLaM0ibqq7YI7rUSGnkQmU0CS8=
+
+Name: assets/namePad_0.png
+SHA1-Digest: 1PewOqYby6VbnT5fNb6wpXtXu/0=
+
+Name: assets/ButtonAdd.png
+SHA1-Digest: nEX8bS9HbcmVLDACRiG+j9QTwdk=
+
+Name: assets/EnemyInfoBac.png
+SHA1-Digest: gDHeAou45P23NwAactWTW9ULUEA=
+
+Name: assets/01-ipad.pvr.ccz
+SHA1-Digest: ZjkehPcU3WYLEljwP2Bif7PcYAk=
+
+Name: assets/wp0Big/s94.xml
+SHA1-Digest: MWhepmj18uAbJ31ZFnEBRh/luPM=
+
+Name: assets/GraphicDump/0a/00/0a0500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/wp0Big/s89.png
+SHA1-Digest: udxdWoAA+GX2DWimlC2o7Bzbkcs=
+
+Name: assets/wp0Big/s8b1-ipad.png
+SHA1-Digest: 8hPi/7SipYT1K7bKMxQiIsBucwI=
+
+Name: assets/wp0Big/s02.xml
+SHA1-Digest: 1WBC4L46l9RyVerZ693sqsY3CB8=
+
+Name: assets/Input0.png
+SHA1-Digest: csozgWx1T7K0WJ9w2AmYBa71NAg=
+
+Name: assets/perks5.png
+SHA1-Digest: kjPP334L2dgbMGmyi26z0Jbvt6Y=
+
+Name: assets/GeneralLocalGraphic.tps
+SHA1-Digest: xAYhHb1Hk1JXVBF1zaKLajGUmCg=
+
+Name: assets/strenght.fnt
+SHA1-Digest: Sw20US3b4yFMjuW6Pk+NJQlOnyk=
+
+Name: assets/shovel.png
+SHA1-Digest: UsLCXLx+aePu9zpOXODTb3S2wm8=
+
+Name: assets/tutorial6.png
+SHA1-Digest: iezwBtxyVtxp+MLxhyV9e1dy2IM=
+
+Name: assets/wp0Big/s50-ipad.png
+SHA1-Digest: gMreyW/AsisZT7RnGIFL2/If7J4=
+
+Name: assets/Input2.png
+SHA1-Digest: GX+oeoaUV1cUbh60qiOWGtlbNKI=
+
+Name: assets/wp0Big/s83.xml
+SHA1-Digest: qhzVGJE7Ifv/Zg/BgLPrHbjha4A=
+
+Name: assets/EnergyProgr_2-ipad.png
+SHA1-Digest: yQlQnGBItYL3AtbTGcExyq7sr5Q=
+
+Name: assets/perkLevel2.png
+SHA1-Digest: K7Qv+b6HHOWg3izhOPft1Utk2fY=
+
+Name: assets/bt0/h01.png
+SHA1-Digest: fBAfLVlhR+HfyfZCCKehlT+jFnk=
+
+Name: assets/wp0/sa7.png
+SHA1-Digest: lkhBJHkM4XOAR2xHxlYc3vw1LmQ=
+
+Name: assets/67.png
+SHA1-Digest: /F1ouEDms0Naqwxw+biTdxo3GJE=
+
+Name: assets/en.lproj/MenuGraphic-ipad.pvr.ccz
+SHA1-Digest: 40q65eM1QrjV+gdHQhcHHAY3tQg=
+
+Name: assets/wp0Big/s54.png
+SHA1-Digest: ZgTgZ2tHtKg7ZDiq3R92MaXA+wo=
+
+Name: assets/foot_left_anim.png
+SHA1-Digest: gX1VNOlgjdlRxVgMIZvyTU+5lak=
+
+Name: assets/ExpProgr_0.png
+SHA1-Digest: RQCpJgc3Voy8HZGIt02AjegH6sA=
+
+Name: assets/Battle/7-ipad.pvr.ccz
+SHA1-Digest: yMj+NktyGex+F9Rp8z41xRSRskY=
+
+Name: assets/ru.lproj/MenuGraphic.plist
+SHA1-Digest: W7BWjUzUL/cuiH9MfDJYvxD1SCE=
+
+Name: assets/fontArenaGreen.fnt
+SHA1-Digest: Qt5kbMS9PlF2jU/ylHCqqdabugk=
+
+Name: assets/GraphicDump/012/00/0120300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/en.lproj/Loading.png
+SHA1-Digest: rrvEIxKCSqyq/jazt9sWkpiSxvM=
+
+Name: assets/011.tps
+SHA1-Digest: ULZFpshGhPrL65V+vh76kcS/v1o=
+
+Name: assets/wp0Big/s7e.xml
+SHA1-Digest: UE9Uq2ldl7IGTNGcFpv96ehHtA4=
+
+Name: assets/5.png
+SHA1-Digest: SMvbZ1AzAjoKhltRvumkxW68c5E=
+
+Name: assets/sh0/s0b.png
+SHA1-Digest: 3+sgeKEkWlsDOFNGyW5WO9sTe4w=
+
+Name: assets/stoneButton_2.png
+SHA1-Digest: zr9Gf8HtFNXYFWZW9ptzXKIV1Ao=
+
+Name: assets/interface/inventory_open.ogg
+SHA1-Digest: bkMQJBh0296i1pTGmnVa1tebt3k=
+
+Name: assets/bt0/b02.png
+SHA1-Digest: Yaql7+Z/Vs9XQccJ50mqSje5jmk=
+
+Name: assets/attackFriend.png
+SHA1-Digest: /uyxPWddRTLtmU40J3X8GxCc2tQ=
+
+Name: assets/wp0Big/s113-ipad.png
+SHA1-Digest: xRSleVRtcP5dMdhlT7ZpQImQBa4=
+
+Name: assets/pad8.png
+SHA1-Digest: ULuNNJJ/NeQkY3VKtyKlP8Gh7jc=
+
+Name: assets/wp0/sb1.png
+SHA1-Digest: NwzGuCj4Ef7ScC9lSgAXNwQR8kk=
+
+Name: assets/0a.pvr.ccz
+SHA1-Digest: Hj/fPAia24h9Elr+n8bCas1Tq8E=
+
+Name: assets/wp0/sad.png
+SHA1-Digest: RT9BFRgfty2Yl2pK358g2vwlIbM=
+
+Name: assets/TrainingAgilityFont.fnt
+SHA1-Digest: TaT1DlqkPBHrDhCf3hxs2Djwuqk=
+
+Name: assets/10.png
+SHA1-Digest: j12nqX45NbLutoSYDQiCST8XOLQ=
+
+Name: assets/wp0Big/s44-ipad.png
+SHA1-Digest: NlPuuriT1gqQowPxot0ss7Tat8c=
+
+Name: assets/wp0Big/f02.png
+SHA1-Digest: NDUxnrBNOwx0xdM50vLQy+4bBGY=
+
+Name: assets/32.png
+SHA1-Digest: wZ8CCB39cXwEEJdIkr+CAo06H2k=
+
+Name: assets/AllertBackground.png
+SHA1-Digest: zyUt4oqOXIjwcVjKh55xLM2Qe5Y=
+
+Name: assets/wp0Big/sb2.png
+SHA1-Digest: 9Uns4YL/4Yqm7rMloimFY32bADg=
+
+Name: assets/EnemyBackground.png
+SHA1-Digest: Tm5R+orycv7OVmRuGslnuiQ9HQQ=
+
+Name: assets/achiev_level_2.png
+SHA1-Digest: 563hlesst+b9VabeThNlKO+aLjw=
+
+Name: assets/ButtonTake.png
+SHA1-Digest: u8ATDelh2ByQvHdcJ6RtA86p6xc=
+
+Name: assets/InviteFBBGBlue.png
+SHA1-Digest: CVqRqcx3a7z1Og2HetKiGWvTsmM=
+
+Name: assets/StaminaProgr_0.png
+SHA1-Digest: Jjtl7hTHU2MayCJlowO0zPmVD7Q=
+
+Name: assets/0d-ipad.pvr.ccz
+SHA1-Digest: kEwrWFZYZ+Ddu9gUqAKSPFox27w=
+
+Name: assets/ef0/x04.ogg
+SHA1-Digest: SnXE2kCJzSrHcws/iJ7Kt1RhtLY=
+
+Name: assets/HealthProgrNewBattle_1-ipad.png
+SHA1-Digest: OPWyc4GENf7b1cGp2NnE+yKLRgc=
+
+Name: assets/wp0Big/d03.xml
+SHA1-Digest: tjZAGFlXlnnPAxupZ8+ey1zWmws=
+
+Name: assets/55.png
+SHA1-Digest: ktghYuVHlJGVB+pBw9UOe8cOri4=
+
+Name: assets/wp0Big/s87.png
+SHA1-Digest: Z30aTjC7lf/4vel4h2Zga2SXkjE=
+
+Name: assets/x05.tps
+SHA1-Digest: KzQVMtR3oopWjWKzYzu6mSoubI4=
+
+Name: assets/wp0Big/s74-ipad.png
+SHA1-Digest: z+hn/RF5vLzpDWmBW8EBKD0cJPE=
+
+Name: assets/wp0Big/s02.png
+SHA1-Digest: AJPWZ7jaNrhxk7/aXRX+dYc3GSo=
+
+Name: assets/BigEnemies/9.png
+SHA1-Digest: NPkn3cN2TzD8900KHLn5aQN3BeI=
+
+Name: assets/pad7.png
+SHA1-Digest: oPcWr7UHyOMci+V6vZDsVpF8dJw=
+
+Name: assets/message0.png
+SHA1-Digest: q0bcE9Ex+KtvU7SKfBWwhWV2EgQ=
+
+Name: assets/wp0/s68.png
+SHA1-Digest: aFSNVKXx1hRAP9RXJVD++Cs9+x8=
+
+Name: assets/wp0Big/s11.png
+SHA1-Digest: SVR9XSRUzmBzb6s1Uo8Jh6sdd/U=
+
+Name: assets/09-ipad.tps
+SHA1-Digest: SMh2lZoCKhl0YNEpM7OprqKK74Y=
+
+Name: assets/wp0Big/s6a.xml
+SHA1-Digest: dhDueyGtUJWWUXkx5U0XC1grYkQ=
+
+Name: assets/achiev_level_3.png
+SHA1-Digest: XmMdAlz0q2jgwwUwdlF9k0G/NrQ=
+
+Name: assets/wp0Big/s51.png
+SHA1-Digest: yQpVB1wNVvrEBiJUd3YcCN2P59w=
+
+Name: assets/wp0/g02.png
+SHA1-Digest: HUFyCNaxQBa8eJxWBySFcRaL5Vs=
+
+Name: assets/ButtonEnterCode.png
+SHA1-Digest: PpLEW6t9KTpN+fTGDmJ4NLAYT5Y=
+
+Name: assets/wp0Big/s40-ipad.png
+SHA1-Digest: gmzixdHyeFy6Sh2YiJj/x2nsXf0=
+
+Name: assets/4-ipad.jpg
+SHA1-Digest: bUsoqsdWJ1vGL5t3JscQojcX0Hs=
+
+Name: assets/GraphicDump/07/00/070300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0Big/s68-ipad.png
+SHA1-Digest: Z/Tp1L5m1rWh5HJq12UaL131zpk=
+
+Name: assets/02.pvr.ccz
+SHA1-Digest: byl1y/QqBNiVVE+K5lGgYZvLIsc=
+
+Name: assets/LoadmingProgressBar-ipad.png
+SHA1-Digest: gEDcBsmkp80zxSGoNAc7c3ZHWTM=
+
+Name: assets/ButtonUnite.png
+SHA1-Digest: hjh/YHn1rzDLu3SrcJi/cfnrSw0=
+
+Name: assets/sv0/a21.png
+SHA1-Digest: QBqKGvmPrMJZTPKQxQSYq0JRP1o=
+
+Name: assets/wp0Big/s79-ipad.png
+SHA1-Digest: 6mqOsZ5pZXxE4sXBvWcmhYq7OME=
+
+Name: assets/011.plist
+SHA1-Digest: y0DU40WeNleUXKJCkgu5n0tOhc4=
+
+Name: assets/wp0Big/s89-ipad.png
+SHA1-Digest: 6JODFPRF6ULgq06uGBi3BRYLuh4=
+
+Name: assets/wp0Big/s86-ipad.png
+SHA1-Digest: E+v/tpTu9BtVpADTvf2pVjfA+8k=
+
+Name: assets/RefreshButton.png
+SHA1-Digest: NcDQhtojSxLtxNg2CYEDyW2RVsA=
+
+Name: assets/Animation/arenaSmoke.pvr.ccz
+SHA1-Digest: r4PjSNwl9LoNqhThJOzAA7HAKzo=
+
+Name: assets/Animation/x16.png
+SHA1-Digest: Ae3dGdtyX+dweSEwnCQfcXxz+m8=
+
+Name: assets/Battle/9-ipad.pvr.ccz
+SHA1-Digest: TMxuRA2d2FFUJYUJdFWiiXB97FU=
+
+Name: assets/pk0/p23.png
+SHA1-Digest: 8td94onuuv/A/tEeonR41gKAXBk=
+
+Name: assets/06.pvr.ccz
+SHA1-Digest: gJT6rVyo/firzQWLqLACDw+ex/4=
+
+Name: assets/x06.tps
+SHA1-Digest: rKz6yq6mGnugAn2a6oAcfEO6cgY=
+
+Name: assets/ShadowNumbers.fnt
+SHA1-Digest: 3KAxJ1Edt24W9kuJhOqG8sAAKDk=
+
+Name: assets/bag/bag19.png
+SHA1-Digest: erbb/DGDPNak8A9wj8xlL4fzLBE=
+
+Name: assets/ef0/x08.m4a
+SHA1-Digest: Nc3gUknhBzrkkzDPLc4FdrWrhLc=
+
+Name: assets/Checkbox1.png
+SHA1-Digest: 9dBe09fY0PYkibMPfZA1IN9ZecE=
+
+Name: assets/ru.lproj/GeneralLocalGraphic.plist
+SHA1-Digest: l+KQ6zbyDSTSYi+Qw4004LOlSuY=
+
+Name: assets/wp0Big/s8a-ipad.png
+SHA1-Digest: guZXUk38APeJ/3/xuGeQ9pWV6Tw=
+
+Name: assets/36.png
+SHA1-Digest: g4j/MySygpRw0xMZGpqJvFLEZ/Q=
+
+Name: assets/GraphicDump/0e/00/0e0600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/pk0/p26.png
+SHA1-Digest: 1K8UxKTxqBBjoBmcdniV3R+vSfs=
+
+Name: assets/ac0/a10.png
+SHA1-Digest: dQrtMwCWDVKg+2kXGSqlfyVRDDY=
+
+Name: assets/wp0Big/s83-ipad.png
+SHA1-Digest: w/YnaEFRk9XqkuIlJR6W3Gz5o5c=
+
+Name: assets/BadgeMini2.png
+SHA1-Digest: KNeafl7/WFrJHeOj5dGt3tOoGws=
+
+Name: assets/backMain.png
+SHA1-Digest: WrYq0Ltcn59u/U+sOuwdhb8z0JY=
+
+Name: assets/levelUp.png
+SHA1-Digest: AgQ6u1RHxdThmtL4nth4ijHFrpM=
+
+Name: assets/08.tps
+SHA1-Digest: sqs5ih/0BMPTUI3AYPh8/uAEzDg=
+
+Name: assets/wp0Big/s55.xml
+SHA1-Digest: 56CrF7HQt69PFkvwGeks0UN2iS4=
+
+Name: assets/wp0Big/saf-ipad.png
+SHA1-Digest: X6dr6fgHRiJAUY+HwujAi8abUJY=
+
+Name: assets/wp0/s97.png
+SHA1-Digest: LQugVZV1sGe+Qzcserbx93GaH1Y=
+
+Name: assets/PersCode.png
+SHA1-Digest: 3keoiXfEi3cYxBY1iHvLRwaczRE=
+
+Name: assets/03.tps
+SHA1-Digest: zMtqurub2DBpAnO6h3rFFbWMs8s=
+
+Name: lib/armeabi/gdbserver
+SHA1-Digest: Bc61WO7aluS2aduPpnzmhOAIVWI=
+
+Name: assets/wp0/s41.png
+SHA1-Digest: PMl3Qx+hxTNRZw6MpVD0vZEH7b8=
+
+Name: assets/wp0Big/s65.xml
+SHA1-Digest: uNB1lIgPCujyhMpSezP07OLG33s=
+
+Name: assets/AlertFaqTextFont.png
+SHA1-Digest: T9Oovd9SRs/ObfAgsFYiiZm/wis=
+
+Name: assets/wp0/s92.png
+SHA1-Digest: Zz10i+Xleql+W3QBbklzh6b1ivI=
+
+Name: assets/wp0Big/s7a.xml
+SHA1-Digest: hdxO++6nSECF7VsNHF/Esk9eg+8=
+
+Name: assets/EnergyProgr_1-ipad.png
+SHA1-Digest: XSyM7QZR+sypr46occ3glSUl4gw=
+
+Name: assets/wp0Big/s7d-ipad.png
+SHA1-Digest: +EsM4hiktpxvn3HUajfgS3mhSao=
+
+Name: assets/0e-ipad.plist
+SHA1-Digest: akC2W77AZxCqIflXJLCQUyWeqbs=
+
+Name: assets/GraphicDump/01/00/010000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/wp0Big/s6e.png
+SHA1-Digest: M4lSVD7z0/MYG2huSGgPeUwKWOg=
+
+Name: assets/wp0/s52.png
+SHA1-Digest: g083PeSqUVcIuM2j7ev1kmHU9Mo=
+
+Name: assets/wp0Big/e02.png
+SHA1-Digest: o6UMsWP0eriTYVP/ZV/Pg5jgmCg=
+
+Name: assets/wp0Big/sa9-ipad.png
+SHA1-Digest: HKHhAZ09m9Tq/ZvswE0nfHj0skc=
+
+Name: assets/ef0/x05.m4a
+SHA1-Digest: Hh9aWW8iB56PoNZcrlug3uK/eHI=
+
+Name: assets/ru.lproj/Town.pvr.ccz
+SHA1-Digest: M56XhDloFsdpkxXNJnBj8R1jGv0=
+
+Name: assets/wp0Big/s51-ipad.png
+SHA1-Digest: FtfhoKTgbWDlq+uh1PREY0HcsRA=
+
+Name: assets/en.lproj/Buttons.plist
+SHA1-Digest: qXradhGjsoSrrtbdEw2IpMIGUV4=
+
+Name: assets/40.png
+SHA1-Digest: X+a7BrGzp2sGXog+dS5Tt2286i0=
+
+Name: assets/perkLevel0.png
+SHA1-Digest: 3TKg/9/zk8qy/17TuPosOp4XA2E=
+
+Name: assets/wheelFeaturePrize.png
+SHA1-Digest: KZOH10xioUYqOMF5OpYa80R4fuk=
+
+Name: assets/flowerButton_2.png
+SHA1-Digest: P29sgGLqtcbv42NCaQ0thGhgoK0=
+
+Name: assets/ComponentButton3.png
+SHA1-Digest: R4xsJkZ7fxNkFEU5TlIgFsaUIew=
+
+Name: assets/bag/bag17.png
+SHA1-Digest: HAFUiQ6g1ow11m6Mq08xoHqXmFY=
+
+Name: assets/newsButton.png
+SHA1-Digest: R70pH+w3x9PVzCy43No3v25Cko8=
+
+Name: assets/singleOk.png
+SHA1-Digest: Z7R17Uep2bG9MHsT5cy7gT/B7FU=
+
+Name: assets/ButtonClose.png
+SHA1-Digest: XJHG8SQODkGex4+pL46C2F86M5s=
+
+Name: assets/ExpProgrSmall_2.png
+SHA1-Digest: yB4fQQQe4mDdudKvT2tj5zVxV8g=
+
+Name: assets/bt0/b03.png
+SHA1-Digest: 717ygpNP027C48F/K4+3sit/ZfQ=
+
+Name: assets/GraphicDump/03/00/030000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/Pers/2.png
+SHA1-Digest: iRVwPC5EvJbJV0JXb6S64jwVxFw=
+
+Name: assets/wp0Big/s4b.xml
+SHA1-Digest: kf2w/+h6JE9T2l1uobgrztTpYxU=
+
+Name: assets/Pers/255.png
+SHA1-Digest: N9TCOcXCQmQE/LMTSWgQ+MJRTpc=
+
+Name: assets/44.png
+SHA1-Digest: Z0EJPJ8PlHm/ggSjEQTuJTeKWSo=
+
+Name: assets/add_TabBar.png
+SHA1-Digest: GIZzahBshzppVIALJlUm78TNMeU=
+
+Name: assets/hint2.png
+SHA1-Digest: DDUo5EuvdZ8OaCvWCqxzfkDe4Hw=
+
+Name: assets/x03.tps
+SHA1-Digest: bmK+YkuSDcM4lTo8UaqlKn029Dc=
+
+Name: assets/wp0Big/s71.png
+SHA1-Digest: eqLpc0QlIorNVnqArTx9YA0oZV8=
+
+Name: assets/ArenaTournamentTimeBillet.png
+SHA1-Digest: oH2Q0+gYfluvzAEjw1kZCrx5n58=
+
+Name: assets/wp0Big/s112-ipad.png
+SHA1-Digest: +9R8MMKeiVyzdvHEeTyhqYCtfIY=
+
+Name: assets/StaminaProgrOriginal_2.png
+SHA1-Digest: tqE+YApU8zHj2qAnNcHMP/c5RAA=
+
+Name: assets/ef0/x01.m4a
+SHA1-Digest: 6MVsTR11iPOoVo+FdqLYfhDoAZU=
+
+Name: assets/wp0Big/s97-ipad.png
+SHA1-Digest: a4KBjJFi4YlBfrIrz+7+YqUh8e0=
+
+Name: assets/oLabel.png
+SHA1-Digest: 2bb5lRkhKPm4TZy2qG+RN1/v4ts=
+
+Name: assets/icWheel.png
+SHA1-Digest: xrytNhjIRgb29CKLAESU1zAc0kw=
+
+Name: assets/21.png
+SHA1-Digest: GeSk5yCPD/561lzbz4vWiVKP0ds=
+
+Name: assets/wp0Big/s110.xml
+SHA1-Digest: g80snbihArGE/cDRPCChN5RSgZQ=
+
+Name: assets/Tahoma16.pvr.ccz
+SHA1-Digest: IwPAiChWe6KvbFxloBTL+iYnMs4=
+
+Name: assets/61.png
+SHA1-Digest: vzgUgT9slKjeW+aK7NyaH+hhPDc=
+
+Name: assets/wp0/s84.png
+SHA1-Digest: F6X7yr0bh6lJmnWyajSu+7U4Uww=
+
+Name: assets/Pers/6.png
+SHA1-Digest: F/2XdAeb60tvpQPpGRIoLBjLzSM=
+
+Name: assets/wp0Big/s71.xml
+SHA1-Digest: nEP4ExznjQpB9IiUopei6w+htgk=
+
+Name: assets/gui/roll_set.ogg
+SHA1-Digest: Y0m1kwQzA+yCVgrC9JpxOXyyPKs=
+
+Name: assets/wp0Big/s9a.xml
+SHA1-Digest: rRXYZRmbMNqMuFcAJYW7Ta+ark4=
+
+Name: assets/en.lproj/botName.txt
+SHA1-Digest: L6xGsvljqcAF1cdZVulSD4WaHcc=
+
+Name: assets/wp0Big/sa6.png
+SHA1-Digest: uS7Q5en4m3zaA71SkAlNTWlEUEY=
+
+Name: assets/wp0Big/s95-ipad.png
+SHA1-Digest: aSdR6A44sLxvsloXLm2IaZeoHb4=
+
+Name: assets/wp0Big/sb2.xml
+SHA1-Digest: jh9L8lTX2jb4qNPzp+v+WAC7bbI=
+
+Name: assets/wp0Big/s39.xml
+SHA1-Digest: JIn4v6NEHO3Tb4zV51+7BiXGsYM=
+
+Name: assets/wp0Big/s99.png
+SHA1-Digest: Yvv49yGDa4kqXRCVmBMuuy6Ig0o=
+
+Name: assets/sv0/a18.png
+SHA1-Digest: hznPi0dCp+HXABOTerPgpFC+raA=
+
+Name: assets/GraphicDump/01/00/010800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/GraphicDump/010/00/0100500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/7.tps
+SHA1-Digest: cKWv0M75PIGBZlE4pUTMi3Ogb0M=
+
+Name: assets/wp0Big/s36-ipad.png
+SHA1-Digest: vNDiwoAv7KJSEgrqS8UnXh4zOQI=
+
+Name: assets/GraphicDump/05/00/050300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0Big/s26-ipad.png
+SHA1-Digest: Cpvkn9cbfEkTKDDLfoot3mKvv3Y=
+
+Name: assets/52.png
+SHA1-Digest: VYsl+STDYXPsPpKyjKhM7FQQ6sM=
+
+Name: assets/0b.tps
+SHA1-Digest: 9/k4GkLkxK3+pD9b19MM3jptafo=
+
+Name: assets/slot3.png
+SHA1-Digest: /03AbrdBFzbWgYOJTCMyaHrxQiA=
+
+Name: assets/wp0/s8c.png
+SHA1-Digest: +DsHIeXZmsKRZ7njeqTgCad4oKU=
+
+Name: assets/sh0/s15.png
+SHA1-Digest: YpDav9sfD+ih0ZcWBOj5ELGzZ0E=
+
+Name: assets/Input1.png
+SHA1-Digest: LvkRek6iExIlc7+wufx8z3dOwSw=
+
+Name: assets/ChatTextInput1.png
+SHA1-Digest: Jve2Ub9jlB0tVSokbTgE515joQw=
+
+Name: assets/Pers/14.png
+SHA1-Digest: wsZXo1Pxvqb4wKkWHGkEYO5bnck=
+
+Name: assets/EnergyProgr_0.png
+SHA1-Digest: vB23aNnn2tLeqNvhXiOR3c9FhJA=
+
+Name: assets/03.plist
+SHA1-Digest: DRcF7GfsBckgperH3B5G3ZlYoaY=
+
+Name: assets/OnOfCheck1.png
+SHA1-Digest: 9IiCkhVWVgNwCwMaJ7YkHBCjsdw=
+
+Name: assets/wp0Big/s4a-ipad.png
+SHA1-Digest: MZeKkAJ/lGjdM+e6Z2u8ZoxiW8g=
+
+Name: assets/ButtonInvite.png
+SHA1-Digest: HAvIARcTE6bu8vVPSdN+UqqaOh4=
+
+Name: assets/s0b.png
+SHA1-Digest: 1FLgd1uIfoG3cPdnunKXtZ4Gqqk=
+
+Name: assets/wp0Big/s92.png
+SHA1-Digest: jK7JBGlRabEGelGrDn+knwNDXPo=
+
+Name: assets/window4.png
+SHA1-Digest: vjwcRk+fZicMANZXlk09dEbHndY=
+
+Name: assets/MenuGraphic-ipad.tps
+SHA1-Digest: fntnYJkiEfSEbXr8RI2fucy2css=
+
+Name: assets/EnemyLooseRating_2.png
+SHA1-Digest: qIyTt8ohDMUIiKMiiwFfD+x7DMo=
+
+Name: assets/ActivePrize_5.png
+SHA1-Digest: 4I9tmM1NmesgV/M1nPTkQJRGEG8=
+
+Name: assets/wp0Big/s6d.xml
+SHA1-Digest: AYVCxwDPkMhGczHC1OlhPW2v6LY=
+
+Name: assets/Animation/x01.plist
+SHA1-Digest: 2JtWnfRA5AmDuyeWNr+cWoDlYDs=
+
+Name: assets/16.png
+SHA1-Digest: KMyw7Vx/qqlla+USsoIJE6L0HEs=
+
+Name: assets/wp0Big/sb11.png
+SHA1-Digest: /FPyIdjQ+XsGdNJ4GxBPWMlIg68=
+
+Name: assets/ac0/a27.png
+SHA1-Digest: r0XnTaB1eCwXFDM85Nq4tPvQtLM=
+
+Name: assets/02-ipad.pvr.ccz
+SHA1-Digest: TbfIBpXZWn+njdZ5lkME17yNkOo=
+
+Name: assets/CommonGraphics.tps
+SHA1-Digest: rhM7+X+qTVWGaOaOFX5tbvr6eRY=
+
+Name: assets/pk0/p39.png
+SHA1-Digest: z0AZERjmwsgTGFzgRb0i4myCckk=
+
+Name: assets/wp0Big/s881.png
+SHA1-Digest: /qMKsBX0X6buZp6XuCPr3NLTYiw=
+
+Name: assets/en.lproj/ShopBackgroundWhenBuy.png
+SHA1-Digest: Ar08/QM8+Deto/Z211s+ar+HxMM=
+
+Name: assets/en.lproj/Buttons.pvr.ccz
+SHA1-Digest: XhUFGKW7GvR4jT2uy8Kg16CKBvk=
+
+Name: assets/en.lproj/GladeComplete.png
+SHA1-Digest: pI6tyqKYKCxlSP/4X549Ls0/HME=
+
+Name: assets/wp0Big/s37.png
+SHA1-Digest: vk1B5m8v4ygTMWF3vARqRLtt6CA=
+
+Name: assets/ac0/a06.png
+SHA1-Digest: kdLneoSANGoTN01nO//PUFqcC80=
+
+Name: assets/ShadowNumbers.png
+SHA1-Digest: /8LY5/P/U9fDQUcLF0TCL8Iy5GE=
+
+Name: assets/GraphicDump/012/00/0120600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/GraphicDump/08/00/080800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/EnergyFont.fnt
+SHA1-Digest: ILdCZcEFIskY4CscCwpDEqFO8rE=
+
+Name: assets/Animation/x13.png
+SHA1-Digest: Ae3dGdtyX+dweSEwnCQfcXxz+m8=
+
+Name: assets/06-ipad.pvr.ccz
+SHA1-Digest: KTrqQTkUX4z4BweTKcf3TfzctnA=
+
+Name: assets/GraphicDump/0a/00/0a0000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/28.png
+SHA1-Digest: Bx+/U6V6daGkv+mJHEkox5haPOM=
+
+Name: assets/BattleWin.png
+SHA1-Digest: e+GBwUQneZYJxwvq8YPpIbs/HJE=
+
+Name: assets/wp0Big/s6d.png
+SHA1-Digest: pyGC7/8xsVuXbcUW+wJEBeJ8toY=
+
+Name: assets/wp0Big/s37.xml
+SHA1-Digest: dQPpja8sx6FGNndQoaIInPmWV8s=
+
+Name: assets/AchievesTabLabel.png
+SHA1-Digest: irPoz7NGRv6WSVOZigBrssgHS5w=
+
+Name: assets/wp0Big/s6f.xml
+SHA1-Digest: hGXmWnGtz/FNKux9B1IfKreGJsI=
+
+Name: assets/wp0Big/sb5-ipad.png
+SHA1-Digest: PNZL+G3T9FdfvhYFxdUn3jIRL60=
+
+Name: assets/ef0/x09.m4a
+SHA1-Digest: sjg9nTxO+K0V+gaRJApCW8Z/UMs=
+
+Name: assets/wp0Big/s23.xml
+SHA1-Digest: e4wey8XE7bo8u2hTNFGuXZtxmew=
+
+Name: assets/wp0Big/s28.xml
+SHA1-Digest: q5I8OM08wEjPit1/bQn8RRsPosA=
+
+Name: assets/0c.tps
+SHA1-Digest: WVBO3MyB6gwP6Y+bFk6RlUqpSCQ=
+
+Name: assets/Pers/18.png
+SHA1-Digest: 4FqasFaHIKmY1XPCL/0vkF63ol0=
+
+Name: assets/GraphicDump/012/00/0120800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/stumpButton_2.png
+SHA1-Digest: ArWqiRCWy6iWOOO88ijFEeq3rKY=
+
+Name: assets/window1.png
+SHA1-Digest: GLNn7Uz8JrlgNsPFLUTNBmyA3Ac=
+
+Name: assets/GraphicDump/010/00/0100300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0/s87.png
+SHA1-Digest: F2Vqa4Ok9ATo4Kj1QWfX5KGa9iE=
+
+Name: assets/GraphicDump/06/00/060000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/CharacteristicsOld.png
+SHA1-Digest: fBER6GX9u9VLbJt/EVAb8EspigM=
+
+Name: assets/x0a.tps
+SHA1-Digest: o2MGF3jfEAvKeWJ+zZ/yYCI65h8=
+
+Name: assets/sv0/a24.png
+SHA1-Digest: S97r+9pLBYgry6l1bmkaOJD5G5M=
+
+Name: assets/06.plist
+SHA1-Digest: MicwkLUZGgCQOe4bzsNUumfsIyI=
+
+Name: assets/pk0/p25.png
+SHA1-Digest: 4TL4B5TQsMcBIsuxLA6CTPUpxKA=
+
+Name: assets/0f.tps
+SHA1-Digest: T7fVIoI7Mkew2NCx+dXyocBFfVg=
+
+Name: assets/Pesso.png
+SHA1-Digest: LAQ6le64+Trhaa9DfsDhsLjGS4U=
+
+Name: assets/Battle/8-ipad.pvr.ccz
+SHA1-Digest: 2gnKiHUl86708C8vrKbq/Laq8Gc=
+
+Name: assets/wp0Big/s12.png
+SHA1-Digest: hePMiJg+WdGBU97OfaQFEXxB2gY=
+
+Name: assets/wp0/s36-1.png
+SHA1-Digest: j9bu12dfYLDe6VG0Ykw1KeCpW+Y=
+
+Name: assets/Animation/x12.png
+SHA1-Digest: Ae3dGdtyX+dweSEwnCQfcXxz+m8=
+
+Name: assets/wp0Big/s29.xml
+SHA1-Digest: QsOSicnOBTZ2eULYoMiuoNSOnYs=
+
+Name: assets/GraphicDump/04/00/040300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0Big/sa8.png
+SHA1-Digest: a+5Q0ewRxcwHua41z9EK1Glr7wk=
+
+Name: assets/wp0/s104.png
+SHA1-Digest: KfoLFhGhpiyzkXPH4uRBSC6fz4U=
+
+Name: assets/buyEnergyButton.png
+SHA1-Digest: OW5Kn6NuiDaxwehCENfJxEJ6caE=
+
+Name: assets/wp0Big/s33-ipad.png
+SHA1-Digest: gG7i1IXZ1CfbFjAw5JofVhfafBY=
+
+Name: assets/wp0Big/s104-ipad.png
+SHA1-Digest: dpQ0O+MVXpSMooBG4NyXnwYk8Lg=
+
+Name: assets/wp0Big/s4e-ipad.png
+SHA1-Digest: E0evLtumGazmlZQ5k1MdUPBGDrU=
+
+Name: assets/4.jpg
+SHA1-Digest: dWZ68EKUMo5SlBA7KOOo0CVHndw=
+
+Name: assets/ef0/x05.ogg
+SHA1-Digest: rWqqIREU/1uSAjEaGTYO/wj2dWo=
+
+Name: assets/Take.png
+SHA1-Digest: jZR3O54tViMAHdsbITDpRFgm+KY=
+
+Name: assets/wp0Big/saa.png
+SHA1-Digest: glVfJTnmmVCB228PTu54jiCMgbI=
+
+Name: assets/GraphicDump/011/00/0110600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/ru.lproj/MenuGraphic.pvr.ccz
+SHA1-Digest: PcBfWvCk1kIiwoM2PQmsJWZsLZ4=
+
+Name: assets/Animation/x05.plist
+SHA1-Digest: s0uzMXSKPfnQBSsOdEuu7wLhMsI=
+
+Name: assets/ru.lproj/Default.png
+SHA1-Digest: vzQHiZvfWOW1VcFaAXhlt1zWZ9A=
+
+Name: assets/Battle/12.pvr.ccz
+SHA1-Digest: 9KS+Tv3bI4pKU6TetFyUfDnOkIU=
+
+Name: assets/Pers/13.png
+SHA1-Digest: wbT8Evi4Z/QwB10gsZO44FeXTZ8=
+
+Name: assets/icBook.png
+SHA1-Digest: NssekjMO8rcZ0EIdB3b3PxBYd5k=
+
+Name: assets/ru.lproj/Tutorial-ipad.xml
+SHA1-Digest: +NfOHwF5wtJ1L5HonkafO2XrDlo=
+
+Name: assets/wp0Big/s103-ipad.png
+SHA1-Digest: tre0Wr8h3LGY9axaSjNtuXDiiOE=
+
+Name: assets/wp0Big/s01.xml
+SHA1-Digest: S28E7p0XtH0zSgyGbreseU9xF/M=
+
+Name: assets/27.png
+SHA1-Digest: Qdghj291qTF8TFaOI3HLmii8KI8=
+
+Name: assets/01.tps
+SHA1-Digest: 15/rbD1/OiRl9Q7orzXQq4XtgGU=
+
+Name: assets/013.plist
+SHA1-Digest: +1S5pKkFgIFIXvviCxezfiean1I=
+
+Name: assets/bag/bag01.png
+SHA1-Digest: ELkL9/XdJLm7/cTzoVxODQaolvA=
+
+Name: assets/icCommun.png
+SHA1-Digest: jzrkp8KY8nsdrmAmtzOmwYvWmXw=
+
+Name: assets/wp0Big/s82.png
+SHA1-Digest: 71u0Msy356iuiVJ2BYuDObiDVUo=
+
+Name: assets/deleteMsg.png
+SHA1-Digest: J0vxYx2572ghI9xjLMbm6G81cnY=
+
+Name: assets/foot_rigth_anim.png
+SHA1-Digest: L+OUNAWNDEm1Km+Omb1dgIEzL/4=
+
+Name: assets/Animation/x07.plist
+SHA1-Digest: hXPW+3PN+SNEGopj56ZS/bfY2KY=
+
+Name: assets/bt0/g01.png
+SHA1-Digest: W7QRyX1fonBjtB03qLMlDVhzfh4=
+
+Name: assets/wp0Big/s67.xml
+SHA1-Digest: tBqo2E3DdbfCjFlCxxNfvAIpmM0=
+
+Name: assets/wp0Big/s8e.png
+SHA1-Digest: Ww47EOBKFz5rqZIwWa8WtBxXTVk=
+
+Name: assets/wp0Big/sb0.png
+SHA1-Digest: KerF4PtTE+abVmc9cyhE1zlkEPM=
+
+Name: assets/02-ipad.plist
+SHA1-Digest: 4qLMw3PeAalX2HwaftFvUfFS5yQ=
+
+Name: assets/wp0Big/s4c.xml
+SHA1-Digest: HL2RML3b/2KMUrDwO5B8pof3Lb4=
+
+Name: assets/7-ipad.jpg
+SHA1-Digest: w3QhPWjAwciViD312jyRAb5o5qg=
+
+Name: assets/05.plist
+SHA1-Digest: i53Pmujr+Q/suU+YfIY/JVqVt7E=
+
+Name: assets/message4.png
+SHA1-Digest: 3XaEStSOChisNeiFRFKP3TZ1SWk=
+
+Name: assets/wp0/s71.png
+SHA1-Digest: Bl+NlVGhvt0BRLwC5IodrXx0yCo=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
+Name: assets/wp0Big/s6c.png
+SHA1-Digest: hh1FtVL3xDjzxVd3TNfAXLtoaeA=
+
+Name: assets/wp0Big/s85.xml
+SHA1-Digest: NNMa4lTy1VmWB74RwPuLVURG/GU=
+
+Name: assets/sh0/s02.png
+SHA1-Digest: 8BsgjTRGtuwSsQKvNFFgQWZU24o=
+
+Name: assets/wp0Big/e03.xml
+SHA1-Digest: XmI6ve+pKBCjX1EOUzFZwYZO1cI=
+
+Name: assets/DexterityProgrBrown_0.png
+SHA1-Digest: CKCZ/NW2Fug65ZKzt+PCYFV9mjU=
+
+Name: assets/07.pvr.ccz
+SHA1-Digest: wRM5uShL3WGARn1uCSULHtVoLRY=
+
+Name: assets/wp0Big/s01.png
+SHA1-Digest: SVR9XSRUzmBzb6s1Uo8Jh6sdd/U=
+
+Name: assets/wp0Big/sa8.xml
+SHA1-Digest: aM3Xu7sMINL741VqMyWeQQfOjfc=
+
+Name: assets/wp0/s02.png
+SHA1-Digest: 2eTkN699W0kMi9a7tbKaYpmUu1c=
+
+Name: assets/ru.lproj/Name.png
+SHA1-Digest: OrP0Uc6H5KOpLk0wsgAzej8kyIs=
+
+Name: assets/Icon-Small-50.png
+SHA1-Digest: OjYizaNoo4cGqtjO54TtMI9q9/E=
+
+Name: assets/0c.pvr.ccz
+SHA1-Digest: Xu/z2wkNHgdrPYDQp4p+e9aDz4k=
+
+Name: assets/GraphicDump/07/00/070000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/Badge0.png
+SHA1-Digest: skYF8bnVfti02e/uYslOIdukWpo=
+
+Name: assets/wp0Big/s35.png
+SHA1-Digest: 1UdkMlzgYq6BSDZwgxQSbcMdnFE=
+
+Name: assets/ef0/x03.m4a
+SHA1-Digest: IOjkPUzynq3BrPeL3BmBKGubs3s=
+
+Name: assets/wp0Big/s77.png
+SHA1-Digest: X+fw+g+5qUR3w5qg0FVj9wGsNwA=
+
+Name: assets/wp0Big/s8e.xml
+SHA1-Digest: fwaXBFavj2Kn8zcqreKfrkCDzIU=
+
+Name: assets/ScrollBackground.png
+SHA1-Digest: Hi6fP0Fe+1fl91tGHi897a3S2/s=
+
+Name: assets/wp0/s4b-1.png
+SHA1-Digest: +R6RRXvmG8M2Ig4Lmdz9nGKd9Vg=
+
+Name: assets/realCoins.png
+SHA1-Digest: 6yzBzfxAD7mMEDjZq8nSpx/GTPo=
+
+Name: assets/reqFnt.fnt
+SHA1-Digest: 4wh96XmClNITiDc4xPVcH6d70eM=
+
+Name: assets/GraphicDump/0b/00/0b0800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/wp0Big/sa1.xml
+SHA1-Digest: RMTTJfGlOxm1F3TZLP+ioIr16QY=
+
+Name: assets/wp0Big/e02-ipad.png
+SHA1-Digest: o6UMsWP0eriTYVP/ZV/Pg5jgmCg=
+
+Name: assets/sv0/a02.png
+SHA1-Digest: +kyrNADjIKBdG2QSKFxnLzdbPv0=
+
+Name: assets/wp0/s4a.png
+SHA1-Digest: 09WugJMwCsBX9Fd+6P86CqrRQWg=
+
+Name: assets/pk0/p08.png
+SHA1-Digest: ER1sGSHQE0NFgsx+2ctMV24T9AE=
+
+Name: assets/wp0Big/s67.png
+SHA1-Digest: Wo8gZneE2HZ65nkpXCyElDiR/Do=
+
+Name: assets/wp0/s65.png
+SHA1-Digest: mTmolKvZ4gQ3BWwqnuFJxPuS+Zo=
+
+Name: assets/GraphicDump/09/00/090000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/wp0Big/s54-ipad.png
+SHA1-Digest: RfEauPmCAMNzDvEepvEdIQfRByw=
+
+Name: assets/wheelShadow.png
+SHA1-Digest: yQfEYUF2Em6skyDqpqTBgJIsCmQ=
+
+Name: assets/wp0/s34-1.png
+SHA1-Digest: icGtY+4c0aSRe5M8YWvbyoj2iSc=
+
+Name: assets/wp0Big/s90.xml
+SHA1-Digest: hkzE7dcUV8Q46yVhWAUA8r1DHNQ=
+
+Name: assets/PlayerLooseRating_0.png
+SHA1-Digest: 8Kb5X8w7bro3SZfjMxUw+wi8xM8=
+
+Name: assets/Arrow3.png
+SHA1-Digest: mjsEdXiN0+FTHqpywXn4Nt2dr4s=
+
+Name: assets/s01.png
+SHA1-Digest: dvYQ4UfT/LHMRHJZezZiHdnXwQE=
+
+Name: assets/03.pvr.ccz
+SHA1-Digest: cmp3R6VnctcP6J8JibVaYLS7Y9k=
+
+Name: assets/0d.pvr.ccz
+SHA1-Digest: T/U8NTZHtCgpmhPUTv2qQI4WKE0=
+
+Name: assets/exp.xml
+SHA1-Digest: rH+7PxuTIH9DsJlkmDoQrbdNIWA=
+
+Name: assets/bt0/e01.png
+SHA1-Digest: 4IgftThIUz8B3JYHzL3LJ7/zktQ=
+
+Name: assets/wp0/s93.png
+SHA1-Digest: OAL987/rDA/PNqgauQo8vf44h2M=
+
+Name: assets/s0d.png
+SHA1-Digest: yudGo2EDWZ6rVbh0loRAVB4ew88=
+
+Name: assets/ac0/a32.png
+SHA1-Digest: oZXZyWb42jC8hMcRdWz9qzqKcE0=
+
+Name: assets/wp0Big/s9b.png
+SHA1-Digest: IpGgTixd3UxlAnCIManPwh1/0KM=
+
+Name: assets/achiev_bg_4.png
+SHA1-Digest: 72evnpJk1YVY0S4ouwROldB4gTI=
+
+Name: assets/Pers/9.png
+SHA1-Digest: bsCaAVIhXffJjJs8dz3yd2tyM6Y=
+
+Name: assets/bag/bag09.png
+SHA1-Digest: vpOfA6Mx3vXTjro3g2MMl3D+7wk=
+
+Name: assets/wp0Big/s102.png
+SHA1-Digest: Fb9R1bI880JoFJoXkLGjqWyL+SQ=
+
+Name: assets/BankPessoButton.png
+SHA1-Digest: DnOpHlcLJApOtrp/7uzIKzjkkx8=
+
+Name: assets/bag/bag06.png
+SHA1-Digest: +oiojo0k0i8nKBApt38wpsN7MGY=
+
+Name: assets/wp0Big/s14.png
+SHA1-Digest: lt3mR7hfjiZGXYnRbKkX75jaw9k=
+
+Name: assets/GraphicDump/0b/00/0b0000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/BigEnemies/11.png
+SHA1-Digest: zxrxeL2RUjtezgQUyssBn+llMGY=
+
+Name: assets/BankShadow.png
+SHA1-Digest: YdOTR6rDGJKwVKPyOUbEPRBHLPY=
+
+Name: assets/icon.png
+SHA1-Digest: atRYNh7wl99GYknKTfAtCmUogEU=
+
+Name: assets/wp0Big/s102.xml
+SHA1-Digest: 3qPySjEcq1RN8aK9IZQn4D72wvc=
+
+Name: assets/bt0/z02.png
+SHA1-Digest: 7hBd3W3XV2k52gWsgs8oPe8Fsbk=
+
+Name: assets/DonePrize_1.png
+SHA1-Digest: uHbmqzfbdT5E8bak8XE7PVrDlTo=
+
+Name: assets/pessoFont.fnt
+SHA1-Digest: LKAoFxbZ/mySFlqDRPzQeHEOIfE=
+
+Name: assets/x0c.tps
+SHA1-Digest: ECbiSsQtnEI/dJoqw4n97gW5b9k=
+
+Name: assets/wp0/s53.png
+SHA1-Digest: fkMUfmNFNfykdvG/T6tfDG4OtSE=
+
+Name: assets/wp0/s7b.png
+SHA1-Digest: e0e+kJ03uWJbgg6DDPtwD8cVjmc=
+
+Name: assets/35.png
+SHA1-Digest: tQVTadtxmSqLa6a60OVa6ROFcME=
+
+Name: assets/wp0/sac.png
+SHA1-Digest: 0XTl10firD/V3M9qRwyRG5RMq6g=
+
+Name: assets/bag/bag02.png
+SHA1-Digest: tkS0ngU8LxGZLvadmnjI/P4xBLs=
+
+Name: assets/ef0/x01.ogg
+SHA1-Digest: BuQ1NJvmKzJRVEpBnv6UxUPmQPM=
+
+Name: assets/06-ipad.plist
+SHA1-Digest: U0H32zN4FS5aJ9/pRAJ11MsRk9Q=
+
+Name: assets/ru.lproj/EnduranceCrystal.png
+SHA1-Digest: A77XATLVAvOySLf/9xjGhceOyPs=
+
+Name: assets/icSoundON.png
+SHA1-Digest: c32m/V11YodxetutJeH3YvmqZIA=
+
+Name: assets/013-ipad.tps
+SHA1-Digest: YPGK+ltUZnmovvbqpUz0VXCHYzA=
+
+Name: assets/tieRating_1.png
+SHA1-Digest: 9EBxLyHihxRympAaU6nXVfmEpYo=
+
+Name: assets/message_TabBar_ru_test.png
+SHA1-Digest: uJfpdOZTKBc94dTFhQGHxxs+hIA=
+
+Name: assets/wp0Big/s9d.png
+SHA1-Digest: I+kJPA3E/jARzJqfGtiIwWR+sGA=
+
+Name: assets/08.pvr.ccz
+SHA1-Digest: BeLwrd+ItyegHUkWdXWWJkqusaY=
+
+Name: assets/wp0Big/s651.png
+SHA1-Digest: zhFLU0+en1YcDM6h3LsRZB2aorg=
+
+Name: assets/Tahoma14.png
+SHA1-Digest: zOv9r5kDDA5H7FaT2se8cMIXpN4=
+
+Name: assets/icRukz.png
+SHA1-Digest: y6nFiyAJYcJy+rmJxIL4cLj8iFU=
+
+Name: assets/wp0Big/s30.xml
+SHA1-Digest: +R2/zsMrn9hrzLosn0YZFnblHh4=
+
+Name: assets/wp0/s35.png
+SHA1-Digest: HvKMCQtGV+skhQm7nElQFt24LMY=
+
+Name: assets/ru.lproj/Requirements.png
+SHA1-Digest: /wvcDlfOfMM9uYV2Jih6CD7XmLM=
+
+Name: assets/02.tps
+SHA1-Digest: wR00DHZ2cG8TAFeGV8B50lajL4U=
+
+Name: assets/wp0/sb5.png
+SHA1-Digest: OYZxBCH7ebNbNZYGeD6VPWgSm4I=
+
+Name: assets/BadgeMini1.png
+SHA1-Digest: K3MZC7ctMChuK3kPFxMePR84CTg=
+
+Name: assets/0c-ipad.tps
+SHA1-Digest: QePTInOKhl0lBCKgH1zsV4maP9I=
+
+Name: assets/Animation/x19.png
+SHA1-Digest: Ae3dGdtyX+dweSEwnCQfcXxz+m8=
+
+Name: assets/wp0/s43.png
+SHA1-Digest: 6KXe8kSdh/Ze51nP9xZ7zqQaoWc=
+
+Name: assets/FriendsBgSocial.png
+SHA1-Digest: QGzik5A2vfyk/Ei600GkwID+RP0=
+
+Name: assets/wp0/s27.png
+SHA1-Digest: cbp5hZXRemncCV1OlEJHo1WZgc4=
+
+Name: assets/wp0Big/s43.xml
+SHA1-Digest: dUs8UtB3//J+AJ4yB48bG7HOSvQ=
+
+Name: assets/59.png
+SHA1-Digest: +ph34BDzBCVzmQvf5MQxalizIMI=
+
+Name: assets/ac0/a37.png
+SHA1-Digest: XsSXQygjOwWQQVJlxWDdYI2SQhA=
+
+Name: assets/fnts.pvr.ccz
+SHA1-Digest: cuoXkIcB/Py/PSq8RGGcpx74m5c=
+
+Name: assets/BigBoss/19.png
+SHA1-Digest: wF11kwYhuqWpMBckroNA6rSf24w=
+
+Name: assets/15.png
+SHA1-Digest: V+zmEr5lLGd5X4ZBxQb/tBe3DhI=
+
+Name: assets/ButtonInventory.png
+SHA1-Digest: DED/JjLvCyhu3YNMMgWnUeKlhF8=
+
+Name: assets/EnemyLooseRating_0.png
+SHA1-Digest: XQ8BhvjSjBl9uMub48bNM5/dr0o=
+
+Name: assets/ac0/a15.png
+SHA1-Digest: dyIc6SYbgajk/0ab2LjIwh7oCFQ=
+
+Name: assets/ef0/x0e.ogg
+SHA1-Digest: YwVj75+V241wNQKV4C/beKkEGrE=
+
+Name: assets/wp0Big/s80.png
+SHA1-Digest: tNUP6GJ20NcnQWPUuAbanz55Q2I=
+
+Name: assets/wp0Big/s4e.png
+SHA1-Digest: W1tQxIhQvDMk7mYP8bmtOvPURog=
+
+Name: assets/23.png
+SHA1-Digest: O34hKMx5BMm56LlEjcP88YUwXmw=
+
+Name: assets/wp0Big/sac-ipad.png
+SHA1-Digest: HxXbCIyjP6CyKE4abBu85IhxI9g=
+
+Name: assets/wp0Big/d03-ipad.png
+SHA1-Digest: fZE9UCw9nlhsgtIO1gYkViavHLI=
+
+Name: assets/Scroll.png
+SHA1-Digest: JG+qt6TuEjurhT2+r1AqOaTLLtk=
+
+Name: assets/gui/weapon_set.ogg
+SHA1-Digest: WHnFqE6YgbZOil9ZpJ9A5uxrJjM=
+
+Name: assets/icCup.png
+SHA1-Digest: kPbZlNV/dHKzjld/SLU67rZII6A=
+
+Name: assets/ac0/a33.png
+SHA1-Digest: umFHk246fLgbqqZnM3lDtqjGqEs=
+
+Name: assets/GraphicDump/0a/00/0a0300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0/s106.png
+SHA1-Digest: 6+D4FleCisPbiMwA0hn52U74qOw=
+
+Name: assets/pk0/p13.png
+SHA1-Digest: WOMNubphSVktWVSG1OINjL3FtGw=
+
+Name: assets/Battle/12-ipad.pvr.ccz
+SHA1-Digest: gMwjM81YwNtXu5LtbJmlm/XYuYs=
+
+Name: assets/wp0Big/s01-ipad.png
+SHA1-Digest: O02QApr4NXyp3Gco6NZQ2IfvOYs=
+
+Name: assets/wp0Big/s6e1.png
+SHA1-Digest: oDOIkHcC+rmQWT9CWrFlL9Fv7+k=
+
+Name: assets/Pfont.fnt
+SHA1-Digest: AJsjz0JdvnOMHdjt6v6q59KqAuE=
+
+Name: assets/Animation/x0a.pvr.ccz
+SHA1-Digest: AhqwKgIbL82uBwhVq9R+0gHEMIE=
+
+Name: assets/pad4.png
+SHA1-Digest: xe/1RTdMHAhhTHN6jmjcmXmDd14=
+
+Name: assets/BigEnemies/10.png
+SHA1-Digest: JNbuBkJNkgykpE5spqySFSQtlIw=
+
+Name: assets/wp0Big/s22.xml
+SHA1-Digest: bgwQYYd5AIsCHzeIqL43+6d9a20=
+
+Name: assets/wp0Big/s107.xml
+SHA1-Digest: aUEWAo5ZJOJMrlaWKfu23PItWe4=
+
+Name: assets/Tahoma40.png
+SHA1-Digest: 34vkpJtmsZBLoiIC3Q1wL7Tv0jk=
+
+Name: assets/ExpProgr_2.png
+SHA1-Digest: yB4fQQQe4mDdudKvT2tj5zVxV8g=
+
+Name: assets/bt0/e03.png
+SHA1-Digest: rPqfKX1nljtOmIKqEr9pjlkcCOo=
+
+Name: assets/BigEnemies/1.png
+SHA1-Digest: bYoRhA/p6YvdACv+tctXflb5S+0=
+
+Name: assets/pk0/p03.png
+SHA1-Digest: URW3xgkCHgvS5YpadI9HxWpBxPM=
+
+Name: assets/tutorial1.png
+SHA1-Digest: yqMhTwLwhNCZJIDuxmo6KKp+y/k=
+
+Name: assets/sv0/a23.png
+SHA1-Digest: pp/X0O5q3LcJXbgDOGhQUYZg9Ho=
+
+Name: assets/bt0/c03.png
+SHA1-Digest: KLPGYMKJdtqhrEOpBVzs8Pwd21M=
+
+Name: assets/StaminaProgrBrown_1.png
+SHA1-Digest: AIEU2TjbdRKdc28jv3+h5/v2DHA=
+
+Name: assets/wp0Big/sad-ipad.png
+SHA1-Digest: oaqnOdDawbkIKaV0kpkiX0g9++Y=
+
+Name: assets/CloseButton.png
+SHA1-Digest: yq0GcEIVe2Pq1PhWCLF9qEgpHJU=
+
+Name: assets/Animation/arenaSmoke1.pvr.ccz
+SHA1-Digest: O3rHsm/bp1HY7rSg6ZTFiM80S1k=
+
+Name: assets/wp0/s112.png
+SHA1-Digest: KUUxWpuAPwC0F8gVivAz1lNBvK4=
+
+Name: assets/loading2.png
+SHA1-Digest: HfsdescYCXp8925xSkMValPoTeY=
+
+Name: assets/0f.plist
+SHA1-Digest: iBCZMMtBjGD/KBm3/gbzzMqEf/4=
+
+Name: assets/perks6.png
+SHA1-Digest: bVJFFQTdYx2ACY4wLRaVpN7xPFg=
+
+Name: assets/pk0/p38.png
+SHA1-Digest: b+7oA2HlwKkkzrWoA5wXgjKw14E=
+
+Name: assets/PlayerWinRating_1.png
+SHA1-Digest: E9yFBDkdVlfzgM3qJ43dkNZtPqQ=
+
+Name: assets/GraphicDump/02/00/020000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/Animation/x0f.png
+SHA1-Digest: QFkINOOjV2+S0AZ37se8E6p1rXw=
+
+Name: assets/wp0Big/s55-ipad.png
+SHA1-Digest: 1SkXdsPDssBx/QhsPANYsxS8GCY=
+
+Name: assets/SendImg.png
+SHA1-Digest: qj1soHk5BRvxYEgKIZ1fkmeU3g0=
+
+Name: assets/GraphicDump/0a/00/0a0800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/Tahoma32.fnt
+SHA1-Digest: HGzD4WXEndnnOJSpwgOZF2fx1+Q=
+
+Name: assets/Pers/1.png
+SHA1-Digest: ElKywoep+zpUu1ILG9U2x6CKlPU=
+
+Name: assets/wp0Big/s104.xml
+SHA1-Digest: E7HT88xzmd26yC4vX5U8WDBGiZU=
+
+Name: assets/wp0Big/sa2-ipad.png
+SHA1-Digest: K9RrDcOXGXRyxkTWMb0guxP1arY=
+
+Name: assets/Armor.png
+SHA1-Digest: 19kywHv7AgNcyzvUF63fgOqhm7w=
+
+Name: assets/perks3.png
+SHA1-Digest: OHYdapHkhMkZEuAGYqvCRYfv0v0=
+
+Name: assets/wp0/sb4.png
+SHA1-Digest: qjZPOgSG3NV+gK6LkXoWIaKB6io=
+
+Name: assets/wp0Big/s108-ipad.png
+SHA1-Digest: P8s2hrLIIzlEHboORpq1agKYZbQ=
+
+Name: assets/68.png
+SHA1-Digest: /F1ouEDms0Naqwxw+biTdxo3GJE=
+
+Name: assets/StaminaProgr_1.png
+SHA1-Digest: +lzKH5SIRMPR6haOrz7AI9XyEmM=
+
+Name: assets/town5.png
+SHA1-Digest: mOg4cY/GluKEAymuwTcP1P+2TBk=
+
+Name: assets/Animation/x08.plist
+SHA1-Digest: pnCLfpt/Xh/2/jcpP7bjd7UiH7I=
+
+Name: assets/AskFriendForHelpBackground.png
+SHA1-Digest: Ae8ngi595ahveiST1UJoR8Y3h6A=
+
+Name: assets/HealthProgrNewBattle_0-ipad.png
+SHA1-Digest: sgJ2t6md2yt6UVTpKvrgFEUxkRE=
+
+Name: assets/wp0Big/s114-ipad.png
+SHA1-Digest: C8AVNkeky6RFbtmS6wQkxcGIoJc=
+
+Name: assets/tutorial4.png
+SHA1-Digest: 54FwnhOpR2ErBi2GXTeaqEyYeyA=
+
+Name: assets/PowerProgr_1.png
+SHA1-Digest: T31M35hyaP6lh/qT1Bq4pJgnfas=
+
+Name: assets/07.plist
+SHA1-Digest: Ci5X5RubrYI+flrmgdOVMSKLh6U=
+
+Name: assets/healthbar1.png
+SHA1-Digest: Ky9nK6232u9szMooVotXlLvZ99M=
+
+Name: assets/ExpProgrBackBegin.png
+SHA1-Digest: 1AcpUph9m2LMTM2Y2+hxc6UXNC0=
+
+Name: assets/LoadingBackground.png
+SHA1-Digest: Y9Rzz9F76wDEcpxCeFp19s7qMhY=
+
+Name: assets/PersCodeFont.xml
+SHA1-Digest: tL60X1zt3SB4Q5LGjQMGU8lh89s=
+
+Name: assets/wp0Big/s4e.xml
+SHA1-Digest: faCGu29ypgqTc2NT+4pNOJzxsWw=
+
+Name: assets/ButtonGetReals.png
+SHA1-Digest: QWLNCG4fQ7gKhA42NmpQXDGWPZo=
+
+Name: assets/GraphicDump/0e/00/0e0500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/wp0Big/s1101.png
+SHA1-Digest: oSWRi3Fh3arWkcd1goHxfnK6jTM=
+
+Name: assets/wp0Big/s78-ipad.png
+SHA1-Digest: pw6fdSkalWh+7xudniT2u3VMnrc=
+
+Name: assets/7.png
+SHA1-Digest: a4h4nPmtSny2u1fKnBLayL79ApQ=
+
+Name: assets/wp0Big/s64-ipad.png
+SHA1-Digest: mhjnx3CJTsq2B95djChEcfYdQ4Y=
+
+Name: assets/wp0Big/s102-ipad.png
+SHA1-Digest: 9M0H2F4JjE7OgwHu/8lU++A3ppg=
+
+Name: assets/Animation/x0b.pvr.ccz
+SHA1-Digest: LAyjbbnZl9Mi+ARHbA7X+MuWu0Y=
+
+Name: assets/wp0Big/s94-ipad.png
+SHA1-Digest: 8kMM9yZYaYGsUBjR3ME9XtuBFrQ=
+
+Name: assets/wp0Big/s4a.png
+SHA1-Digest: RNCLzMHe64uuk+9wJJdP3aD4fl0=
+
+Name: assets/bt0/g03.png
+SHA1-Digest: +D6N1A5+tM7SyrR7kcJsBhrmdwA=
+
+Name: assets/wp0Big/s29-ipad.png
+SHA1-Digest: nxIMOC9dtTIRi3bvN6O8jtGVG0Y=
+
+Name: assets/wp0Big/s109-ipad.png
+SHA1-Digest: jnuqhl8i+53rK6H8xzZ2bmdgHUg=
+
+Name: assets/NewsNotification0.png
+SHA1-Digest: UdwX5NBUbjHBEEjxody73iGfO0w=
+
+Name: assets/pk0/p17.png
+SHA1-Digest: HckK7soLWHxoPEijIh7iFMzVzIA=
+
+Name: assets/wp0/s80.png
+SHA1-Digest: +oRIm9bqJJ9bf++s0gcrE2h9lSY=
+
+Name: assets/en.lproj/MenuGraphic-ipad.plist
+SHA1-Digest: ri9VoTXChB0RYU8wGfY1lPcQeVM=
+
+Name: assets/Tahoma26.fnt
+SHA1-Digest: 2B4ohYXB7dPji8Qzy3/isAOzycs=
+
+Name: assets/wp0Big/s781-ipad.png
+SHA1-Digest: dH8HmIbuKZpIyzDVBQyrGlABipQ=
+
+Name: assets/s03.png
+SHA1-Digest: +wMozHOZTxn3CgCgPyU/wPCTJTs=
+
+Name: assets/arenaElk.tps
+SHA1-Digest: FqoiFwe89aBDSR0PGPmfO09qgpo=
+
+Name: assets/ef0/x02.m4a
+SHA1-Digest: /ldwg385NJRuNHIAyuT3fhOilEg=
+
+Name: assets/HealthProgr_2.png
+SHA1-Digest: tHqSFP2TYlDVqtuJ8T8FWfuCrq4=
+
+Name: assets/pTabOld2.png
+SHA1-Digest: zvFkrdSpIksa/HOCaP01kXS3A0M=
+
+Name: assets/wp0/s30-1.png
+SHA1-Digest: gzqOi5RG+bWEN8xx/lSZgRZ7QiE=
+
+Name: assets/Animation/x06.png
+SHA1-Digest: OsWeZfiW9CX/Wdh4ptNZTWm4NYQ=
+
+Name: assets/wp0Big/sb4.xml
+SHA1-Digest: SRdDIHq6kd2aYn4FIey/WSDsmho=
+
+Name: assets/wp0Big/s26.png
+SHA1-Digest: MYWTKEcC21UPbuOAfsN9CVHc2aE=
+
+Name: assets/message_TabBar.png
+SHA1-Digest: MduQeTK/LmE/X2a3nFVUN+oLLOI=
+
+Name: assets/wp0Big/s83.png
+SHA1-Digest: lSNH0lsMPS6ZOcJ0YvO7sOLbwdM=
+
+Name: assets/09-ipad.plist
+SHA1-Digest: mHegK1Q2kEg+gRo0bFcXUefK8TE=
+
+Name: assets/43.png
+SHA1-Digest: YU3ooQ1Ua9blWAFc8ccqQby/TGY=
+
+Name: assets/wp0Big/s4a.xml
+SHA1-Digest: 9uCTujPvd3bpVbeIfc1qSljGHWM=
+
+Name: assets/wp0Big/sa1.png
+SHA1-Digest: GJrigVyya+AEUELhiS4wu3ezQNI=
+
+Name: assets/DailyBonus.plist
+SHA1-Digest: 5bHLuW91NIFHY2HtYglvSGFHfYA=
+
+Name: assets/slot2.png
+SHA1-Digest: JLF7gmxWo3y3TZODibnnEjnNPd8=
+
+Name: assets/wp0Big/s6f-ipad.png
+SHA1-Digest: w36bjwgtfhIc3ur9nXQ7q9ETwsU=
+
+Name: assets/Tahoma14.fnt
+SHA1-Digest: JZ0DCzks2cycZzkZd8ZGAVqgZ2k=
+
+Name: assets/wp0/f02.png
+SHA1-Digest: GxRMvqFuDhdpx5NhMWcxWwO8+Jc=
+
+Name: assets/s14.png
+SHA1-Digest: pwS6zL9iBkl2RWd99vXRiyxZihc=
+
+Name: assets/ButtonRemove.png
+SHA1-Digest: PojdAvGEmnHoJyWTfphr4fEkNdA=
+
+Name: assets/bt0/d02.png
+SHA1-Digest: zRMmbeA225XXe/LMuey2m75fRXM=
+
+Name: assets/wp0Big/s111-ipad.png
+SHA1-Digest: fZX/1DRHA00uJR/3l5q7FayC80g=
+
+Name: assets/slot0.png
+SHA1-Digest: LExhZBkRZzzGhd5oPj5b+Y3XKKA=
+
+Name: assets/0a-ipad.pvr.ccz
+SHA1-Digest: wYBLCCZCoYMDizB9JFiPPModBdA=
+
+Name: assets/wp0Big/s4f-ipad.png
+SHA1-Digest: +zsTr5Ei+9tRSp5nigaq7tNNQsM=
+
+Name: assets/70.png
+SHA1-Digest: /F1ouEDms0Naqwxw+biTdxo3GJE=
+
+Name: assets/wp0/s105.png
+SHA1-Digest: p9pl6vibEqpwrzAy0uJnWVYpSu4=
+
+Name: assets/3.jpg
+SHA1-Digest: dtkQgeU7rp2ZNHJFztCv5FOdkPc=
+
+Name: assets/wp0Big/s15.png
+SHA1-Digest: ho7KhhEhRi6uheekOJG/xUIdGJ8=
+
+Name: assets/PersCode.fnt
+SHA1-Digest: 3df6I3ngM1E/kId87SzxaDIEiCw=
+
+Name: assets/GraphicDump/01/00/010500/lib.xml
+SHA1-Digest: bDSJv5Q4/Vv2F59xrRUXrS24uCM=
+
+Name: assets/pessoCoins.png
+SHA1-Digest: osrDxPhYFonJVBvBYOFQPcEupec=
+
+Name: assets/ac0/a04.png
+SHA1-Digest: 31E+pm9ddf7SkRlF3Mzy49hIkqs=
+
+Name: assets/09.plist
+SHA1-Digest: XXm2nfQD2/exmT8ZELs2KtgZTNs=
+
+Name: assets/wp0/s44.png
+SHA1-Digest: 2zbqz5XxaF27+AweqXQ5bwD93GA=
+
+Name: assets/GraphicDump/02/00/020500/lib.xml
+SHA1-Digest: t5Tmm3dGl0vYPSfdEb29cp2YpTI=
+
+Name: assets/ef0/x0d.m4a
+SHA1-Digest: Ns48qzJvv7Rczq0QTB7YmxradTc=
+
+Name: assets/hint1.png
+SHA1-Digest: we7gZByjEMpjZh5nvWdQkw3xKUY=
+
+Name: assets/sh0/s09.png
+SHA1-Digest: 3vsLpTM0nT6LdzcjGeATZAGSapY=
+
+Name: assets/stars2-grayscale.png
+SHA1-Digest: 69EJnL4Da7nAH+mRUb+N+3y7UNc=
+
+Name: assets/wp0Big/s29.png
+SHA1-Digest: J0TrOiF921ukfDBXuGCfRSfAarY=
+
+Name: assets/ComponentButton1.png
+SHA1-Digest: YId/Ig6xKLLcbpvd6RXIAso4sDo=
+
+Name: assets/GraphicDump/08/00/080300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0/s38.png
+SHA1-Digest: tePHx37uDJdtJCL8Sxf2Y3VYjoI=
+
+Name: assets/07-ipad.plist
+SHA1-Digest: r0Znd3T1HaYX9gu6Jdg4f0Gw6AU=
+
+Name: assets/ru.lproj/Buttons.pvr.ccz
+SHA1-Digest: xVMoQb8JmDjC5d6eLPgTGE70qpw=
+
+Name: assets/s0a.png
+SHA1-Digest: L6di9Jb73FJAp93oEcKhP5SRyIs=
+
+Name: assets/ac0/a12.png
+SHA1-Digest: X6NTbArzKYqEz6F5kkk/Td0hdag=
+
+Name: assets/wp0/s4f.png
+SHA1-Digest: l9xQdxIfMWJJvspjaJ71fLeSTW8=
+
+Name: assets/wp0Big/d01.png
+SHA1-Digest: OQfNY8ZKoW0dwGSv08LoN7voK90=
+
+Name: assets/DexterityProgrOriginal_2.png
+SHA1-Digest: h98CYqjMw63niiczJKrNea03aM8=
+
+Name: assets/wp0Big/sb41.xml
+SHA1-Digest: yRK8/gpI715BsOGKVLSEcPW8tds=
+
+Name: assets/s15.png
+SHA1-Digest: 1LAkCCMTlYZ+RQvnx1OR32ssSTI=
+
+Name: assets/wp0Big/s91-ipad.png
+SHA1-Digest: zyk/bBUuaGMcifkEYWcR9QYNidg=
+
+Name: assets/devider.png
+SHA1-Digest: +XOgOl/rBpW+1mciuu/SdFJQaBs=
+
+Name: assets/pad3.png
+SHA1-Digest: KtEr2T7AbZrwOgcnkcVaNk6eLPc=
+
+Name: assets/38.png
+SHA1-Digest: cYhtpOZOF5YqZbucR7l5VJ6gtyU=
+
+Name: assets/GladeBackground.png
+SHA1-Digest: cJtL9iPwpDjx+RYtTYfm1KssXJU=
+
+Name: assets/wp0/s77.png
+SHA1-Digest: 0sTqodXK5ypU+vdtFzbCTgLu/e4=
+
+Name: assets/wp0Big/s7c.xml
+SHA1-Digest: lJv7KWuZvV6mVHCAiW5F1rJaooQ=
+
+Name: assets/GraphicDump/05/00/050600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/wp0Big/s7a.png
+SHA1-Digest: JB6POVbh3LhNo0XIBcXdHZThRVY=
+
+Name: assets/013.tps
+SHA1-Digest: Q93UhMK4vO9+O7DCCYQZG2XXp2g=
+
+Name: assets/PersCodeFont.fnt
+SHA1-Digest: Yl9GaXaWoAn6ctxcDHrXJnSehHI=
+
+Name: assets/icGift.png
+SHA1-Digest: u6y+piedeBT4843k3JCnI1lNC+s=
+
+Name: assets/wp0/s6e.png
+SHA1-Digest: oU309r0YHOp8w76Mj3p5ijAhvTw=
+
+Name: assets/ac0/a20.png
+SHA1-Digest: VVQBye2E0Yr1HUgMrqHtYCsTMRY=
+
+Name: assets/Animation/arenaElk.pvr.ccz
+SHA1-Digest: bgdoTyHdvxVutj71FPK8IrKu3qg=
+
+Name: assets/64.png
+SHA1-Digest: /F1ouEDms0Naqwxw+biTdxo3GJE=
+
+Name: assets/Animation/x01.png
+SHA1-Digest: uGNdWUJl8SPOFna/gClVQnDk4MA=
+
+Name: assets/wp0Big/s86.xml
+SHA1-Digest: iNHhx9e5q4Bvyq7z79SlmiFThLk=
+
+Name: assets/04-ipad.tps
+SHA1-Digest: EM+SlJ+YdkQZBSvp41irbRPN1s8=
+
+Name: assets/window2.png
+SHA1-Digest: oebvNz2ZGHDXqGfhyWCAqdSSUKU=
+
+Name: assets/MenuGraphic.tps
+SHA1-Digest: zRsLXPtTB8dRyhOybIyqctg/MVo=
+
+Name: assets/ButtonBack.png
+SHA1-Digest: 4et2bLXQ7mrE63VW9940/2LAE/M=
+
+Name: assets/ButtonUse.png
+SHA1-Digest: M+JyeakGW0azXd8LA1qPcISNWlQ=
+
+Name: assets/Animation/x03.pvr.ccz
+SHA1-Digest: ZBk+QGiVqI/NvW1beGwhqlPX220=
+
+Name: assets/emptySlot.png
+SHA1-Digest: bwTNWPT+hcHIEsy38HRC1Z7bii8=
+
+Name: assets/bt0/f01.png
+SHA1-Digest: WU///b70MMeDknc4PwTbQ1cPYqo=
+
+Name: assets/wp0/s8f.png
+SHA1-Digest: WPdeM6mzsSml8AIId1E2nXa+dEc=
+
+Name: assets/wp0/s30.png
+SHA1-Digest: gzqOi5RG+bWEN8xx/lSZgRZ7QiE=
+
+Name: assets/wp0Big/d01.xml
+SHA1-Digest: QBVMXuV8WIlYeJwD5ZRx81Kb//Y=
+
+Name: assets/6-ipad.jpg
+SHA1-Digest: mkEaXlnKjlwi6HMXRAZojGoBolI=
+
+Name: assets/Icon-Small.png
+SHA1-Digest: zNEzwtXV/5D1TyrUvtE4V/jm7kQ=
+
+Name: assets/31.png
+SHA1-Digest: 5veZkpY704IXKXHx8F0eblKvGBU=
+
+Name: assets/x01.tps
+SHA1-Digest: TPSnWLMf9mma5kzz31+GaDxNIUY=
+
+Name: assets/createChar_bgB.png
+SHA1-Digest: ypw/fPxOoiC7QYoDOplk+ckMAPI=
+
+Name: assets/wp0Big/d02.xml
+SHA1-Digest: CN6EcfNROc8NAXDMSUz5o8RCNu8=
+
+Name: assets/wp0Big/s70-ipad.png
+SHA1-Digest: WJ1YBeedHCXnj/I3VjnIn62Yn+A=
+
+Name: assets/hint5.png
+SHA1-Digest: qV34rvIEmWXt1JbNt1uP4UJxn40=
+
+Name: assets/Stat.png
+SHA1-Digest: fudMn+ofZL9nyudzd2TV+qV98VM=
+
+Name: assets/Ba.png
+SHA1-Digest: f3OXXzRk7p7jfFSYLd2ElLb2InM=
+
+Name: assets/wp0Big/sae.xml
+SHA1-Digest: Is8s+AmWgOZRC/i1Zp22Cjtx8pM=
+
+Name: assets/pk0/p20.png
+SHA1-Digest: RAKwQhUMOOtLgP4qZnXdeRrCFok=
+
+Name: assets/ButtonBuy.png
+SHA1-Digest: cnn1PTwnBagwNuKr1vVejTaRPXE=
+
+Name: assets/30.png
+SHA1-Digest: ZERETUrSkSDbQMmD52SfX5ooskg=
+
+Name: assets/FaqListButton.png
+SHA1-Digest: x67LjvTa9zuF+LE6LqJI6j1wUcs=
+
+Name: assets/wp0Big/s41.png
+SHA1-Digest: YqiQarLVAG5hcyNXjQqwuYIb+oQ=
+
+Name: assets/08-ipad.plist
+SHA1-Digest: BaqalYy0CILABETh8an6yIaeVUo=
+
+Name: assets/Animation/x0d.pvr.ccz
+SHA1-Digest: El3A/loIvu/WV5OcEkb7f6z+2Ak=
+
+Name: assets/loading1.png
+SHA1-Digest: JkBmak9Th9PzzQGfa4FHAR0FQB8=
+
+Name: assets/Refresh.png
+SHA1-Digest: xK5vwfF3xS78OpaffFsZQAG+JbE=
+
+Name: assets/achiev_item_bg.png
+SHA1-Digest: FvDj6HrF+iHNQ49DKRJ6PASyua0=
+
+Name: assets/sh0/s16.png
+SHA1-Digest: uZ+CCTcjo6coho73DcHs9GQff8k=
+
+Name: assets/Pers/4.png
+SHA1-Digest: ERwlVM9Ds0LItPoO3BziZBrElKo=
+
+Name: assets/Tahoma20.pvr.ccz
+SHA1-Digest: LfB+hW6E8FKQO0yv81dF7PUKgvQ=
+
+Name: assets/head_death.png
+SHA1-Digest: XVlmLmnuBKO6wyy3m92Xy2zfIzc=
+
+Name: assets/wp0Big/s46.png
+SHA1-Digest: n5ZUSGAenl81z9AZDGL5YYFI+T8=
+
+Name: assets/Achiecv.png
+SHA1-Digest: sedVHwWqyyEsFdqXjeyX7HoJI0c=
+
+Name: assets/ff-ipad.tps
+SHA1-Digest: t7wRKF0y31RJL0aKLpiwdJuKnCw=
+
+Name: assets/wp0Big/g02.xml
+SHA1-Digest: YJlc7S66ChBpV3VvkkkSLZtuuhE=
+
+Name: assets/gui/weapon_set.m4a
+SHA1-Digest: MOTjOpfYlGAr8S12ustktHzfEFg=
+
+Name: assets/wp0Big/sa5-ipad.png
+SHA1-Digest: 8+Ne5U0yML34M7wayikt3pfujFs=
+
+Name: assets/wp0Big/s4d-ipad.png
+SHA1-Digest: vDrllCu2M2rCpw2Gu8ZAFQYE/bc=
+
+Name: assets/0a-ipad.plist
+SHA1-Digest: aZoBJ0y1Lnn/jRVTEFLx3HF4g9U=
+
+Name: res/layout/game_demo.xml
+SHA1-Digest: ixSA3m40VqQvejqVbBeZHDPNhzM=
+
+Name: assets/sh0/s18.png
+SHA1-Digest: fCgleLG3h+dcNUpZrWmVvnEYGbw=
+
+Name: assets/Tahoma22.pvr.ccz
+SHA1-Digest: SWcFYE1sYjnbO9TMrYXjt4F4mvw=
+
+Name: assets/ef0/x0c.ogg
+SHA1-Digest: XbKObDB8jvVN+z/3wPybk70o1TI=
+
+Name: res/layout/main.xml
+SHA1-Digest: NJ1YLN3mBEKTPibVXbFO8eRCAr8=
+
+Name: assets/wp0Big/s93.png
+SHA1-Digest: 9KUilISJ2pn3m8bJ7GB1YJLd5JQ=
+
+Name: assets/hint4.png
+SHA1-Digest: gnmPAYhzgCw/TWj0LU7akq343yI=
+
+Name: assets/0e-ipad.pvr.ccz
+SHA1-Digest: LqHsunLT04R/FxwcZUdqbDX9p+8=
+
+Name: assets/bt0/h03.png
+SHA1-Digest: 332OSJQ+cv5Bn0X0Dx+rfrH92x8=
+
+Name: assets/07-ipad.pvr.ccz
+SHA1-Digest: rC+NldZEOtnqhCkNpIVvHspxtmU=
+
+Name: assets/HealthProgrNewBattle_0.png
+SHA1-Digest: 55SJ2Lh53DKHj6vSICi2ye69RkQ=
+
+Name: assets/wp0Big/s42.xml
+SHA1-Digest: e/Ya632Pdn4/hSVGhhefiNuiGgQ=
+
+Name: assets/wp0Big/s7c.png
+SHA1-Digest: FIr8ZGQ5892IFST996AUw8r+g6U=
+
+Name: assets/sv0/a06.png
+SHA1-Digest: fGpql1r2xHSM4goDcIOu0idYUEY=
+
+Name: assets/wp0Big/sb5.png
+SHA1-Digest: tsBVtBosD1Am0mogWIK577VVenQ=
+
+Name: assets/wp0/s8b.png
+SHA1-Digest: RVZSRCHbvr4BYYyIGw0fbC8ix8w=
+
+Name: assets/Agility_2.png
+SHA1-Digest: iSkf7+Dj6oJpMPAuMpmOyAGbnKY=
+
+Name: assets/wp0Big/f02.xml
+SHA1-Digest: C+Y52aIeDetVHZ0oKNEDnpCKFmE=
+
+Name: assets/GraphicDump/06/00/060800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/12-ipad.png
+SHA1-Digest: zIQ/pvv9anVRyeqTy9WWGjQiI3k=
+
+Name: assets/wp0Big/s46.xml
+SHA1-Digest: yLm2VSQkudiMYxx1jw5ID5gkq7A=
+
+Name: assets/my_friends_TabBar_ru_test.png
+SHA1-Digest: HQJkf8TN0YHh7MqXsp1H2MSAnWE=
+
+Name: assets/x08.tps
+SHA1-Digest: 0gpiPzGZaxnEj2DGUfTonPUZN2I=
+
+Name: assets/0f-ipad.plist
+SHA1-Digest: PlmBOfWtataIwcLjPSxYZRoUpJs=
+
+Name: assets/Animation/x17.png
+SHA1-Digest: Ae3dGdtyX+dweSEwnCQfcXxz+m8=
+
+Name: assets/wp0Big/s38.xml
+SHA1-Digest: fy7klWnFJno8WtFZmI9cWgb+7Bg=
+
+Name: assets/Inventory.png
+SHA1-Digest: 8pde5mq6yss383XSw/1atjZma2g=
+
+Name: assets/GraphicDump/013/00/0130500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/Animation/x01.pvr.ccz
+SHA1-Digest: 1zEmZ4l55ZlNQBYZ1xeP47TAyvY=
+
+Name: assets/wp0Big/s6a-ipad.png
+SHA1-Digest: mfmeqFFjKcM0eKHkodS0vI6piCc=
+
+Name: assets/GraphicDump/0f/00/0f0000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/DailyBonus-ipad.tps
+SHA1-Digest: Wd808Kx30KM/UnPLhymfeHh5dl4=
+
+Name: assets/ExpProgr_0-ipad.png
+SHA1-Digest: EJfPh5bttDAymieXqTOAY/Hm1Kw=
+
+Name: assets/en.lproj/Town.pvr.ccz
+SHA1-Digest: pVEt3F4WqGyCcEPTRb/qNbAu6Ow=
+
+Name: assets/noavatar.png
+SHA1-Digest: ayFRQ/rpP7gwKRuphBaK8TN2KkY=
+
+Name: assets/wp0/s102.png
+SHA1-Digest: HFHIyYoxon6b+8Ha4NQS/hHfKf0=
+
+Name: assets/interface/inventory_flip.ogg
+SHA1-Digest: fuu8eD4GT1fz2I/PNet68gZpHpk=
+
+Name: assets/pTabOld.png
+SHA1-Digest: gTw/6d9sVtwFtxmp6gd9nso1sEg=
+
+Name: assets/wp0Big/s21.png
+SHA1-Digest: SVR9XSRUzmBzb6s1Uo8Jh6sdd/U=
+
+Name: assets/wp0Big/s6e1-ipad.png
+SHA1-Digest: 3RZbTCxQd/rf/9qHHw7Ln3EHX4k=
+
+Name: assets/loading0.png
+SHA1-Digest: UH5mcwXmN9rixsIfGOWpiGYkd+Y=
+
+Name: assets/BigEnemies/17.png
+SHA1-Digest: YMeskeh+OhUkYCzj7QoNErUVml0=
+
+Name: assets/ff.tps
+SHA1-Digest: B/8avTRzUTgK70LUx9IyX6NYhAM=
+
+Name: assets/BerrysOnItems.tps
+SHA1-Digest: UHrDrq/QLC3A1okB1sUwwHVgs9Y=
+
+Name: assets/GraphicDump/011/00/0110300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0Big/s79.xml
+SHA1-Digest: bwXfCkfZ5y68L5PXOPA0JDS285U=
+
+Name: assets/LoadmingProgressBarBack-ipad.png
+SHA1-Digest: lYY2msyHv72cgS/wW0AFubyehpo=
+
+Name: assets/012.plist
+SHA1-Digest: xRFZneuJfX/0C0/jBmX/6LjxB8U=
+
+Name: assets/03-ipad.tps
+SHA1-Digest: PUxFfvoURiNfd2neenIyIFNkgVE=
+
+Name: assets/PlayerLooseRating_1.png
+SHA1-Digest: f4LmdlemkYvxyQG+gi2r2Jb2oLo=
+
+Name: assets/GraphicDump/09/00/090500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/BackpackScrollFake2.png
+SHA1-Digest: mW6fzLyEbm3RNiS6RuTjdcJmnK4=
+
+Name: assets/pk0/p36.png
+SHA1-Digest: SjaAv/RfZPEXUYTj/1x9kyd2vOw=
+
+Name: assets/en.lproj/Localizable.strings
+SHA1-Digest: e7bGk7Di3XdCqnElvldhX4FL+rk=
+
+Name: assets/0b-ipad.plist
+SHA1-Digest: 7bZDfYBqY5v9AVBQcKV9FjTtb+U=
+
+Name: assets/wp0/s7e.png
+SHA1-Digest: s3HX3L0465pCGvYZUfScdXKlbVQ=
+
+Name: assets/0f-ipad.tps
+SHA1-Digest: Kg6yP3iA9rh7JAASGKFAuiRxhLU=
+
+Name: assets/ButtonCity.png
+SHA1-Digest: viZkgjl1felkQ9j36IK5hhbde94=
+
+Name: assets/6.png
+SHA1-Digest: gHDNyRWazr8A/qEzoB3brGre2Jc=
+
+Name: assets/ScrollBall.png
+SHA1-Digest: DJGkf0vQ8ijBOvO8DHoGrO8AShg=
+
+Name: assets/PrizePeso.png
+SHA1-Digest: PYt8mVIUZHaOGajbB9eyVoSk8w0=
+
+Name: assets/s09.png
+SHA1-Digest: Ce9q2oS74YNnTrJuUjGAaDZ5tS4=
+
+Name: assets/sv0/a27.png
+SHA1-Digest: okVCHPGf8rTW85a07IMT45NMolk=
+
+Name: assets/ac0/a39.png
+SHA1-Digest: GSI7hjUgSbRIgveyiVHxFpE8InA=
+
+Name: assets/wp0/s75.png
+SHA1-Digest: L7GTCgO5+u9O/mGl2iDH96U0Cno=
+
+Name: assets/ef0/x0f.m4a
+SHA1-Digest: lQpIRPwWxq4TLebd6Mqrzpyt8Tw=
+
+Name: assets/wp0Big/s43-ipad.png
+SHA1-Digest: fHaE1eXBhNYTd5o6RdjcmhOy4RE=
+
+Name: assets/wp0/s96.png
+SHA1-Digest: aUhaZWp7AYcFMTEOYtOUcwmm/Ko=
+
+Name: assets/BadgeMini0.png
+SHA1-Digest: WnncjbJRrnZBF7u6w8tWq5/cSRc=
+
+Name: assets/PrizeReal.png
+SHA1-Digest: QIl7MJthZYwY17kqH5w0SZ0YpXA=
+
+Name: assets/Animation/x18.png
+SHA1-Digest: Ae3dGdtyX+dweSEwnCQfcXxz+m8=
+
+Name: assets/Instincts.png
+SHA1-Digest: WGEY3pQHzj1ssYVOwa7/DdQ03Cc=
+
+Name: assets/60.png
+SHA1-Digest: DhCIT+Znozcp21tzaAIj+Qav6hA=
+
+Name: assets/Tahoma20.fnt
+SHA1-Digest: G0weWt8Z0kHEdtX/OHWHsbeeE34=
+
+Name: assets/8.png
+SHA1-Digest: rDIJK3Vkw2mt4MIZZ4AP+mjQyck=
+
+Name: assets/bg_1x1_tabbar.png
+SHA1-Digest: meraBoAN1QSxNwIdtqGItGnr0Cc=
+
+Name: assets/CreateBG.png
+SHA1-Digest: jHMwBVIigF3FA43UGMSbkSsKLbs=
+
+Name: assets/010-ipad.plist
+SHA1-Digest: 9f65xK0GpgNaZ0bU3Jvt3Np1uiI=
+
+Name: assets/012.pvr.ccz
+SHA1-Digest: m1C0BtOa1piXlAf/h8hvbtidHlY=
+
+Name: assets/x0b.tps
+SHA1-Digest: YoBs/VYpHTLK2af/qLY840ggG10=
+
+Name: assets/wp0Big/s8a.png
+SHA1-Digest: Ub2gg9uf/XBHs6JPrUebePHCbQ4=
+
+Name: assets/s13.png
+SHA1-Digest: lVs4tgRDXr1q8bTHzo4IRdzR/xU=
+
+Name: assets/interface/inventory_group.ogg
+SHA1-Digest: DYUapXfy4Awlqee0jT2AVeY9VzM=
+
+Name: assets/avatars.png
+SHA1-Digest: QyeZMi6tojqlTzmtiYKHCjBwfrg=
+
+Name: assets/GraphicDump/0d/00/0d0300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0Big/s99.xml
+SHA1-Digest: Idu/RXd3argXW0QNlMayCBSUV8A=
+
+Name: assets/wp0Big/s95.png
+SHA1-Digest: rOMmH7JZRXhiTAmqlJN3HQbQlYw=
+
+Name: assets/0b.plist
+SHA1-Digest: cZHA75JJ+zf9G+jsEbS+7xOZWeY=
+
+Name: assets/ru.lproj/AglityCrystal.png
+SHA1-Digest: 0WpvjfNEEYQ0OIJPFNbFmxXHSqg=
+
+Name: assets/server.png
+SHA1-Digest: S0FWjGVVREa8bgx2e4WL+TX5WsY=
+
+Name: assets/message8.png
+SHA1-Digest: kc/XMe+ARdUTI9yJwmMOhV2qZZY=
+
+Name: assets/wp0Big/g03.png
+SHA1-Digest: hMjhNj45dR8UesCvvTDGADksbKc=
+
+Name: assets/GraphicDump/0d/00/0d0000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/FriendsBgStats.png
+SHA1-Digest: R+MeiC6m1Nebsuh9MgFcV4+9iQI=
+
+Name: assets/hint7.png
+SHA1-Digest: Xc9LTvVZjwVSMrKj0+92rZe00Vc=
+
+Name: assets/wp0Big/sb2-ipad.png
+SHA1-Digest: 5sLto2WvD/nfBxRtKEm7iV51i48=
+
+Name: assets/Battle/2-ipad.pvr.ccz
+SHA1-Digest: 9jL8qZ2E437SD9ixV8EfVIhRXGw=
+
+Name: assets/wp0Big/s8e1-ipad.png
+SHA1-Digest: /iOr5XVz3WcY0BRg0EIwlxnfX0Q=
+
+Name: assets/EnergyProgr_0-ipad.png
+SHA1-Digest: /r0C1ooOfEkLz40uQ6HSUdbvkcw=
+
+Name: assets/x07.plist
+SHA1-Digest: hXPW+3PN+SNEGopj56ZS/bfY2KY=
+
+Name: assets/en.lproj/Tutorial.xml
+SHA1-Digest: 4vGAP2xxujPp4Qf0fFtTc4L0AiI=
+
+Name: assets/743281.png
+SHA1-Digest: vIvDFWhOHTycvbkTNrwW0bYTS3g=
+
+Name: assets/x0f.tps
+SHA1-Digest: HdcTxt4BP2B2h0HmGOSPU6FNdDw=
+
+Name: assets/Tahoma16.fnt
+SHA1-Digest: lPDk80KR0yoDuG0UZHc/1bkAPGs=
+
+Name: assets/GraphicDump/0c/00/0c0000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/icGames.png
+SHA1-Digest: tyCJbqoXDyA8FAAV3ODlUCVl9xw=
+
+Name: assets/en.lproj/Town-ipad.pvr.ccz
+SHA1-Digest: z5UKN5QAjjANiy4O2k8oQOPTqDc=
+
+Name: assets/ef0/x0d.ogg
+SHA1-Digest: oDOXiOTo4SEu5aqvdXoLJ9t6UV8=
+
+Name: assets/BuyFiveBattleButton.png
+SHA1-Digest: CUo43oVFT0n1I0Cg8VXHcb9Hs2Y=
+
+Name: assets/wp0Big/sa7.xml
+SHA1-Digest: RpdIOBgVcNvlenfi8y2U83vdhhg=
+
+Name: assets/GraphicDump/013/00/0130600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/LoadmingProgressBar.png
+SHA1-Digest: Jt/NoVB2xe0rJKVHEy7IQj/qduo=
+
+Name: assets/wp0Big/s42.png
+SHA1-Digest: CwaR/j+P+vqeKA6DIjnw9oNyGaI=
+
+Name: assets/ac0/a23.png
+SHA1-Digest: cEyYGOQDNUxIS9mpemlJ6ZiE43M=
+
+Name: assets/pk0/p41.png
+SHA1-Digest: ZqaF/1uPRUU4c8nwvMIb+BwqfIM=
+
+Name: assets/tutorial2.png
+SHA1-Digest: z84yfZ7WbswYyeLNzV/WHF5G5jM=
+
+Name: assets/ab.png
+SHA1-Digest: S0FWjGVVREa8bgx2e4WL+TX5WsY=
+
+Name: assets/achiev_level_6.png
+SHA1-Digest: FSMMZBD2P1t5w2Ayprs3Ufyg3Mc=
+
+Name: assets/0e.pvr.ccz
+SHA1-Digest: kGsv3BVoVcbO0Uf6pZu/I2fWaxk=
+
+Name: assets/pk0/p28.png
+SHA1-Digest: fja91VDsgwmj96nFhSUB5CiVuAY=
+
+Name: assets/PlayerWinRating_0.png
+SHA1-Digest: IummltO9Voa7r3GX9vjrnLbvAsk=
+
+Name: assets/GraphicDump/0f/00/0f0300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0/s39.png
+SHA1-Digest: s2pQfjUI5H0rtSf58DBQFM0oJ30=
+
+Name: assets/wp0/s4c.png
+SHA1-Digest: W+ZCdvXnNzQExxWZuUgBquwGGZ8=
+
+Name: assets/bt0/a03.png
+SHA1-Digest: aBnq/crOq+60BeexyrG6phGT/NI=
+
+Name: assets/Endurance_1.png
+SHA1-Digest: azVuGOqCsXXH2+FXDrdTmB/kJKU=
+
+Name: assets/Characteristics.png
+SHA1-Digest: BAzmucHoGv6aAM/aCY2hgpAWqSk=
+
+Name: assets/wp0/s9c.png
+SHA1-Digest: tumfpnS43wfEbB0AdyJxmTLh2I8=
+
+Name: assets/wp0Big/s79.png
+SHA1-Digest: H2Td0Fgk7LVfkHNiPZPWbxgVMXY=
+
+Name: assets/wp0/s8d.png
+SHA1-Digest: 7PxwzJlNRDSJZgaSWxVizYTJahQ=
+
+Name: assets/Battle/2.pvr.ccz
+SHA1-Digest: hCh2fHJmGSwZiSzZ2ZLSi9lEqVc=
+
+Name: assets/bag/bag14.png
+SHA1-Digest: gzX4fLWGyHk93SuHOhnwc7RdIq8=
+
+Name: assets/interface/scroll.m4a
+SHA1-Digest: EBObkgRoqy05+vf+IlhdS3q/lH4=
+
+Name: assets/Strenght_1.png
+SHA1-Digest: g3iBEKBGkkJwQtWMJS9c4oMA3aw=
+
+Name: assets/wp0Big/s9b-ipad.png
+SHA1-Digest: 6G6TDhTjoPweJ9uLM6yy+kjG6Wc=
+
+Name: assets/ac0/a02.png
+SHA1-Digest: /n2fKdNcQZf5kw8hh1mjz6HX814=
+
+Name: assets/sv0/a07.png
+SHA1-Digest: LBj4a9GOg2hK58ZXFm+x5VlHT/A=
+
+Name: assets/BigEnemies/4.png
+SHA1-Digest: MTj+nDQv2benqJDgLIohfd/0rck=
+
+Name: assets/wp0Big/s21.xml
+SHA1-Digest: GQdajLZ+64QFwnFngwmljBQA0Fg=
+
+Name: assets/en.lproj/Bosses_button.png
+SHA1-Digest: XfzG078EdfrlceATHFrwNL9PjFc=
+
+Name: assets/wp0Big/s1131-ipad.png
+SHA1-Digest: mzJIn+4ehhMC/reQGvkSuc2U67M=
+
+Name: assets/wp0/s95.png
+SHA1-Digest: VNlGA4wR1mgRNw5yB0JC6LIGPEQ=
+
+Name: assets/wp0Big/sa3.png
+SHA1-Digest: v4iZyx1kASC+3GenHPL7MJQ4lGk=
+
+Name: assets/wp0Big/s106-ipad.png
+SHA1-Digest: yGWAoriO0XGfphGJmSVE6TfPNuc=
+
+Name: assets/RoundCloseButton.png
+SHA1-Digest: f9vI0yqVCyAIvQgI9WDQwXKtz0M=
+
+Name: assets/wp0Big/s72.xml
+SHA1-Digest: aceIXdrQX4zqdGZeFd4XiC/eGAE=
+
+Name: assets/GraphicDump/010/00/0100000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/namePad_2.png
+SHA1-Digest: aQBbZIg2K0BIQ2a+OG5EgonJCi0=
+
+Name: assets/04-ipad.pvr.ccz
+SHA1-Digest: h2YqI6wTiV7Qye1Q9SOcn9eOt2Y=
+
+Name: assets/wp0/s31.png
+SHA1-Digest: 2PotX9PWQbiLzHrhOR8MN0BTzHo=
+
+Name: assets/wp0Big/s109.png
+SHA1-Digest: o112g+GC2BKFi9fQ9M834BXOqjY=
+
+Name: assets/wp0Big/s8d.png
+SHA1-Digest: 06h7qUOk9Ag2fIyYRp9SUt/cOIQ=
+
+Name: assets/pk0/p12.png
+SHA1-Digest: ZqGXV4m8kctP+MiyRefyE+yoNvI=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: assets/wp0Big/s72.png
+SHA1-Digest: 429mPY9Soy42Wwj0h07aqKMr4aI=
+
+Name: assets/Pers/19.png
+SHA1-Digest: wj7BrZaHJRLbBvtzCLF759niE+Q=
+
+Name: assets/wp0Big/sa7.png
+SHA1-Digest: SMeeej6oMEsRIenLwv1PWNcvdfg=
+
+Name: assets/achiev_level_4.png
+SHA1-Digest: bztvzc34SXHq15LHidJZrLI2v8U=
+
+Name: assets/ExpProgr_1.png
+SHA1-Digest: rNsS64geFfINRsQbjlFDRR2C0+U=
+
+Name: assets/wp0Big/f02-ipad.png
+SHA1-Digest: NDUxnrBNOwx0xdM50vLQy+4bBGY=
+
+Name: assets/sv0/a03.png
+SHA1-Digest: Xt0mhz+nYHxYe5UTo2kvUyxdBqQ=
+
+Name: assets/fist_rigth_anim.png
+SHA1-Digest: cx/LDlu0yqR5TaYkimF0bBAyVDc=
+
+Name: assets/interface/page_flip.m4a
+SHA1-Digest: 6O5HUdPNxSkesR6XQ83Jzo3ZoAY=
+
+Name: assets/26.png
+SHA1-Digest: i9xOm3jxejk4/WdOddzu+/Rkbgk=
+
+Name: assets/wp0/s4c.xml
+SHA1-Digest: HL2RML3b/2KMUrDwO5B8pof3Lb4=
+
+Name: assets/wp0/s21.png
+SHA1-Digest: 4gPzD/NdONKm8VuVB/zJF6q34Pk=
+
+Name: lib/armeabi/libpanda.so
+SHA1-Digest: Rzm9pwFECnQV1QCyJd+6vBQGk9A=
+
+Name: assets/Pers/15.png
+SHA1-Digest: zIgOUl5oOt77nDpNhuKhK9RJc2Q=
+
+Name: assets/Training.png
+SHA1-Digest: /enPLPQnTwsol3xOl1IUHnrr9Z8=
+
+Name: assets/29.png
+SHA1-Digest: vfcCFYOOj/tO6umfKRTZ8L0lmpg=
+
+Name: assets/en.lproj/BuyMoreBalles.png
+SHA1-Digest: cCVfuVZIbuaF5mdUn8G/2V9f6to=
+
+Name: assets/wp0Big/s9c.png
+SHA1-Digest: zxqvKwyT4xGA9azELCnmsSbxilg=
+
+Name: assets/wp0Big/f01.xml
+SHA1-Digest: HPGWyUz8Hyh2ZXQGdoZbcxW5Su0=
+
+Name: assets/wp0Big/s651-ipad.png
+SHA1-Digest: COlJ+LHQbZ41aRsLdBIC6Rm6ID0=
+
+Name: assets/sv0/a12.png
+SHA1-Digest: 4fJAm+G7sR3qwjpCKLt1m0dZqxM=
+
+Name: assets/Tahoma14.pvr.ccz
+SHA1-Digest: Nnx5WgzmdStx1OYp1z2F0JQEkeA=
+
+Name: assets/Animation/x20.png
+SHA1-Digest: Ae3dGdtyX+dweSEwnCQfcXxz+m8=
+
+Name: assets/wp0Big/s69-ipad.png
+SHA1-Digest: vR9QI/w6JiLpFDO15iHdal2E/w8=
+
+Name: assets/wp0Big/s88-ipad.png
+SHA1-Digest: ysq0501MGdb4YgF2GyuF0IaWrWk=
+
+Name: assets/71.png
+SHA1-Digest: /F1ouEDms0Naqwxw+biTdxo3GJE=
+
+Name: assets/0d.tps
+SHA1-Digest: XUNfCnBF9QHsqWTL5nsrUDxeu/o=
+
+Name: assets/Animation/x02.plist
+SHA1-Digest: tIG8MbV+sGczaPs789TQahx0GxM=
+
+Name: assets/EnemyWinRating_2.png
+SHA1-Digest: yNXoWLHFe1KFCKS9kR7Dt1DHzI4=
+
+Name: assets/window0.png
+SHA1-Digest: qtNKmbePRbdqXqwsAdVWIX2b1MA=
+
+Name: assets/GraphicDump/06/00/060300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0/s90.png
+SHA1-Digest: SQltlfAzLRREUmGcksyuvYsl05Y=
+
+Name: assets/PowerProgrBrown_0.png
+SHA1-Digest: jd2SIjbTI29mOML6ybwoAbbXIAg=
+
+Name: assets/Animation/x0b.png
+SHA1-Digest: M9xhPuEll/YQhWnAEQkDS5AsJMU=
+
+Name: assets/Animation/x04.pvr.ccz
+SHA1-Digest: qQZkaRrg5klyV/5OfzdoKwLWYvw=
+
+Name: assets/wp0Big/s47.png
+SHA1-Digest: YR5G+HMSG6V8lJ7KTCHzSNbASDo=
+
+Name: assets/wp0Big/f01-ipad.png
+SHA1-Digest: AMl1HCoKilXT6hPeQ2n2YhP+jnY=
+
+Name: assets/SocialNetworks.png
+SHA1-Digest: jzRbeWkQPuzqZIhHByNjlepMiKo=
+
+Name: assets/wp0Big/sb0.xml
+SHA1-Digest: +3Kmbu18PbwGBy1Sz1yUgdqJLek=
+
+Name: assets/wp0Big/s65-ipad.png
+SHA1-Digest: 1zQSpFhbn3MWulz7Ol3gKNhu2BA=
+
+Name: assets/Town.png
+SHA1-Digest: P6/UItXbwyMNIRU3+gtqdLBBLBs=
+
+Name: assets/wp0Big/s108.xml
+SHA1-Digest: vkjgEHGNWqFL+Gzgad9uMGi8Aig=
+
+Name: assets/perks7.png
+SHA1-Digest: GThY9s92k/qq79PvwIi/W7y2SgM=
+
+Name: assets/ac0/a24.png
+SHA1-Digest: Qm5yuUkuA2ZW7hCsUoMDIIMIfYs=
+
+Name: assets/ef0/x0c.m4a
+SHA1-Digest: 9OOQ1n5nlbzXYIk3D+h8uSiToac=
+
+Name: assets/wp0Big/s14.xml
+SHA1-Digest: DUPRdPMpB8ENi8Lgci0ziYgICzw=
+
+Name: assets/wp0Big/s57.png
+SHA1-Digest: Bg/Kv+zGGb9ufF4HAMIrIpzw6BI=
+
+Name: assets/HealthLineBattle-ipad.png
+SHA1-Digest: swRhA2EmY34/y57QTNi3UPZDfiI=
+
+Name: assets/wp0/s04.png
+SHA1-Digest: M2OqbwH8ynwZYhj6jC00/XjnXx0=
+
+Name: assets/wp0Big/s98.png
+SHA1-Digest: ZL7LUTclPwoGDGJekQvZeOE0LPI=
+
+Name: assets/ArrowButtonBackward.png
+SHA1-Digest: PxG+DG/G0lg+YgcopsJGjkTs2v0=
+
+Name: assets/wp0Big/sa5.xml
+SHA1-Digest: DOs72Y1cKsMPlswk5evbRcv4sks=
+
+Name: assets/PowerProgressLine.png
+SHA1-Digest: /Cz+tMWFlY0WLVJsdnLto+wIhJ4=
+
+Name: assets/ef0/x06.ogg
+SHA1-Digest: 03eMn/fGiDvCYrxEixOKtPqXSU0=
+
+Name: assets/GraphicDump/05/00/050000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/sv0/a15.png
+SHA1-Digest: UNCwPAbGuz//hMH+iH/znCx+YDc=
+
+Name: assets/wheelDevidingLine.png
+SHA1-Digest: srHYsvf8wRs9Xb30XSb/L+WmHuo=
+
+Name: assets/SocialButton.png
+SHA1-Digest: +E0WL52WYFB3/cZm1JJVyH3CUvg=
+
+Name: assets/en.lproj/Logo.png
+SHA1-Digest: ezB5lH0Q334Sa/N7GD7iOK0iyLM=
+
+Name: assets/wp0Big/s98.xml
+SHA1-Digest: UD+CnL+zFTUjj3Z4dkJgiObXHhg=
+
+Name: assets/wp0Big/s7b.xml
+SHA1-Digest: 3wJm/PxqL9aw5Nd9WiIegUJq7Ts=
+
+Name: assets/ac0/a41.png
+SHA1-Digest: bY/AzjTUyO7qC373zBGOAEREKgY=
+
+Name: assets/wp0Big/s68.png
+SHA1-Digest: ARebFAOgWVxSU8qmbnzaim1WUkk=
+
+Name: assets/wp0Big/s81.xml
+SHA1-Digest: qpGPG+L1jh0yEDRwf3u61FzN/hM=
+
+Name: assets/wp0Big/s32.png
+SHA1-Digest: 9VdT9xFec6QdISvYvHLDJBNVU18=
+
+Name: assets/DexterityProgr_1.png
+SHA1-Digest: o/OusrzTiEDN2jPW2487hpd2feQ=
+
+Name: assets/DexterityProgrOriginal_0.png
+SHA1-Digest: A6yFe79GSieKCVUsDcYvZ4h7HmM=
+
+Name: assets/en.lproj/Name.png
+SHA1-Digest: rymsWPnM691BtCJOdDekx9H+0gw=
+
+Name: assets/wp0Big/s75-ipad.png
+SHA1-Digest: 9zpx/p43vwY13VNzVdLJi9BMn5A=
+
+Name: assets/icSoundOFF.png
+SHA1-Digest: ATl4+i1Y1B11u6YCQd4uRxkmlgI=
+
+Name: assets/createChar_bg-ipad.png
+SHA1-Digest: ms64DYuBgHpfwOHiEoDkmeIRuTw=
+
+Name: assets/wp0Big/s98-ipad.png
+SHA1-Digest: kWKvfRiH0BWz6b3BBiyq9bzGjl4=
+
+Name: assets/wp0/s64.png
+SHA1-Digest: W6R6702dbjwE5kB5fUpLqyinURI=
+
+Name: assets/wp0Big/s6c2-ipad.png
+SHA1-Digest: QxoLiScTWF+ODLYjBZm+DEOK13g=
+
+Name: classes.dex
+SHA1-Digest: +WoKdQK2c8S3sLZpLwNrBqWIZzs=
+
+Name: assets/ru.lproj/WinLabelEnergy.png
+SHA1-Digest: Wfzy74TtFyNQsCtvRTI/612fIWE=
+
+Name: assets/PlayerWinRating_2.png
+SHA1-Digest: lrFPLVdWOQakCd59LBKrmt3Y4Gk=
+
+Name: assets/wp0/s6d.png
+SHA1-Digest: T57QfT8Ti7BlyXGKSB6Sm0vvPhE=
+
+Name: assets/wp0Big/s96-ipad.png
+SHA1-Digest: ExwGrVDv6rq6LEK2+sEtqcY+2XA=
+
+Name: assets/sh0/s0a.png
+SHA1-Digest: ecZeFzVE16xB8gI+R/x8Yb5QZ7o=
+
+Name: assets/MinusTraining.png
+SHA1-Digest: tPS+RYKgqhJlnHqPd17+mKwRwvA=
+
+Name: assets/BigEnemies/5.png
+SHA1-Digest: 1UUvqWgSJKwGrmqEr8lSKk3gYYE=
+
+Name: assets/08.plist
+SHA1-Digest: IXUvT8qtW6hVqFQtP0bSZ1BBBZs=
+
+Name: assets/Icon-Small@2x.png
+SHA1-Digest: GcGcPl5sYBglKDI163Bg+dRLVzg=
+
+Name: assets/wp0/saa.png
+SHA1-Digest: BR3Cn5oqpm9m/26DkwzGcXumnKU=
+
+Name: assets/wp0Big/g03-ipad.png
+SHA1-Digest: hMjhNj45dR8UesCvvTDGADksbKc=
+
+Name: assets/wp0Big/s103.xml
+SHA1-Digest: L4m+HqYZxyvdRkEumfhOSyYiGQA=
+
+Name: assets/wp0Big/s85.png
+SHA1-Digest: nH9JVildEArqtpFVJIoxB8nbqHY=
+
+Name: assets/0a.tps
+SHA1-Digest: HFitCCw+Qd0tSD+Xhv1bi1RsY6U=
+
+Name: assets/wp0Big/s6c.xml
+SHA1-Digest: eZrdLYIy7n3ivGQCrHEl8ha1+aY=
+
+Name: assets/33.png
+SHA1-Digest: xyD7ePtJ3EO2s3LqFCkosqe1OxE=
+
+Name: assets/wp0Big/s24.xml
+SHA1-Digest: C7J0LdDN+oguqOL4l4mA6hqMgZk=
+
+Name: assets/0a.plist
+SHA1-Digest: 8yCM99s+lI/GoRPQbipASk8gqqk=
+
+Name: assets/wp0/s54.png
+SHA1-Digest: gUbM2Y8El/EOQI3Z/vlq+WnZlXg=
+
+Name: assets/ac0/a34.png
+SHA1-Digest: WZsqJJHyrriE8f02i680ADyzn4w=
+
+Name: assets/ComponentButton2.png
+SHA1-Digest: SjEgCu7fF47qCDN/fMcG5RqMxiA=
+
+Name: assets/sh0/s12.png
+SHA1-Digest: CVi93izUyywXR4r+HR6gdts1bFI=
+
+Name: assets/gui/armor_set.ogg
+SHA1-Digest: S5oxm1PKgaQbh1tgtGUtj5ZG/Gk=
+
+Name: assets/wp0Big/s8b1.xml
+SHA1-Digest: XJBAiBXHOiq9MRb3v2+Icjuccm8=
+
+Name: assets/interface/scroll.ogg
+SHA1-Digest: ZO9Esbx1RY2I8wT6bwZ09JydZmc=
+
+Name: assets/TrainingEnduranceFont.fnt
+SHA1-Digest: oacExpiG8viUhTvoNlwgyrM3JBg=
+
+Name: assets/GraphicDump/02/00/020600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/wp0Big/sae-ipad.png
+SHA1-Digest: 4MkWZYA4TCkSX+0APBk27Y9I5oc=
+
+Name: assets/ButtonArena.png
+SHA1-Digest: bnnAfgGG2Ab5eUBPJgUSyxd87WU=
+
+Name: assets/ef0/x02.ogg
+SHA1-Digest: NVCmbwTwdXqpobt1iDC2Rbjv64s=
+
+Name: assets/gui/close_window.m4a
+SHA1-Digest: +pnz2YInrlf6p27epyV9z3nThRU=
+
+Name: assets/sh0/s14.png
+SHA1-Digest: ScLYpVWmE82hEccv1qBwmDoA3/c=
+
+Name: assets/ef0/x04.m4a
+SHA1-Digest: /yeYWTeQSaf1z926hg8OOkBeNJ0=
+
+Name: assets/perks1.png
+SHA1-Digest: 5xQjUGd6FT0lrd4e3mLz7HDYosM=
+
+Name: assets/hint8.png
+SHA1-Digest: wCQHyt/mnz2o78ZiSKI9urir/Hk=
+
+Name: assets/ButtonSell.png
+SHA1-Digest: kgHyEMzZPj1hQz7TXZ8nA/eJnNE=
+
+Name: assets/02-ipad.tps
+SHA1-Digest: cUTYkRXe33TJtPDZPjGkLW+TVgI=
+
+Name: assets/mr.png
+SHA1-Digest: 4YRI0JC3s6izfOS3f/L58afdFC4=
+
+Name: assets/EnemyLooseRating_1.png
+SHA1-Digest: PQUbe0sFNBsmPHe7hB1LFW9XLjs=
+
+Name: assets/StaminaProgrOriginal_1.png
+SHA1-Digest: I/EuisXr0aHPLaLz13UkScyshJY=
+
+Name: assets/wp0/s05-1.png
+SHA1-Digest: mZGs7s1emyariadjbox/Lp38EWc=
+
+Name: assets/ac0/a07.png
+SHA1-Digest: 2pEcGvMkwpaPaEt7ZnUkDbHY/Iw=
+
+Name: assets/ef0/x0f.ogg
+SHA1-Digest: MHrr+Q75qCESkzflGy7SbCY9sI8=
+
+Name: assets/46.png
+SHA1-Digest: rglCbNpMI0v58Wci3EBLVzdeg50=
+
+Name: assets/0e.tps
+SHA1-Digest: 6o24lcu1bAF3lV7tOz8yOCP9JJw=
+
+Name: assets/wp0Big/saf.xml
+SHA1-Digest: 1TLQSna+bA7f9ByoRC6QazPvXZg=
+
+Name: assets/012.tps
+SHA1-Digest: A1u4t5CZ7yEV0jidkS5YJycVeNY=
+
+Name: assets/interface/inventory_flip.m4a
+SHA1-Digest: W5jzGZtdPbrn4py6+dQesrnGVjc=
+
+Name: assets/Animation/x10.pvr.ccz
+SHA1-Digest: gLTQPk8ocTu85DPH3DUqVVtczFo=
+
+Name: assets/wp0Big/d01-ipad.png
+SHA1-Digest: OQfNY8ZKoW0dwGSv08LoN7voK90=
+
+Name: assets/GraphicDump/06/00/060500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/en.lproj/MenuGraphic.pvr.ccz
+SHA1-Digest: pYWv4QxLO5OYY5LN7/aaQu4tBuI=
+
+Name: assets/EnemyWinRating_1.png
+SHA1-Digest: ZtjxkDWJIXRyxQ5/izpYq9CSG4k=
+
+Name: assets/65.png
+SHA1-Digest: /F1ouEDms0Naqwxw+biTdxo3GJE=
+
+Name: assets/wp0Big/s91.xml
+SHA1-Digest: 4fWiCe+PhVlxItXqEyrgSKjX+VE=
+
+Name: assets/wp0Big/s851-ipad.png
+SHA1-Digest: R4nqcm0i4m+gKvqXNH3aK/A1Jfg=
+
+Name: assets/wp0/sa2.png
+SHA1-Digest: BvIM1+fmTc7m+S9rFMBiPKMAHUw=
+
+Name: assets/gui/roll_set.m4a
+SHA1-Digest: 5uui26X4q9aWgaCpFs87qfXH0p4=
+
+Name: assets/Pers/12.png
+SHA1-Digest: aVJML/Jm2IY0Ik9SJ20YaH6vkbw=
+
+Name: assets/ButtonTwitter.png
+SHA1-Digest: 0nHohEalGauXmAEhSPxJZzhBxK0=
+
+Name: assets/s07.png
+SHA1-Digest: a66pnqtKTihKkuA13skAjbqTqmA=
+
+Name: assets/level.png
+SHA1-Digest: 8/o4GUdDig3sg1q7PtSuk1ficv4=
+
+Name: assets/wp0Big/s38-ipad.png
+SHA1-Digest: qUGU5Y3gl2fgLbmIKCoZ4M53Kws=
+
+Name: assets/wp0Big/s109.xml
+SHA1-Digest: j8J2jLEtdnObNH9BGa70e/4A2T8=
+
+Name: assets/achiev_bg_2.png
+SHA1-Digest: +vfiw4zXPlXCJg/EIwDbE316NyI=
+
+Name: assets/wp0Big/sb3.xml
+SHA1-Digest: IyeUmGCUQ/MNuS14W4tF7t06eeY=
+
+Name: assets/sh0/s0e.png
+SHA1-Digest: O3gS5JVrutn4HN7m/nWlLvIOOoQ=
+
+Name: assets/wp0Big/s32.xml
+SHA1-Digest: 3h7MXkR9AMQ3jUP02XhGg7IH9bA=
+
+Name: assets/Tahoma26.pvr.ccz
+SHA1-Digest: 04/gO+M3cpvSYXjyOK6Pb7K7nlE=
+
+Name: assets/bt0/d03.png
+SHA1-Digest: gcpktFhniWnKNp+GuyPxoGV2NUI=
+
+Name: assets/wp0Big/s103.png
+SHA1-Digest: besY19IdOAn80yZFu9+UpKiLvbI=
+
+Name: assets/wp0Big/s68.xml
+SHA1-Digest: 2yhF0V6tHnNxiXsEBFSRIssbpdE=
+
+Name: assets/exp.png
+SHA1-Digest: BTxOhuO7jr3+IwQktnNMp+15l6s=
+
+Name: assets/wp0Big/f03-ipad.png
+SHA1-Digest: AMl1HCoKilXT6hPeQ2n2YhP+jnY=
+
+Name: assets/wp0/d01.png
+SHA1-Digest: Pr/3ViSN/W4RQk6mOjIwK5OJd0k=
+
+Name: assets/OnOfCheck2.png
+SHA1-Digest: r/PUyOP0u84G8GP0buuWN6Nh3lw=
+
+Name: assets/wp0Big/s70.xml
+SHA1-Digest: Ak/IFPLuonL7hN5F36T75QutsBE=
+
+Name: assets/wp0Big/s9f.png
+SHA1-Digest: BhvNh1iUbqwMnWIDNjZqMQ1S6Ac=
+
+Name: assets/ac0/a31.png
+SHA1-Digest: Uk0D/twizzFGmTT8TFgE7zExs2s=
+
+Name: assets/wp0Big/s15.xml
+SHA1-Digest: 19OpbQc3YrYwdCJ6uRTnp7kMlFY=
+
+Name: assets/GraphicDump/03/00/030600/lib.xml
+SHA1-Digest: vspCFOiRj4Qjf+61P3TIWxW2zVQ=
+
+Name: assets/en.lproj/GeneralLocalGraphic.plist
+SHA1-Digest: PPFF2KXd17ZVXul21i8i0dp8hlE=
+
+Name: assets/ru.lproj/GladeComplete.png
+SHA1-Digest: 3hdk/jFgovYloOy+D6yOpGHXYtk=
+
+Name: assets/wp0Big/s22.png
+SHA1-Digest: wYl9hq1lWlr6oV6MEPyaTC1i7s8=
+
+Name: assets/Tahoma32.pvr.ccz
+SHA1-Digest: Z9a3OhI72z4jWJxERyhKgUP6UsA=
+
+Name: assets/ef0/x06.m4a
+SHA1-Digest: 5QaMSNSREit/oFwZdlH15kUZN8U=
+
+Name: assets/ButtonBank.png
+SHA1-Digest: 27MHYiOQHL0376pmSp2BMqf2pWs=
+
+Name: assets/wp0/s88.png
+SHA1-Digest: IzbKUW0BdA+HXaMxmc9bJs3ilFA=
+
+Name: assets/BuyFiveBattleButton_30.png
+SHA1-Digest: PuhQ+LwF06kC59iPsWyIp6/mBuQ=
+
+Name: assets/wp0Big/s106.xml
+SHA1-Digest: IUC8mYbUP/JeX/2ssCa574PuCo4=
+
+Name: assets/wp0/s111.png
+SHA1-Digest: sigeARN2CVhw2UgJNcdUBWtEZh4=
+
+Name: assets/GraphicDump/09/00/090300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0Big/sac.png
+SHA1-Digest: YL30SfhkQFJ6yYEetoFbM54gVTM=
+
+Name: assets/fist_left_anim.png
+SHA1-Digest: TMsWoPwlDn/eUKlXqKIy+YyEEUA=
+
+Name: assets/Animation/x0e.pvr.ccz
+SHA1-Digest: NUH+7iLIeX4orqRTSV8LPVckIWQ=
+
+Name: assets/5-ipad.jpg
+SHA1-Digest: NxZVM7nRz1OVAcyk0g/ik51gfBk=
+
+Name: assets/bag/bag16.png
+SHA1-Digest: NCIdELGHbt3XYgWql7mZx5P96WE=
+
+Name: assets/wp0/s47.png
+SHA1-Digest: HulX8FBnv92UNs6IqmM0nvbWjmg=
+
+Name: assets/sh0/s13.png
+SHA1-Digest: H0UwSWk7pSlOiICtIoGH3AFKhJQ=
+
+Name: assets/RaitingItem.png
+SHA1-Digest: 09zJLRCFHGJZBQv1cqojmWI3bP0=
+
+Name: assets/wp0/s101.png
+SHA1-Digest: rG2Th0kh6o8ergB9iXXqEATshMg=
+
+Name: assets/wp0Big/s43.png
+SHA1-Digest: yYSyUajgudyIyOOkfubu9nEsdQw=
+
+Name: assets/WheelOfFortune.pvr.ccz
+SHA1-Digest: 8CCVit5s/z/uqt1I80WmN4OHZWo=
+
+Name: assets/wp0Big/s26.xml
+SHA1-Digest: dxrZvXVNLpA+4LMB5eWfwnML0Kg=
+
+Name: assets/wp0/s32.png
+SHA1-Digest: MBxaCYnLKJiyLRg8KsTHELbkehQ=
+
+Name: assets/bt0/a02.png
+SHA1-Digest: srsBBXTnnlk+TUXmerEseOrtcCc=
+
+Name: assets/wp0Big/s9c-ipad.png
+SHA1-Digest: /8SoWKNCW3bbYXDxJ9UfgLdJFDg=
+
+Name: assets/2.jpg
+SHA1-Digest: zOswvt+7vxSjbc2nC1VCqsJmbZY=
+
+Name: assets/Animation/x0c.plist
+SHA1-Digest: FtyaQUemV6WbRbTLoMPKjRuk1kY=
+
+Name: assets/34.png
+SHA1-Digest: NYqsim1z4JfxJVi8bJfh5tNNRns=
+
+Name: assets/62.png
+SHA1-Digest: /Mgs37FNxcEkZnghH7GHnAR/NeE=
+
+Name: assets/sv0/a28.png
+SHA1-Digest: WhbgRGNTc1xc0kuk9kjOv2XUeY0=
+
+Name: assets/wp0Big/sad.png
+SHA1-Digest: vI0VPrv34QA5PPoQgjn1NRYIZ3w=
+
+Name: assets/wp0Big/sb11-ipad.png
+SHA1-Digest: GM9jfkcrDH3RTav0S4V53jWKUzQ=
+
+Name: assets/tutorial7.png
+SHA1-Digest: 6ofcM4XtJL0LuXrzpXHsv3PZV3c=
+
+Name: assets/sale_label.png
+SHA1-Digest: iBMkt2ISzUBAv47bszVrdeEFDow=
+
+Name: assets/pk0/p24.png
+SHA1-Digest: IynUnuSQzXE0jczU04EZ4oSL50M=
+
+Name: assets/20.png
+SHA1-Digest: RTI/5Am4N5dvtZBH7577wyIEsCk=
+
+Name: assets/wp0/s99.png
+SHA1-Digest: 9+LNnz7/a6saIFvpBaACCx2Drb4=
+
+Name: assets/RatingTabLabel.png
+SHA1-Digest: 28ZsUq53V9EngiEnL9AW8ZfYwvs=
+
+Name: assets/wp0Big/s8b.png
+SHA1-Digest: dO+ftq0IfRNVGZBtSz5J+G+fsJE=
+
+Name: assets/011.pvr.ccz
+SHA1-Digest: qtkrmQN8OV3ZDtPujMHon5ucbWA=
+
+Name: assets/sv0/a19.png
+SHA1-Digest: QztesxfXmhPf5m/Ut9p3I6jJH8Y=
+
+Name: assets/Animation/x02.png
+SHA1-Digest: 3UCwsXIRWid3TKxQrvJ5xjn78P4=
+
+Name: assets/wp0Big/s92-ipad.png
+SHA1-Digest: Y30b0aWeabm/6cwCE1fiOELEjUc=
+
+Name: assets/wp0Big/s9e.xml
+SHA1-Digest: StKMn2zZIF72fKbtHLjk8XGoboo=
+
+Name: assets/pk0/p22.png
+SHA1-Digest: 1Wq+Lgfuk6X/D9gJyzlZpJzzIAc=
+
+Name: assets/en.lproj/NewFightGift.png
+SHA1-Digest: E71FRjUFoN9y34i7g/kNDSY6sQg=
+
+Name: assets/ef0/x03.ogg
+SHA1-Digest: CVWE1v9j/23n0GWGEIc8oyktZ08=
+
+Name: assets/bag/bag03.png
+SHA1-Digest: VS0wlvOIddv860L4NCgmbMiik1o=
+
+Name: assets/ChatTextInput0.png
+SHA1-Digest: s9MPPtGRrEPxmRA1d2PRjVcSz9Y=
+
+Name: assets/GraphicDump/0c/00/0c0800/lib.xml
+SHA1-Digest: 3gONVWK0yv430yso2eVCW1swcXU=
+
+Name: assets/Endurance_0.png
+SHA1-Digest: tol/ZMZ2H5pw1IHtSe0WKx4kZ7c=
+
+Name: assets/wp0/sa3.png
+SHA1-Digest: 5rfEbWTwNRD1k7Z5go8SSGRSId8=
+
+Name: assets/wp0/sab.png
+SHA1-Digest: 7hyrz02K6aeg9/P4mba5AqMqGEc=
+
+Name: assets/ru.lproj/coordsData-ipad.xml
+SHA1-Digest: dJAxP1BJxoz1P4Zb2eY+LOBA1H8=
+
+Name: assets/wp0/s4b.png
+SHA1-Digest: +R6RRXvmG8M2Ig4Lmdz9nGKd9Vg=
+
+Name: assets/ac0/a19.png
+SHA1-Digest: +u/rfUpSJ9S+pXMYkHIOtLc/5FI=
+
+Name: assets/04.tps
+SHA1-Digest: 0A4sh7vEHXNqrWBwpMyAC+oYJVY=
+
+Name: assets/BuyButton.png
+SHA1-Digest: ejs92gSqPvOYo+ZhrkvXf+AOGuA=
+
+Name: assets/stoneButton_3.png
+SHA1-Digest: 7h1r4Tvo+WlmCP4sYMIa1VAH1D0=
+
+Name: assets/PowerProgrBrown_1.png
+SHA1-Digest: SyVmJQtogMshoPxL3sKpysjpvAE=
+
+Name: assets/WheelFog.png
+SHA1-Digest: CKYShYi5bzDKt4lcQKnV9RnQ1T0=
+
+Name: assets/Animation/x09.png
+SHA1-Digest: NmFiHmuAxMoxc4XsV0Cl5awzecE=
+
+Name: assets/wp0/s57.png
+SHA1-Digest: c4o82shPjtnYzPNhHNxA6Lpr7pg=
+
+Name: assets/wp0Big/s96.png
+SHA1-Digest: lW7R6Hq1OQoNuocrwpLhg5jb9Gs=
+
+Name: assets/HealthProgrNew_2.png
+SHA1-Digest: RGiyUgOfxwNvUBJuuCYQJ1xrWuY=
+
+Name: assets/s10.png
+SHA1-Digest: 080MIa3/kfJYKHLRAXW6K7DhmZo=
+
+Name: assets/ru.lproj/Logo.png
+SHA1-Digest: vKhCq17FQJXcq2j0gKX9SwBZ50A=
+
+Name: assets/pk0/p35.png
+SHA1-Digest: kRNtXe37j0+g5FioT7DTVKAPXTo=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: qQPBfSdhpVx0lHsy/sbIM9CU/eU=
+
+Name: assets/CreateBG-ipad.png
+SHA1-Digest: AITVHN//OQZ5RjpW/U0O6OQV0ZA=
+
+Name: assets/wp0Big/s7d.xml
+SHA1-Digest: 7M8siLsx8hxTYJ0lF0lTh6ZuoL8=
+
+Name: assets/message5.png
+SHA1-Digest: 3XaEStSOChisNeiFRFKP3TZ1SWk=
+
+Name: assets/pk0/p02.png
+SHA1-Digest: 2EaISIK2qSnL+mcNcE4Kg0Pw1cU=
+
+Name: assets/Animation/x0f.plist
+SHA1-Digest: PMmdTGT61jnU9NkOChXHIoSLj5Q=
+
+Name: assets/wp0Big/sa0.png
+SHA1-Digest: CGH4x5TWV7wXf63KN/GO/0K9lb8=
+
+Name: assets/wp0/s109.png
+SHA1-Digest: S0Rc1OpOpZOEDvlcwjv+Ey6RtpY=
+
+Name: assets/wp0Big/s9a-ipad.png
+SHA1-Digest: za//MQmJKiBsj6RMDA7wcDQno9k=
+
+Name: assets/hint6.png
+SHA1-Digest: 5z6NWNVQWq51boj+BuN2PAwVckk=
+
+Name: assets/wp0Big/e01.png
+SHA1-Digest: 2AnYNwCeklBC5Uk6dDWGvOJvczU=
+
+Name: assets/Animation/x0d.plist
+SHA1-Digest: kBD6sgjMm0va4U/LQN0U2vXMwks=
+
+Name: assets/en.lproj/GeneralLocalGraphic.pvr.ccz
+SHA1-Digest: nKbrDGBpORaO9XPvzU0WnZOYFH4=
+
+Name: assets/09.pvr.ccz
+SHA1-Digest: P1M8Gpp6kaeE6QHQzt3joVygpvY=
+
+Name: assets/PowerProgr_0.png
+SHA1-Digest: 2sP76i6TglQ2Na+bioYIgMkUg4Q=
+
+Name: assets/WheelOfFortune-ipad.pvr.ccz
+SHA1-Digest: 5LOzpxPzevv31oHPdyiK02mQQk0=
+
+Name: assets/wp0/s33.png
+SHA1-Digest: RcmhYyDbQnS71FF/XMsrndATDZQ=
+
+Name: assets/ru.lproj/StrengthCrystal.png
+SHA1-Digest: KR3ON2p86wGDlV6CoAD6DX/eYGA=
+
+Name: assets/Battle/5.pvr.ccz
+SHA1-Digest: Q4AVUxyQRVCcPRCV9lQ/+1DG4mg=
+
+Name: assets/message2.png
+SHA1-Digest: f+eX+rf5z6kiCMJYNluEYZrr/5M=
+
+Name: assets/1.jpg
+SHA1-Digest: 8sEnOBMNGu336yxCJMkdmHUIYoI=
+
+Name: assets/Animation/x09.pvr.ccz
+SHA1-Digest: xjiBhmvfmyEWDUAoABF39/KwR9M=
+
+Name: assets/ru.lproj/RatingDetailsDescription.png
+SHA1-Digest: RLe07hXrpnpNmhOptgzRe5j+Oqs=
+
+Name: assets/wp0/s15.png
+SHA1-Digest: mgEUCYwl3Ey4Jda9I+Tf3ZeS5Xs=
+
+Name: assets/ac0/a21.png
+SHA1-Digest: D8yPjL2sCVonbUBrOOFqJDE2jHY=
+
+Name: assets/en.lproj/BuyPessoReals.png
+SHA1-Digest: XtkAQpwXgGGLRUeLqHdgIDAtr4M=
+
+Name: assets/tieRating_2.png
+SHA1-Digest: LRdUXvZzozp/1/JcGsEc66JtG14=
+
+Name: assets/wp0Big/s76.xml
+SHA1-Digest: rwVAc9VRpzf1NdDO/oldBxGC0Bo=
+
+Name: assets/wp0Big/s49-ipad.png
+SHA1-Digest: pPqSTtev7JE9NaaAFfjMoxaZOWI=
+
+Name: assets/Tahoma40.pvr.ccz
+SHA1-Digest: gJRXP+N4+2/e+Ed1OB9k1luXla4=
+
+Name: assets/05.tps
+SHA1-Digest: hJrM82aNT17O9VXasM/jQqSSr2o=
+
+Name: assets/wp0Big/s7f-ipad.png
+SHA1-Digest: ZsW0Rwq1HIqvQIM8/PE+O14PY+k=
+
+Name: assets/DexterityProgr_0.png
+SHA1-Digest: qmJ7TKwRRUjIquTEdP40lbktHnc=
+
+Name: assets/sh0/s06.png
+SHA1-Digest: fn2d/6YzVFA4YNnO2ITTlgz4pKc=
+
+Name: assets/Animation/x14.png
+SHA1-Digest: Ae3dGdtyX+dweSEwnCQfcXxz+m8=
+
+Name: assets/s08.png
+SHA1-Digest: O6Ycle94vQ/TvXHxSXxfQu8QqAI=
+
+Name: assets/gui/close_window.ogg
+SHA1-Digest: 7ChX1gF8DRZaLVEVRc9dWtjFT4k=
+
+Name: assets/gui/armor_set.m4a
+SHA1-Digest: 31AQytrGQeFg299lHAIlF5Ewhos=
+
+Name: assets/sv0/a13.png
+SHA1-Digest: 5YjVPYrTNaD/z+vhWdFEWildj64=
+
+Name: assets/05-ipad.plist
+SHA1-Digest: CsT9llObU1qgFsHjMgG9R2+IGtg=
+
+Name: assets/TrainingPFont.fnt
+SHA1-Digest: UvBCaXAQPojM2TV1lH1L7lc8PQY=
+
+Name: assets/sh0/s07.png
+SHA1-Digest: xsZ9eFImgbQmdIXYX2AItUhNp9Q=
+
+Name: assets/0b-ipad.pvr.ccz
+SHA1-Digest: xtjIQAgq+YkDd6+oZP3jzUZQm60=
+
+Name: assets/GraphicDump/0f/00/0f0500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/Animation/x0b.plist
+SHA1-Digest: NgQyUvEWUuHxyybzjVwM7S+w9Lc=
+
+Name: assets/bt0/h02.png
+SHA1-Digest: tM0uZADHXbLdHy2fBijn9yxFzK4=
+
+Name: assets/HealthProgr_0.png
+SHA1-Digest: FCwi8T/9g5DGHzAkBivUnQjJCmM=
+
+Name: assets/wp0Big/s7a-ipad.png
+SHA1-Digest: XyxJ6eJlnKbBYqEJ3e7JyOMU1UU=
+
+Name: assets/wp0/s7c.png
+SHA1-Digest: z5xwGzcNAy7zbOyOPVb2w16jWV8=
+
+Name: assets/wp0Big/e01.xml
+SHA1-Digest: +asuQcmMKgmp7NLLv9+iCmdShqk=
+
+Name: assets/sv0/z01.png
+SHA1-Digest: k+qWfeVMPtqhp4wlqP/uYlFMFAY=
+
+Name: assets/wp0/f03.png
+SHA1-Digest: JQkxx3kFT803lD1ydCO35SZrttI=
+
+Name: assets/wp0/s48.png
+SHA1-Digest: UMEMKufK/wGGeWvD8E8gQQLj64Q=
+
+Name: assets/wp0Big/s8c.xml
+SHA1-Digest: 5ADH5G6/Cv5fobsk1RZqW4GDsl8=
+
+Name: assets/socialAvatar.png
+SHA1-Digest: D4UNHziaAWu/kjxxPZxcQWdCbbg=
+
+Name: assets/wp0/s12.png
+SHA1-Digest: MV07if16MyQPNpfo5A060aR07g4=
+
+Name: assets/Battle/3-ipad.pvr.ccz
+SHA1-Digest: BRkEr8jLUWb54nCHdI78yzTQF80=
+
+Name: assets/Animation/arenaElk.png
+SHA1-Digest: xTRJQ1D6VhUbRY4qsrALJitLv78=
+
+Name: assets/39.png
+SHA1-Digest: MxDgw2OcSjJwRdQjXOoY4/aH8gs=
+
+Name: assets/Animation/x0e.png
+SHA1-Digest: 2WLF9Yar2V/4kpIomcC5fkwdcEw=
+
+Name: assets/sale.png
+SHA1-Digest: cCH2LZRZIxzLpxJXnIPDYAqU5zg=
+
+Name: assets/wp0Big/s6e-ipad.png
+SHA1-Digest: HzJ9tYHPetXNfrcCKZSpUgwMo/Q=
+
+Name: assets/wp0Big/s7d.png
+SHA1-Digest: uwVXk4fJ4WEZVGLRRHAjc+ODlCQ=
+
+Name: assets/5.jpg
+SHA1-Digest: GNtBwxA8Xa5MLhgH9RBWSKyUYFc=
+
+Name: assets/wp0Big/s721-ipad.png
+SHA1-Digest: SfHMKSEB1rlsjnwyyHA2dgISHN0=
+
+Name: assets/Battle/10.pvr.ccz
+SHA1-Digest: sJkGT7V3AYlVr66rAVcqRiOExzY=
+
+Name: assets/wp0Big/s8d-ipad.png
+SHA1-Digest: 4nK6lDePW+Bo1IlXez2wtz6XorE=
+
+Name: assets/ac0/a18.png
+SHA1-Digest: IXahjDgxnkWAQSJ+gJ+Ix0hjVNA=
+
+Name: assets/FriendsBgSocialFb.png
+SHA1-Digest: zbM893Bl6f41I1Hu+oSFuExr6o4=
+
+Name: assets/12.png
+SHA1-Digest: 2k7+3XIv+SJcu3PCkIlFe/CQE0g=
+
+Name: assets/wp0Big/s38.png
+SHA1-Digest: PJ8b1VmlJ1pMwzFhsw6H6u3jQRE=
+
+Name: assets/wp0Big/s96.xml
+SHA1-Digest: qL1XRPaB00JaNNql+6O1FcLS8GQ=
+
+Name: assets/tLabel.png
+SHA1-Digest: imD9595oJehoGhSGaUMGOsXmDqQ=
+
+Name: assets/wp0Big/s4b-ipad.png
+SHA1-Digest: Rm/SgD7RR3BDj5Qlpv0HcfBalHw=
+
+Name: assets/ru.lproj/BuyMoreBalles.png
+SHA1-Digest: ZaJhINOiU+SR0045HGVLc4neZUg=
+
+Name: assets/wheelFeaturePrizeHighlight.png
+SHA1-Digest: DIRBGi4xFTUT1cH5iOxYoVv2pkk=
+
+Name: assets/GraphicDump/013/00/0130300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0/s8e.png
+SHA1-Digest: 3nWUFOD1OwH7T1Zszmg+jI53Px4=
+
+Name: assets/s16.png
+SHA1-Digest: 8pAEyevxHm/jtcSxWJSsGq1dP/A=
+
+Name: assets/GraphicDump/012/00/0120500/lib.xml
+SHA1-Digest: 3YtkvzDuLuz1aLGH5s1ijo0VD58=
+
+Name: assets/wp0Big/s05.xml
+SHA1-Digest: 4jmYBDDqQQZlMO7WFATR6N9owMI=
+
+Name: assets/wp0/s7d.png
+SHA1-Digest: q5Wo912PxZDNjVa5sn2dTKEynR8=
+
+Name: assets/window5.png
+SHA1-Digest: +v4ed38jioFBIbMMHTpHFLAcGDs=
+
+Name: assets/wp0/s103.png
+SHA1-Digest: hjEQBqxTpcMXLkKaQbnvwYKnkcg=
+
+Name: assets/PlayerLooseRating_2.png
+SHA1-Digest: hs4pZ3q+phClC7UQNt6ZluaoTe4=
+
+Name: assets/wp0Big/s22-ipad.png
+SHA1-Digest: jalh9Y7wH91gmVzsDSPg//pgV5w=
+
+Name: assets/en.lproj/StrengthCrystal.png
+SHA1-Digest: RxB2KSpfNg8fjCHKydhE/42Mg1c=
+
+Name: assets/wp0Big/g03.xml
+SHA1-Digest: kYSih6UInLlJuFpIKOrW0yA4NJQ=
+
+Name: assets/wp0Big/s52.png
+SHA1-Digest: Kz5zCmCW3a32aWNPcidQiJ8l0zI=
+
+Name: assets/wp0/saf.png
+SHA1-Digest: nZeCuc+p+sZWWfq1jYuMwo/DztA=
+
+Name: resources.arsc
+SHA1-Digest: qGx8jeqEX7qTufWA155Zkffnork=
+
+Name: assets/priceFont.fnt
+SHA1-Digest: mWmP5g4TxMR5HluV5HgWBjxIkTA=
+
+Name: assets/wp0Big/f03.png
+SHA1-Digest: AMl1HCoKilXT6hPeQ2n2YhP+jnY=
+
+Name: assets/Battle/8.pvr.ccz
+SHA1-Digest: EN584i7Qa3Xvw49wI0bbsuvW0Zo=
+
+Name: assets/bag/bag12.png
+SHA1-Digest: 1SEOpKzUBmNq4/beicY5NOqp1w0=
+
+Name: assets/BigEnemies/8.png
+SHA1-Digest: xROUotpg983maVuGgGrIog627wE=
+
+Name: assets/wp0Big/s02-ipad.png
+SHA1-Digest: my8I6eruMd8sFGVErefGPhSTf3w=
+
+Name: assets/wp0Big/sa2.xml
+SHA1-Digest: RsBeVi8wfbA7n+sFRw7uz392Ycw=
+
+Name: assets/PlusTraining.png
+SHA1-Digest: LMOZjgxZgBr3rOeX3LiEhVOyRSQ=
+
+Name: assets/strenght.xml
+SHA1-Digest: CltJNCmv3YXGYW97n3xRTeks0ME=
+
+Name: assets/wp0Big/s6b-ipad.png
+SHA1-Digest: WB8F8ncloD3sU66HSYugT6725mk=
+
+Name: assets/ButtonFight.png
+SHA1-Digest: RycNXrv4ErhF0dfPrjz2H4l+saE=
+
+Name: assets/ShopGoodsBackground.png
+SHA1-Digest: 7c65V1v7tYVZ+IOIOtQzh3M0VVQ=
+
+Name: assets/NewsTabFights.png
+SHA1-Digest: 6moEIfBoBUP0Etob3JCExFr2Cu4=
+
+Name: assets/GraphicDump/011/00/0110000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/StaminaProgrOriginal_0.png
+SHA1-Digest: QVxqFv8lP2IHqXr9MmESdd5v48c=
+
+Name: assets/tutorial3.png
+SHA1-Digest: Kgvj52xgbd+T61qDXrHh36VYx/Y=
+
+Name: assets/sh0/s4.png
+SHA1-Digest: Oa9r+ntDUaQx761vOrO6y4O2qWY=
+
+Name: assets/dot.png
+SHA1-Digest: N6wPlfAPtcdPvYfx616mqaavtDw=
+
+Name: assets/010.plist
+SHA1-Digest: NOZMZVQBTQpZUo9OybDrYmhvsg4=
+
+Name: assets/ac0/a42.png
+SHA1-Digest: 4ZoN/hXboTDwgntzXsYJY3ZKXTM=
+
+Name: assets/wp0Big/s8d.xml
+SHA1-Digest: 54mLfp/DjcYVS3a4y2VtY5fC9g4=
+
+Name: assets/pk0/p42.png
+SHA1-Digest: tRw2jUV50SNMVsafxX9Ve4o35MY=
+
+Name: assets/63.png
+SHA1-Digest: xKryHJpdvOH2OiM5xrMb/51WogA=
+
+Name: assets/wp0/s82.png
+SHA1-Digest: sSTm1kEUDxLuBB2HLWR4epHxEeQ=
+
+Name: assets/wp0Big/s90-ipad.png
+SHA1-Digest: eBKyclC+RK5fHF/ojijJ1GhYcjE=
+
+Name: assets/slotMat.png
+SHA1-Digest: 2TMjJ93TT7uF+7vKNgTymmb39no=
+
+Name: assets/ru.lproj/InfoPlist.strings
+SHA1-Digest: A+xJjaPk96QoIy574vEMFMWjUoY=
+
+Name: assets/wp0Big/s23-ipad.png
+SHA1-Digest: 6U4F9L3rOuIFr/jN93KTExcd+o4=
+
+Name: assets/AttackInRating.png
+SHA1-Digest: ZIhS44RsVNcZAERF5RINALyVx0w=
+
+Name: assets/BackpackScrollFake.png
+SHA1-Digest: RRgnuEh0XM9qddNHbHqzsVdm9UY=
+
+Name: assets/StaminaProgrBrown_0.png
+SHA1-Digest: O8hzsBDuZOg5rwi1MydVEnCAC+k=
+
+Name: assets/sv0/a09.png
+SHA1-Digest: JRGUL3MmccAlL/hux9OZLmq5c/Y=
+
+Name: assets/BigEnemies/12.png
+SHA1-Digest: 3IlQo/VK8K1KoKlogOVO8VLLXRM=
+
+Name: assets/wp0Big/s52-ipad.png
+SHA1-Digest: Hs2CErS6aeEZ6G7oKAbkkMmhxyY=
+
+Name: assets/wp0Big/s86.png
+SHA1-Digest: GsZAmCEGYRhthMVdG1SkHUmbBBc=
+
+Name: assets/wp0Big/d02.png
+SHA1-Digest: 3McXGJEX2HjfE87eu4wxFhtrzLw=
+
+Name: ormma_bridge.js
+SHA1-Digest: qv41+2cFV4tRdzjlMq4U2txaG90=
+
+Name: assets/wp0Big/s9f-ipad.png
+SHA1-Digest: 07RYgPAzPmanBenEaNEOz5Q9kgA=
+
+Name: assets/head.png
+SHA1-Digest: cB3PoXAvm9O62oTMXrn0RIoeOdQ=
+
+Name: assets/wp0/s6b.png
+SHA1-Digest: MoirVGGBRzjn2iUiirODWhnYu78=
+
+Name: assets/sv0/a10.png
+SHA1-Digest: 3d1yYJL+aSwH41PSwHBcrw3USXM=
+
+Name: assets/vLabel.png
+SHA1-Digest: MubxRBgSA1quJZyPNCrwOtHt0Sg=
+
+Name: assets/TWCircle.png
+SHA1-Digest: BvJ0gLGhu31dSFq7f6WW25nabcU=
+
+Name: assets/pCurTab.png
+SHA1-Digest: Lbe/HHC92Jb0UperaJlXNTb7FUM=
+
+Name: assets/wp0Big/s6f1.png
+SHA1-Digest: to5CQP1E3UGBNCRXNTvvY76z3nI=
+
+Name: assets/wp0Big/s56.png
+SHA1-Digest: wyhsuS0wbeA3UOQpezrJ6/5K1X8=
+
+Name: assets/0d.plist
+SHA1-Digest: ZOyszpNR4mP8JucGtzA/h9YMCU0=
+
+Name: assets/17.png
+SHA1-Digest: gQ5oI65uWFbIT4A4W1fcjXZcPEY=
+
+Name: assets/ac0/a28.png
+SHA1-Digest: nWlic9VtDJboRFFy4jsMhowtyIU=
+
+Name: assets/ru.lproj/Buttons.plist
+SHA1-Digest: By47M/oX2aR/vuxTJLNXY/3KtVA=
+
+Name: assets/bag/bag08.png
+SHA1-Digest: BGaVZjNn8O4hUjhq2DJpHl3Swso=
+
+Name: assets/GraphicDump/02/00/020300/lib.xml
+SHA1-Digest: i7A0fBkWGNODazo81eX3JK3BAzw=
+
+Name: assets/wp0Big/g02.png
+SHA1-Digest: KM3QjNPQ9jUuqcY6axls1FCxU5g=
+
+Name: assets/wp0Big/s87-ipad.png
+SHA1-Digest: AOFsnMwzNoumj4iVNk2i8QsoK0E=
+
+Name: assets/wp0Big/s71-ipad.png
+SHA1-Digest: IiY3ctSTtPqasxZDsk0QGVH+QXU=
+
+Name: assets/06.tps
+SHA1-Digest: Jr5ZMbh6mxAKsrZjrTReHDNZLVo=
+
+Name: assets/wp0Big/s52.xml
+SHA1-Digest: +MsfPXW1cxCkn10UwfZHSM30u1w=
+
+Name: assets/wp0Big/s77-ipad.png
+SHA1-Digest: Z2YauBo7vna78XbG95D3nWS/oIo=
+
+Name: assets/wp0Big/s30-ipad.png
+SHA1-Digest: p5frd0AM/xYmTh/4zR0nJtPpW2s=
+
+Name: assets/HealthProgrNew_1.png
+SHA1-Digest: PsSlKwQXJTz5jO3Y1aaDOEGJ1rk=
+
+Name: assets/wp0/s110.png
+SHA1-Digest: sevIO3tC1Lq9rUBksQxKMu0Deto=
+
+Name: assets/CurrentTabBackpack.png
+SHA1-Digest: fP26EBs6I/CXaF/bF9U9AzJjVrA=
+
+Name: assets/ru.lproj/Default-Landscape.png
+SHA1-Digest: TZpG7EsF/J6h8SzYu2b1dkFQR6k=
+
+Name: assets/achiev_bg_5.png
+SHA1-Digest: rkBCqf5OhLHa6fMuSTcfLP6ILPg=
+
+Name: assets/wp0Big/s1131.png
+SHA1-Digest: jP4mhGQtKe57N47mDV1FWzzc0C0=
+
+Name: assets/1-ipad.jpg
+SHA1-Digest: nj2Ha067CRbOxaWr0RyN/wqD0UA=
+
+Name: assets/NewsNotification2.png
+SHA1-Digest: yPuZwWIb6M6SMfuR+rxyaz3sY1M=
+
+Name: assets/wp0/s26.png
+SHA1-Digest: G32QHPHFPTs6iSLmdsp92lcC2zM=
+
+Name: assets/PowerProgrOriginal_0.png
+SHA1-Digest: TaLhSEGuGP0t82KfVCAdapH+JXI=
+
+Name: assets/wp0/s29.png
+SHA1-Digest: d4wJIEBAezVC69vCAOPdscypDzA=
+
+Name: assets/GraphicDump/0e/00/0e0000/lib.xml
+SHA1-Digest: dhVkkLB67URTWR0op/2lkXldkN8=
+
+Name: assets/en.lproj/InfoPlist.strings
+SHA1-Digest: c/N2Mn1SljJezTNdMJ+H2XXQP3U=
+
+Name: assets/en.lproj/RatingDetailsDescription.png
+SHA1-Digest: KEif6C/XyNxxn2rtg3Z78IQETeQ=
+
+Name: assets/wp0Big/s11-ipad.png
+SHA1-Digest: O02QApr4NXyp3Gco6NZQ2IfvOYs=
+
+Name: assets/interface/drag.m4a
+SHA1-Digest: uttIy78Rh46BJgP8nTJW6X3yO/I=
+
+Name: assets/ButtonOk.png
+SHA1-Digest: yKx7Yl0UCG05HmbRrwNY7fngMrk=
+
+Name: assets/wp0/s01.png
+SHA1-Digest: nFSmwwDAwLrnejBsE9vjJSsAcJI=
+
+Name: assets/arenaSmoke.tps
+SHA1-Digest: oChMQoIy7S30RS+4M6mVoiaAqfw=
+
+Name: assets/wp0/s4e.png
+SHA1-Digest: KY9HWmazHrH82iKEoPp0GJbt1lE=
+
+Name: assets/ru.lproj/coordsData.xml
+SHA1-Digest: Xal+hbIbGbYHcAIvV8EaAqm7kdM=
+
+Name: assets/gladeButton.png
+SHA1-Digest: zqW5m8yMWqwSdsDuPjSvf+p57oA=
+
+Name: assets/s04.png
+SHA1-Digest: Ux1vM4zp0SRZfoDCdz6+IN4BgfU=
+
+Name: assets/flover_1.png
+SHA1-Digest: dkPtwcjsEM9VElw5Ov4WsvkYnhg=
+
+Name: assets/pk0/p15.png
+SHA1-Digest: 45VOp0Mp9EeBGs3BYzlF6BvB7F8=
+
+Name: assets/ac0/a13.png
+SHA1-Digest: /HWWlSdbgOKpkjgu6NwpOMcx37U=
+
+Name: assets/ac0/a09.png
+SHA1-Digest: 2Nz77hRXW9PUFzBrLfjpcC5jLZo=
+
+Name: assets/en.lproj/Default-Landscape.png
+SHA1-Digest: 8/2wG0oHUwkq2Hx2BawEuCG/lk0=
+
+Name: assets/wp0Big/sab.png
+SHA1-Digest: 51TzS/r5P+XIeItkFxz+ZKf1sog=
+
+Name: assets/sv0/a26.png
+SHA1-Digest: 7WM7nLdbKtmVV9rz5l2q/sk1ShQ=
+
+Name: assets/pageNumbers.fnt
+SHA1-Digest: yMQ/I1ud8i0sdbvMWSazVnwVYVk=
+
+Name: assets/22.png
+SHA1-Digest: cwpJ058K4Yp8t8Mgi2QqRQIGOnE=
+
+Name: assets/slot1.png
+SHA1-Digest: p3gJXrMIxmi1jcnwkQdBYpEta94=
+
+Name: assets/pk0/p30.png
+SHA1-Digest: HFMj08bR4ofrLF86z81MezLgze8=
+
+Name: assets/BattlesLeft.png
+SHA1-Digest: 51lmuC4G080WdiVLTb8DyuHuZcs=
+
+Name: assets/wp0/s86.png
+SHA1-Digest: hzQJyRgRQl3YnL79z6HUgd2HAI8=
+
+Name: assets/BankRealButton.png
+SHA1-Digest: fYNf/8zsw5qObZN0qoEnxNqVd7g=
+
+Name: assets/3.png
+SHA1-Digest: pvQ7kFNhaNik4r/ThPa5x5sLTpg=
+

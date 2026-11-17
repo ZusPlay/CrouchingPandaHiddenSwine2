@@ -1,0 +1,843 @@
+<lib>
+	<graphics>
+		<g name="s6f" />
+        <g name="s6f1" />
+	</graphics>
+	<animations>
+		<animation id="x00">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x11">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x07">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-188.85" y="-45.15" r="2" />
+				<a graphic="s6f" x="-186.5" y="-47.5" r="7" />
+				<a graphic="s6f" x="-184.15" y="-49.85" r="12" />
+				<a graphic="s6f" x="-183" y="-51" r="14" />
+				<a graphic="s6f" x="-183" y="-51" r="14" />
+				<a graphic="s6f" x="-183" y="-51" r="14" />
+				<a graphic="s6f" x="-183" y="-51" r="14" />
+				<a graphic="s6f" x="-183" y="-51" r="14" />
+				<a graphic="s6f" x="-183" y="-51" r="14" />
+				<a graphic="s6f" x="-183" y="-51" r="14" />
+				<a graphic="s6f" x="-185.85" y="-48.2" r="8" />
+				<a graphic="s6f" x="-188.6" y="-45.45" r="2" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-224.4" y="-42.85" r="2" />
+				<a graphic="s6f1" x="-223.25" y="-44.5" r="7" />
+				<a graphic="s6f1" x="-222.1" y="-46.15" r="12" />
+				<a graphic="s6f1" x="-221.5" y="-47.05" r="14" />
+				<a graphic="s6f1" x="-221.5" y="-47.05" r="14" />
+				<a graphic="s6f1" x="-221.5" y="-47.05" r="14" />
+				<a graphic="s6f1" x="-221.5" y="-47.05" r="14" />
+				<a graphic="s6f1" x="-221.5" y="-47.05" r="14" />
+				<a graphic="s6f1" x="-221.5" y="-47.05" r="14" />
+				<a graphic="s6f1" x="-221.5" y="-47" r="14" />
+				<a graphic="s6f1" x="-222.9" y="-45" r="8" />
+				<a graphic="s6f1" x="-224.25" y="-43.05" r="2" />
+			</layer>
+		</animation>
+		<animation id="x01">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-186" y="-53" r="-38" />
+				<a graphic="s6f" x="-177.95" y="-70.95" r="-114" />
+				<a graphic="s6f" x="-185.95" y="-53" r="-38" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x10">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-192.45" y="-43.9" r="1" />
+				<a graphic="s6f" x="-194.9" y="-43.8" r="3" />
+				<a graphic="s6f" x="-194.9" y="-43.8" r="3" />
+				<a graphic="s6f" x="-194.9" y="-43.8" r="3" />
+				<a graphic="s6f" x="-157.05" y="-100.8" r="0" />
+				<a graphic="s6f" x="-157.05" y="-100.8" r="0" />
+				<a graphic="s6f" x="-170.2" y="-78.05" r="28" />
+				<a graphic="s6f" x="-183.45" y="-55.4" r="9" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-232.25" y="-42.75" r="22" />
+				<a graphic="s6f1" x="-246" y="-43.5" r="30" />
+				<a graphic="s6f1" x="-259" y="-43.5" r="0" />
+				<a graphic="s6f1" x="-259" y="-43.5" r="0" />
+				<a graphic="s6f1" x="-121.95" y="-146.85" r="0" />
+				<a graphic="s6f1" x="-121.95" y="-146.85" r="0" />
+				<a graphic="s6f1" x="-163.15" y="-104.9" r="0" />
+				<a graphic="s6f1" x="-204.45" y="-62.9" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0f">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="30" y="-44" r="0" />
+				<a graphic="s6f" x="30" y="-44" r="0" />
+				<a graphic="s6f" x="30" y="-44" r="0" />
+				<a graphic="s6f" x="30" y="-44" r="0" />
+				<a graphic="s6f" x="33.95" y="-53" r="-38" />
+				<a graphic="s6f" x="42.05" y="-70.95" r="-114" />
+				<a graphic="s6f" x="34" y="-53.05" r="-38" />
+				<a graphic="s6f" x="30" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0d">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-186" y="-53" r="-38" />
+				<a graphic="s6f" x="-177.95" y="-70.95" r="-114" />
+				<a graphic="s6f" x="-185.95" y="-53" r="-38" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-186" y="-53" r="-38" />
+				<a graphic="s6f" x="-177.95" y="-70.95" r="-114" />
+				<a graphic="s6f" x="-185.95" y="-53" r="-38" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0a">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-240.35" y="-43.35" r="9" />
+				<a graphic="s6f1" x="-248" y="-44" r="14" />
+				<a graphic="s6f1" x="-248" y="-44" r="14" />
+				<a graphic="s6f1" x="-240.3" y="-43.35" r="9" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0b">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-196" y="-44" r="-10" />
+				<a graphic="s6f" x="-199" y="-43.95" r="-15" />
+				<a graphic="s6f" x="-199" y="-44" r="-15" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-243.65" y="-43.35" r="0" />
+				<a graphic="s6f1" x="-253" y="-44" r="0" />
+				<a graphic="s6f1" x="-253" y="-44" r="45" />
+				<a graphic="s6f1" x="-248" y="-44" r="14" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x09">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x02">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="33.9" y="-44" r="0" />
+				<a graphic="s6f" x="39.75" y="-43.95" r="0" />
+				<a graphic="s6f" x="45.6" y="-43.95" r="0" />
+				<a graphic="s6f" x="48.6" y="-47.3" r="9" />
+				<a graphic="s6f" x="48.6" y="-47.25" r="9" />
+				<a graphic="s6f" x="45.6" y="-44" r="0" />
+				<a graphic="s6f" x="39.75" y="-44" r="0" />
+				<a graphic="s6f" x="33.9" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-7.5" y="-42" r="8" />
+				<a graphic="s6f1" x="-12.5" y="-42" r="27" />
+				<a graphic="s6f1" x="-17.5" y="-42" r="45" />
+				<a graphic="s6f1" x="-14.9" y="-41.4" r="55" />
+				<a graphic="s6f1" x="-5.65" y="-41.15" r="40" />
+				<a graphic="s6f1" x="10" y="-41.1" r="0" />
+				<a graphic="s6f1" x="4" y="-41.45" r="0" />
+				<a graphic="s6f1" x="-2" y="-41.8" r="0" />
+			</layer>
+		</animation>
+		<animation id="x06">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="37.25" y="-41.7" r="-4" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.5" y="-39.5" r="-7" />
+				<a graphic="s6f" x="35.15" y="-42.55" r="-3" />
+				<a graphic="s6f" x="31" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-5" y="-42" r="7" />
+				<a graphic="s6f1" x="-5.05" y="-42.05" r="14" />
+				<a graphic="s6f1" x="-5.05" y="-42.05" r="14" />
+				<a graphic="s6f1" x="-5.05" y="-42.05" r="14" />
+				<a graphic="s6f1" x="-5.05" y="-42.05" r="14" />
+				<a graphic="s6f1" x="-5" y="-42" r="14" />
+				<a graphic="s6f1" x="-5" y="-42.05" r="4" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0e">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="43.5" y="-39.5" r="-7" />
+				<a graphic="s6f" x="46.35" y="-39.5" r="-7" />
+				<a graphic="s6f" x="49.2" y="-39.45" r="-7" />
+				<a graphic="s6f" x="50.7" y="-39.5" r="-7" />
+				<a graphic="s6f" x="44.1" y="-41.05" r="-5" />
+				<a graphic="s6f" x="31" y="-44" r="0" />
+				<a graphic="s6f" x="30.2" y="-51.8" r="-19" />
+				<a graphic="s6f" x="30.75" y="-46.65" r="-7" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-5" y="-42" r="14" />
+				<a graphic="s6f1" x="-2.45" y="-49.75" r="44" />
+				<a graphic="s6f1" x="16.45" y="-71.3" r="84" />
+				<a graphic="s6f1" x="25.9" y="-82.15" r="104" />
+				<a graphic="s6f1" x="15.55" y="-68.75" r="69" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+				<a graphic="s6f1" x="-5" y="-42" r="7" />
+				<a graphic="s6f1" x="-5" y="-42" r="2" />
+			</layer>
+		</animation>
+		<animation id="x0c">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="37.25" y="-41.7" r="-4" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.5" y="-39.5" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.5" y="-39.5" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="43.45" y="-39.45" r="-7" />
+				<a graphic="s6f" x="37.3" y="-41.75" r="-4" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-5" y="-42" r="7" />
+				<a graphic="s6f1" x="-5.05" y="-42.05" r="14" />
+				<a graphic="s6f1" x="-5.05" y="-42.05" r="14" />
+				<a graphic="s6f1" x="-5.05" y="-42.05" r="14" />
+				<a graphic="s6f1" x="-5.05" y="-42.05" r="14" />
+				<a graphic="s6f1" x="-5" y="-42" r="14" />
+				<a graphic="s6f1" x="-5.05" y="-42.05" r="14" />
+				<a graphic="s6f1" x="-5" y="-42" r="14" />
+				<a graphic="s6f1" x="-23.6" y="-43.2" r="23" />
+				<a graphic="s6f1" x="-42.2" y="-44.4" r="32" />
+				<a graphic="s6f1" x="-51.5" y="-45" r="37" />
+				<a graphic="s6f1" x="-49.25" y="-45" r="42" />
+				<a graphic="s6f1" x="-44.8" y="-45" r="53" />
+				<a graphic="s6f1" x="-42.55" y="-45.05" r="59" />
+				<a graphic="s6f1" x="-23.75" y="-43.55" r="37" />
+				<a graphic="s6f1" x="-5" y="-42.05" r="7" />
+			</layer>
+		</animation>
+		<animation id="x03">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-188.9" y="-46.55" r="30" />
+				<a graphic="s6f" x="-187.9" y="-49.15" r="60" />
+				<a graphic="s6f" x="-187.9" y="-49.15" r="60" />
+				<a graphic="s6f" x="-187.9" y="-49.15" r="60" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-223.85" y="-47.75" r="3" />
+				<a graphic="s6f1" x="-221.6" y="-59.25" r="11" />
+				<a graphic="s6f1" x="-190.45" y="-45.1" r="0" />
+				<a graphic="s6f1" x="-160.35" y="-25.2" r="0" />
+				<a graphic="s6f1" x="-160.35" y="-25.2" r="0" />
+				<a graphic="s6f1" x="-160.35" y="-25.2" r="0" />
+			</layer>
+		</animation>
+		<animation id="x04">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-184.2" y="-46.45" r="-14" />
+				<a graphic="s6f" x="-172.8" y="-51.3" r="-41" />
+				<a graphic="s6f" x="-134.35" y="-46.2" r="-31" />
+				<a graphic="s6f" x="-100.1" y="-38.6" r="-9" />
+				<a graphic="s6f" x="-96.7" y="-38.6" r="-9" />
+				<a graphic="s6f" x="-93.4" y="-38.6" r="-9" />
+				<a graphic="s6f" x="-69.1" y="-44.45" r="11" />
+				<a graphic="s6f" x="-23.95" y="-56.25" r="51" />
+				<a graphic="s6f" x="18.85" y="-50.2" r="1" />
+				<a graphic="s6f" x="36.9" y="-46.4" r="-16" />
+				<a graphic="s6f" x="30" y="-45" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-185.1" y="-51.25" r="30" />
+				<a graphic="s6f1" x="-137.6" y="-62.5" r="22" />
+				<a graphic="s6f1" x="-122.55" y="-66.2" r="-53" />
+				<a graphic="s6f1" x="-80.6" y="-61.85" r="-43" />
+				<a graphic="s6f1" x="-42.75" y="-55" r="-28" />
+				<a graphic="s6f1" x="-9.2" y="-45.55" r="-8" />
+				<a graphic="s6f1" x="-9.25" y="-45.55" r="-8" />
+				<a graphic="s6f1" x="-7.75" y="-44.35" r="-5" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x08">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-185.5" y="-42.15" r="0" />
+				<a graphic="s6f" x="-176.5" y="-38.5" r="0" />
+				<a graphic="s6f" x="-176.5" y="-38.5" r="0" />
+				<a graphic="s6f" x="-156.05" y="-160.45" r="10" />
+				<a graphic="s6f" x="-142.4" y="-241.65" r="18" />
+				<a graphic="s6f" x="-135.55" y="-282.25" r="21" />
+				<a graphic="s6f" x="-134.55" y="-287.5" r="21" />
+				<a graphic="s6f" x="-132.7" y="-288.9" r="17" />
+				<a graphic="s6f" x="-129.2" y="-291.6" r="8" />
+				<a graphic="s6f" x="-123.75" y="-295.75" r="-6" />
+				<a graphic="s6f" x="-116.7" y="-301.35" r="-23" />
+				<a graphic="s6f" x="-46.55" y="-259.05" r="-1" />
+				<a graphic="s6f" x="35.35" y="-162.15" r="-10" />
+				<a graphic="s6f" x="31" y="-44" r="0" />
+				<a graphic="s6f" x="31" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-225" y="-37.65" r="24" />
+				<a graphic="s6f1" x="-225" y="-29" r="75" />
+				<a graphic="s6f1" x="-225" y="-29" r="75" />
+				<a graphic="s6f1" x="-209.95" y="-172.65" r="85" />
+				<a graphic="s6f1" x="-199.9" y="-268.5" r="93" />
+				<a graphic="s6f1" x="-194.9" y="-316.4" r="96" />
+				<a graphic="s6f1" x="-194.05" y="-322.6" r="97" />
+				<a graphic="s6f1" x="-192.3" y="-324.7" r="98" />
+				<a graphic="s6f1" x="-188.65" y="-328.75" r="101" />
+				<a graphic="s6f1" x="-183.25" y="-335" r="106" />
+				<a graphic="s6f1" x="-176" y="-343.35" r="112" />
+				<a graphic="s6f1" x="-104.7" y="-295.3" r="81" />
+				<a graphic="s6f1" x="-3.35" y="-192.05" r="5" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x05">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="11.65" y="-45.85" r="0" />
+				<a graphic="s6f" x="-48.45" y="-46.9" r="37" />
+				<a graphic="s6f" x="-121.55" y="-47.55" r="37" />
+				<a graphic="s6f" x="-153.35" y="-48.3" r="0" />
+				<a graphic="s6f" x="-165.15" y="-46.45" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-23.85" y="-43.85" r="0" />
+				<a graphic="s6f1" x="-42.75" y="-45.7" r="0" />
+				<a graphic="s6f1" x="-82.95" y="-47.2" r="-8" />
+				<a graphic="s6f1" x="-155.45" y="-47.2" r="-8" />
+				<a graphic="s6f1" x="-200.15" y="-44.45" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x16">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-188" y="-36.2" r="-24" />
+				<a graphic="s6f" x="-184" y="-20.55" r="-72" />
+				<a graphic="s6f" x="-173.05" y="-18.6" r="-78" />
+				<a graphic="s6f" x="-162.1" y="-16.6" r="-84" />
+				<a graphic="s6f" x="-176.65" y="-19.25" r="-76" />
+				<a graphic="s6f" x="-186" y="-28.35" r="-48" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-214.35" y="-23.6" r="-24" />
+				<a graphic="s6f1" x="-193" y="13.25" r="-72" />
+				<a graphic="s6f1" x="-191.65" y="-11.65" r="-101" />
+				<a graphic="s6f1" x="-190.35" y="-36.65" r="-129" />
+				<a graphic="s6f1" x="-192.1" y="-3.35" r="-91" />
+				<a graphic="s6f1" x="-203.6" y="-5.15" r="-48" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x15">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-186" y="-40" r="-12" />
+				<a graphic="s6f" x="-182" y="-36" r="-25" />
+				<a graphic="s6f" x="-179.95" y="-34" r="-30" />
+				<a graphic="s6f" x="-179.95" y="-34" r="-30" />
+				<a graphic="s6f" x="-179.95" y="-34" r="-30" />
+				<a graphic="s6f" x="-180" y="-34" r="-30" />
+				<a graphic="s6f" x="-179.95" y="-34" r="-30" />
+				<a graphic="s6f" x="-179.95" y="-34" r="-30" />
+				<a graphic="s6f" x="-180" y="-34" r="-30" />
+				<a graphic="s6f" x="-180" y="-34" r="-30" />
+				<a graphic="s6f" x="-179.95" y="-34" r="-30" />
+				<a graphic="s6f" x="-179.95" y="-34" r="-30" />
+				<a graphic="s6f" x="-179.95" y="-34" r="-30" />
+				<a graphic="s6f" x="-180" y="-34" r="-30" />
+				<a graphic="s6f" x="-179.95" y="-34" r="-30" />
+				<a graphic="s6f" x="-180" y="-34" r="-30" />
+				<a graphic="s6f" x="-179.95" y="-34" r="-30" />
+				<a graphic="s6f" x="-179.95" y="-34" r="-30" />
+				<a graphic="s6f" x="-180" y="-34" r="-30" />
+				<a graphic="s6f" x="-183.35" y="-37.35" r="-21" />
+				<a graphic="s6f" x="-186.65" y="-40.6" r="-10" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-227.05" y="-42.3" r="5" />
+				<a graphic="s6f1" x="-231.15" y="-42.85" r="18" />
+				<a graphic="s6f1" x="-235.25" y="-43.45" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.45" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.45" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.45" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.45" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.45" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.45" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.4" r="29" />
+				<a graphic="s6f1" x="-235.25" y="-43.45" r="29" />
+				<a graphic="s6f1" x="-231.85" y="-42.95" r="20" />
+				<a graphic="s6f1" x="-228.45" y="-42.5" r="9" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x14">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-185" y="-42.75" r="11" />
+				<a graphic="s6f" x="-175" y="-40.25" r="33" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-170" y="-39" r="45" />
+				<a graphic="s6f" x="-178" y="-40.95" r="27" />
+				<a graphic="s6f" x="-185.95" y="-42.95" r="8" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-222.75" y="-41" r="7" />
+				<a graphic="s6f1" x="-218.25" y="-39" r="22" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-216" y="-38" r="29" />
+				<a graphic="s6f1" x="-219.65" y="-39.65" r="18" />
+				<a graphic="s6f1" x="-223.2" y="-41.25" r="5" />
+			</layer>
+		</animation>
+		<animation id="x12">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-183.85" y="-43.15" r="0" />
+				<a graphic="s6f" x="-171.5" y="-41.5" r="0" />
+				<a graphic="s6f" x="-171.5" y="-41.5" r="0" />
+				<a graphic="s6f" x="-171.5" y="-41.5" r="0" />
+				<a graphic="s6f" x="-175.2" y="-42" r="0" />
+				<a graphic="s6f" x="-182.6" y="-43" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-232.55" y="-41.45" r="6" />
+				<a graphic="s6f1" x="-247.65" y="-40.35" r="19" />
+				<a graphic="s6f1" x="-262.8" y="-39.2" r="33" />
+				<a graphic="s6f1" x="-277.95" y="-38.15" r="46" />
+				<a graphic="s6f1" x="-293" y="-37" r="60" />
+				<a graphic="s6f1" x="-271" y="-36.95" r="60" />
+				<a graphic="s6f1" x="-253.75" y="-57.4" r="0" />
+				<a graphic="s6f1" x="-241.2" y="-98.2" r="135" />
+				<a graphic="s6f1" x="-248.75" y="-73.7" r="105" />
+				<a graphic="s6f1" x="-256.25" y="-49.2" r="0" />
+				<a graphic="s6f1" x="-253" y="-37.95" r="48" />
+				<a graphic="s6f1" x="-238.95" y="-40" r="23" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x13">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-181.95" y="-61.95" r="-76" />
+				<a graphic="s6f" x="-181.9" y="-62" r="-76" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+				<a graphic="s6f1" x="-225" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x17">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-133.65" y="-70.4" r="-8" />
+				<a graphic="s6f" x="-21" y="-123.15" r="-22" />
+				<a graphic="s6f" x="66.1" y="-154.6" r="-59" />
+				<a graphic="s6f" x="104.65" y="-153.75" r="-99" />
+				<a graphic="s6f" x="95.75" y="-93.75" r="-56" />
+				<a graphic="s6f" x="62.95" y="-41.35" r="0" />
+				<a graphic="s6f" x="31" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-230.6" y="-42" r="0" />
+				<a graphic="s6f1" x="-241.75" y="-42" r="0" />
+				<a graphic="s6f1" x="-252.95" y="-42" r="0" />
+				<a graphic="s6f1" x="-264.1" y="-42" r="0" />
+				<a graphic="s6f1" x="-275.3" y="-42" r="0" />
+				<a graphic="s6f1" x="-286.45" y="-42" r="0" />
+				<a graphic="s6f1" x="-286.45" y="-42" r="0" />
+				<a graphic="s6f1" x="-286.45" y="-42" r="0" />
+				<a graphic="s6f1" x="-221.4" y="-77.35" r="27" />
+				<a graphic="s6f1" x="-91.1" y="-148.05" r="83" />
+				<a graphic="s6f1" x="4.9" y="-154.4" r="30" />
+				<a graphic="s6f1" x="52.8" y="-108.65" r="-56" />
+				<a graphic="s6f1" x="57" y="-64.85" r="-31" />
+				<a graphic="s6f1" x="27.65" y="-39.35" r="0" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+			</layer>
+		</animation>
+		<animation id="x18">
+			<layer id="0" name="s6f">
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-190" y="-44" r="0" />
+				<a graphic="s6f" x="-170.4" y="-68.05" r="-3" />
+				<a graphic="s6f" x="-13" y="-260.45" r="-20" />
+				<a graphic="s6f" x="-11" y="-262.65" r="-22" />
+				<a graphic="s6f" x="-4.8" y="-269.5" r="-28" />
+				<a graphic="s6f" x="5.5" y="-280.7" r="-39" />
+				<a graphic="s6f" x="19.9" y="-296.4" r="-54" />
+				<a graphic="s6f" x="38.4" y="-316.65" r="-73" />
+				<a graphic="s6f" x="61" y="-341.5" r="-97" />
+				<a graphic="s6f" x="109.45" y="-318.7" r="-70" />
+				<a graphic="s6f" x="150.25" y="-276.55" r="-25" />
+				<a graphic="s6f" x="117.15" y="-155.7" r="-10" />
+				<a graphic="s6f" x="62.95" y="-41.35" r="0" />
+				<a graphic="s6f" x="31" y="-44" r="0" />
+			</layer>
+             <layer id="1" name="s6f1">
+				<a graphic="s6f1" x="-251.85" y="-37.6" r="26" />
+				<a graphic="s6f1" x="-282.55" y="-32.6" r="56" />
+				<a graphic="s6f1" x="-255.6" y="-61.85" r="44" />
+				<a graphic="s6f1" x="-8.7" y="-300.05" r="-80" />
+				<a graphic="s6f1" x="-6.8" y="-301.35" r="-80" />
+				<a graphic="s6f1" x="-1.05" y="-305.25" r="-81" />
+				<a graphic="s6f1" x="8.45" y="-311.7" r="-83" />
+				<a graphic="s6f1" x="21.85" y="-320.75" r="-86" />
+				<a graphic="s6f1" x="39.05" y="-332.5" r="-89" />
+				<a graphic="s6f1" x="60.1" y="-346.75" r="-93" />
+				<a graphic="s6f1" x="117.15" y="-321.1" r="-69" />
+				<a graphic="s6f1" x="168.65" y="-282.5" r="-39" />
+				<a graphic="s6f1" x="109.55" y="-157.8" r="-18" />
+				<a graphic="s6f1" x="27.65" y="-39.35" r="0" />
+				<a graphic="s6f1" x="-5" y="-42" r="0" />
+			</layer>
+		</animation>
+	</animations>
+</lib>
+

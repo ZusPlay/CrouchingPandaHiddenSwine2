@@ -1,0 +1,450 @@
+<lib>
+	<graphics>
+		<g name="s97" />
+	</graphics>
+	<animations>
+		<animation id="x00">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-230.1" y="-121.2" r="-1" />
+				<a graphic="s97" x="-228.3" y="-121.55" r="-3" />
+				<a graphic="s97" x="-226.5" y="-122" r="-4" />
+				<a graphic="s97" x="-226.35" y="-120.05" r="-3" />
+				<a graphic="s97" x="-226.15" y="-118" r="-1" />
+				<a graphic="s97" x="-225.7" y="-117.1" r="0" />
+				<a graphic="s97" x="-225.1" y="-117.3" r="0" />
+				<a graphic="s97" x="-224.5" y="-117.5" r="-1" />
+				<a graphic="s97" x="-227.7" y="-119.25" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+			</layer>
+		</animation>
+		<animation id="x11">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-232.4" y="-120" r="6" />
+				<a graphic="s97" x="-235.15" y="-117.95" r="18" />
+				<a graphic="s97" x="-237.9" y="-116" r="31" />
+				<a graphic="s97" x="-240.65" y="-113.95" r="43" />
+				<a graphic="s97" x="-243.45" y="-111.95" r="55" />
+				<a graphic="s97" x="-246.2" y="-109.9" r="68" />
+				<a graphic="s97" x="-246.85" y="-110.15" r="68" />
+				<a graphic="s97" x="-247.55" y="-110.4" r="68" />
+				<a graphic="s97" x="-248.2" y="-110.65" r="69" />
+				<a graphic="s97" x="-248.85" y="-110.85" r="69" />
+				<a graphic="s97" x="-248.1" y="-112.05" r="68" />
+				<a graphic="s97" x="-247.35" y="-113.2" r="68" />
+				<a graphic="s97" x="-246.55" y="-114.3" r="68" />
+				<a graphic="s97" x="-238.6" y="-118.05" r="34" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+			</layer>
+		</animation>
+		<animation id="x07">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-230.25" y="-123.75" r="-19" />
+				<a graphic="s97" x="-228.7" y="-129.25" r="-56" />
+				<a graphic="s97" x="-227.2" y="-134.75" r="-93" />
+				<a graphic="s97" x="-225.75" y="-143.6" r="-112" />
+				<a graphic="s97" x="-224.25" y="-155.85" r="-112" />
+				<a graphic="s97" x="-224.35" y="-153.2" r="-109" />
+				<a graphic="s97" x="-225.9" y="-135.65" r="-103" />
+				<a graphic="s97" x="-227.5" y="-118" r="-97" />
+				<a graphic="s97" x="-227.5" y="-133.45" r="-104" />
+				<a graphic="s97" x="-227.5" y="-149" r="-112" />
+				<a graphic="s97" x="-228.9" y="-137.8" r="-67" />
+				<a graphic="s97" x="-230.3" y="-126.65" r="-23" />
+			</layer>
+		</animation>
+		<animation id="x01">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-230.5" y="-121" r="0" />
+				<a graphic="s97" x="-229.5" y="-121" r="0" />
+				<a graphic="s97" x="-228.5" y="-121" r="0" />
+				<a graphic="s97" x="-230.15" y="-119.35" r="0" />
+				<a graphic="s97" x="-250.75" y="-110.65" r="-42" />
+				<a graphic="s97" x="-290.25" y="-95" r="-124" />
+				<a graphic="s97" x="-250.7" y="-112.35" r="-42" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+			</layer>
+		</animation>
+		<animation id="x10">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-231.2" y="-122" r="1" />
+				<a graphic="s97" x="-245.7" y="-120.9" r="8" />
+				<a graphic="s97" x="-273.95" y="-116.45" r="18" />
+				<a graphic="s97" x="-297.35" y="-102.4" r="-1" />
+				<a graphic="s97" x="-239.1" y="-162.6" r="0" />
+				<a graphic="s97" x="-239.1" y="-162.6" r="0" />
+				<a graphic="s97" x="-235.8" y="-145.95" r="0" />
+				<a graphic="s97" x="-232.6" y="-129.35" r="21" />
+			</layer>
+		</animation>
+		<animation id="x0f">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-10.5" y="-121" r="0" />
+				<a graphic="s97" x="-9.5" y="-121" r="0" />
+				<a graphic="s97" x="-8.5" y="-121" r="0" />
+				<a graphic="s97" x="-10.15" y="-119.35" r="0" />
+				<a graphic="s97" x="-30.75" y="-110.65" r="-42" />
+				<a graphic="s97" x="-70.25" y="-95" r="-124" />
+				<a graphic="s97" x="-30.8" y="-112.35" r="-42" />
+				<a graphic="s97" x="-11" y="-121" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0d">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-230.5" y="-121" r="0" />
+				<a graphic="s97" x="-229.5" y="-121" r="0" />
+				<a graphic="s97" x="-228.5" y="-121" r="0" />
+				<a graphic="s97" x="-230.15" y="-119.35" r="0" />
+				<a graphic="s97" x="-250.75" y="-110.65" r="-42" />
+				<a graphic="s97" x="-290.25" y="-95" r="-124" />
+				<a graphic="s97" x="-250.7" y="-112.35" r="-42" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-120" r="0" />
+				<a graphic="s97" x="-231" y="-119" r="0" />
+				<a graphic="s97" x="-250.75" y="-110.65" r="-42" />
+				<a graphic="s97" x="-290.25" y="-95" r="-124" />
+				<a graphic="s97" x="-250.7" y="-112.35" r="-42" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0a">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-231" y="-120.15" r="0" />
+				<a graphic="s97" x="-231" y="-118.5" r="0" />
+				<a graphic="s97" x="-267.2" y="-98.25" r="45" />
+				<a graphic="s97" x="-290.7" y="-77.55" r="68" />
+				<a graphic="s97" x="-296.2" y="-67.25" r="68" />
+				<a graphic="s97" x="-274.45" y="-85.15" r="45" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0b">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-231" y="-120.15" r="0" />
+				<a graphic="s97" x="-231" y="-118.5" r="0" />
+				<a graphic="s97" x="-179.3" y="-124.4" r="-53" />
+				<a graphic="s97" x="-153.35" y="-127.3" r="-80" />
+				<a graphic="s97" x="-153.35" y="-127.35" r="-80" />
+				<a graphic="s97" x="-256.9" y="-126.95" r="-67" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+			</layer>
+		</animation>
+		<animation id="x09">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-230.1" y="-121.2" r="-1" />
+				<a graphic="s97" x="-228.3" y="-121.55" r="-3" />
+				<a graphic="s97" x="-226.5" y="-122" r="-4" />
+				<a graphic="s97" x="-226.35" y="-120.05" r="-3" />
+				<a graphic="s97" x="-226.15" y="-118" r="-1" />
+				<a graphic="s97" x="-225.7" y="-117.1" r="0" />
+				<a graphic="s97" x="-225.1" y="-117.3" r="0" />
+				<a graphic="s97" x="-224.5" y="-117.5" r="-1" />
+				<a graphic="s97" x="-227.7" y="-119.25" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-119.35" r="0" />
+				<a graphic="s97" x="-237.45" y="-102.9" r="24" />
+				<a graphic="s97" x="-250.3" y="-71.6" r="72" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+			</layer>
+		</animation>
+		<animation id="x02">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-13.1" y="-120.1" r="0" />
+				<a graphic="s97" x="-23.3" y="-116.3" r="0" />
+				<a graphic="s97" x="-33.5" y="-112.5" r="0" />
+				<a graphic="s97" x="2.85" y="-117.85" r="0" />
+				<a graphic="s97" x="11.35" y="-121" r="0" />
+				<a graphic="s97" x="-8" y="-122" r="0" />
+				<a graphic="s97" x="-8" y="-122" r="0" />
+				<a graphic="s97" x="-8" y="-122" r="0" />
+			</layer>
+		</animation>
+		<animation id="x06">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-7.5" y="-120.5" r="0" />
+				<a graphic="s97" x="-21.5" y="-116.1" r="-41" />
+				<a graphic="s97" x="-50.5" y="-110.5" r="-122" />
+				<a graphic="s97" x="26" y="-124.5" r="-72" />
+				<a graphic="s97" x="40.85" y="-126.9" r="-31" />
+				<a graphic="s97" x="-6" y="-117.5" r="0" />
+				<a graphic="s97" x="-6.65" y="-120.85" r="0" />
+				<a graphic="s97" x="-7.5" y="-122.25" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0e">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-7" y="-119" r="-90" />
+				<a graphic="s97" x="34.3" y="-131.6" r="-107" />
+				<a graphic="s97" x="93.7" y="-119.2" r="-58" />
+				<a graphic="s97" x="99.9" y="-100.9" r="-20" />
+				<a graphic="s97" x="48.25" y="-99.75" r="24" />
+				<a graphic="s97" x="-8" y="-122" r="82" />
+				<a graphic="s97" x="-30.2" y="-112.2" r="108" />
+				<a graphic="s97" x="-15.4" y="-118.7" r="36" />
+			</layer>
+		</animation>
+		<animation id="x0c">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-7.5" y="-120.5" r="0" />
+				<a graphic="s97" x="-21.5" y="-116.1" r="-41" />
+				<a graphic="s97" x="-50.5" y="-110.5" r="-122" />
+				<a graphic="s97" x="26" y="-124.5" r="-72" />
+				<a graphic="s97" x="40.85" y="-126.9" r="-31" />
+				<a graphic="s97" x="-6" y="-117.5" r="0" />
+				<a graphic="s97" x="-6.5" y="-118.2" r="0" />
+				<a graphic="s97" x="-7" y="-119" r="0" />
+				<a graphic="s97" x="-26.85" y="-109.6" r="-20" />
+				<a graphic="s97" x="-46.7" y="-100.25" r="-39" />
+				<a graphic="s97" x="-56.65" y="-95.55" r="-49" />
+				<a graphic="s97" x="-43.75" y="-105.3" r="-10" />
+				<a graphic="s97" x="-18.05" y="-125.1" r="69" />
+				<a graphic="s97" x="-5.1" y="-134.85" r="108" />
+				<a graphic="s97" x="13.5" y="-139.8" r="104" />
+				<a graphic="s97" x="12.05" y="-133.3" r="50" />
+			</layer>
+		</animation>
+		<animation id="x03">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-219.1" y="-124" r="11" />
+				<a graphic="s97" x="-195.35" y="-130" r="33" />
+				<a graphic="s97" x="-143.75" y="-80.45" r="67" />
+				<a graphic="s97" x="-104" y="-28" r="89" />
+				<a graphic="s97" x="-104" y="-28" r="89" />
+				<a graphic="s97" x="-104" y="-28" r="89" />
+			</layer>
+		</animation>
+		<animation id="x04">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-236.1" y="-119.25" r="-2" />
+				<a graphic="s97" x="-246.35" y="-115.7" r="-4" />
+				<a graphic="s97" x="-190.25" y="-120" r="-2" />
+				<a graphic="s97" x="-125.45" y="-131.35" r="7" />
+				<a graphic="s97" x="-118.05" y="-142" r="17" />
+				<a graphic="s97" x="-81.05" y="-136" r="7" />
+				<a graphic="s97" x="-40.65" y="-131.3" r="0" />
+				<a graphic="s97" x="2.95" y="-128" r="-2" />
+				<a graphic="s97" x="0.9" y="-128.1" r="8" />
+				<a graphic="s97" x="-2.35" y="-126.6" r="8" />
+				<a graphic="s97" x="-7" y="-124" r="0" />
+			</layer>
+		</animation>
+		<animation id="x08">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-218.55" y="-101.45" r="10" />
+				<a graphic="s97" x="-193.65" y="-62.3" r="31" />
+				<a graphic="s97" x="-193.65" y="-62.3" r="31" />
+				<a graphic="s97" x="-154.05" y="-212.1" r="-20" />
+				<a graphic="s97" x="-127.75" y="-311.95" r="-55" />
+				<a graphic="s97" x="-114.55" y="-361.85" r="-72" />
+				<a graphic="s97" x="-112.7" y="-368.2" r="-74" />
+				<a graphic="s97" x="-110.85" y="-369.6" r="-77" />
+				<a graphic="s97" x="-107.3" y="-372.3" r="-82" />
+				<a graphic="s97" x="-101.95" y="-376.5" r="-90" />
+				<a graphic="s97" x="-94.85" y="-382.05" r="-100" />
+				<a graphic="s97" x="-25.75" y="-331.1" r="-50" />
+				<a graphic="s97" x="55.6" y="-216.3" r="6" />
+				<a graphic="s97" x="-8" y="-122" r="0" />
+				<a graphic="s97" x="-8" y="-122" r="0" />
+			</layer>
+		</animation>
+		<animation id="x05">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-31.95" y="-117" r="0" />
+				<a graphic="s97" x="-61.95" y="-108.25" r="0" />
+				<a graphic="s97" x="-113.95" y="-112.75" r="0" />
+				<a graphic="s97" x="-179.45" y="-115.75" r="0" />
+				<a graphic="s97" x="-209.65" y="-114" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+			</layer>
+		</animation>
+		<animation id="x16">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-230.1" y="-121.2" r="-1" />
+				<a graphic="s97" x="-228.3" y="-121.55" r="-3" />
+				<a graphic="s97" x="-226.5" y="-122" r="-4" />
+				<a graphic="s97" x="-226.35" y="-120.05" r="-3" />
+				<a graphic="s97" x="-226.15" y="-118" r="-1" />
+				<a graphic="s97" x="-225.7" y="-117.1" r="0" />
+				<a graphic="s97" x="-225.1" y="-117.3" r="0" />
+				<a graphic="s97" x="-224.5" y="-117.5" r="-1" />
+				<a graphic="s97" x="-227.7" y="-119.25" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-230.1" y="-121.2" r="-1" />
+				<a graphic="s97" x="-228.3" y="-121.55" r="-3" />
+				<a graphic="s97" x="-226.5" y="-122" r="-4" />
+				<a graphic="s97" x="-226.35" y="-120.05" r="-3" />
+				<a graphic="s97" x="-226.15" y="-118" r="-1" />
+				<a graphic="s97" x="-225.7" y="-117.1" r="0" />
+				<a graphic="s97" x="-225.1" y="-117.3" r="0" />
+				<a graphic="s97" x="-224.5" y="-117.5" r="-1" />
+				<a graphic="s97" x="-227.7" y="-119.25" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-230.1" y="-121.2" r="-1" />
+				<a graphic="s97" x="-228.3" y="-121.55" r="-3" />
+				<a graphic="s97" x="-226.5" y="-122" r="-4" />
+				<a graphic="s97" x="-228.35" y="-121.55" r="-3" />
+				<a graphic="s97" x="-230.1" y="-121.15" r="-1" />
+				<a graphic="s97" x="-231" y="-96" r="0" />
+				<a graphic="s97" x="-243.95" y="-49.3" r="-24" />
+				<a graphic="s97" x="-269.8" y="-5.6" r="-72" />
+				<a graphic="s97" x="-271.1" y="-2.55" r="-78" />
+				<a graphic="s97" x="-272.3" y="0.4" r="-84" />
+				<a graphic="s97" x="-270.6" y="-3.6" r="-76" />
+				<a graphic="s97" x="-256.85" y="-27.4" r="-48" />
+				<a graphic="s97" x="-231" y="-71" r="0" />
+				<a graphic="s97" x="-231" y="-104.35" r="0" />
+			</layer>
+		</animation>
+		<animation id="x15">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-234.4" y="-120.1" r="-26" />
+				<a graphic="s97" x="-241.2" y="-118.35" r="-78" />
+				<a graphic="s97" x="-248" y="-116.7" r="-130" />
+				<a graphic="s97" x="-248.05" y="-126.7" r="-130" />
+				<a graphic="s97" x="-248.05" y="-131.05" r="-130" />
+				<a graphic="s97" x="-248" y="-129.7" r="-130" />
+				<a graphic="s97" x="-248" y="-131.7" r="-130" />
+				<a graphic="s97" x="-248.05" y="-130.35" r="-130" />
+				<a graphic="s97" x="-247.95" y="-130.7" r="-130" />
+				<a graphic="s97" x="-248.05" y="-109.35" r="-130" />
+				<a graphic="s97" x="-248" y="-64.7" r="-130" />
+				<a graphic="s97" x="-247.95" y="-62.2" r="-130" />
+				<a graphic="s97" x="-248" y="-59.7" r="-130" />
+				<a graphic="s97" x="-252.05" y="-127.35" r="-136" />
+				<a graphic="s97" x="-253.95" y="-162.9" r="-139" />
+				<a graphic="s97" x="-254" y="-166.2" r="-139" />
+				<a graphic="s97" x="-246.4" y="-151.1" r="-93" />
+				<a graphic="s97" x="-238.6" y="-136" r="-47" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-230.1" y="-121.2" r="-1" />
+				<a graphic="s97" x="-228.3" y="-121.55" r="-3" />
+				<a graphic="s97" x="-226.5" y="-122" r="-4" />
+				<a graphic="s97" x="-226.35" y="-120.05" r="-3" />
+				<a graphic="s97" x="-226.15" y="-118" r="-1" />
+				<a graphic="s97" x="-226.85" y="-117.65" r="0" />
+				<a graphic="s97" x="-228.45" y="-119" r="0" />
+				<a graphic="s97" x="-230.15" y="-120.35" r="0" />
+			</layer>
+		</animation>
+		<animation id="x14">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-236.5" y="-116.25" r="14" />
+				<a graphic="s97" x="-247.5" y="-106.85" r="44" />
+				<a graphic="s97" x="-253.5" y="-100.95" r="59" />
+				<a graphic="s97" x="-254.5" y="-98.65" r="60" />
+				<a graphic="s97" x="-255.5" y="-96.5" r="61" />
+				<a graphic="s97" x="-256.5" y="-94.2" r="63" />
+				<a graphic="s97" x="-257.5" y="-91.85" r="64" />
+				<a graphic="s97" x="-258.6" y="-89.65" r="65" />
+				<a graphic="s97" x="-256.7" y="-89.35" r="65" />
+				<a graphic="s97" x="-251.95" y="-91.05" r="63" />
+				<a graphic="s97" x="-247.2" y="-92.7" r="61" />
+				<a graphic="s97" x="-242.35" y="-94.35" r="59" />
+				<a graphic="s97" x="-237.6" y="-96" r="57" />
+				<a graphic="s97" x="-232.85" y="-97.7" r="56" />
+				<a graphic="s97" x="-232.45" y="-97.75" r="55" />
+				<a graphic="s97" x="-236.6" y="-96.4" r="57" />
+				<a graphic="s97" x="-240.7" y="-94.9" r="59" />
+				<a graphic="s97" x="-244.8" y="-93.55" r="60" />
+				<a graphic="s97" x="-248.9" y="-92.1" r="62" />
+				<a graphic="s97" x="-253" y="-90.7" r="63" />
+				<a graphic="s97" x="-257.1" y="-89.35" r="65" />
+				<a graphic="s97" x="-257.25" y="-89.25" r="65" />
+				<a graphic="s97" x="-253.4" y="-90.6" r="64" />
+				<a graphic="s97" x="-249.55" y="-91.85" r="62" />
+				<a graphic="s97" x="-245.75" y="-93.2" r="61" />
+				<a graphic="s97" x="-241.85" y="-94.5" r="59" />
+				<a graphic="s97" x="-238.1" y="-95.8" r="58" />
+				<a graphic="s97" x="-234.35" y="-97.15" r="56" />
+				<a graphic="s97" x="-230.4" y="-98.45" r="55" />
+				<a graphic="s97" x="-230.65" y="-107.45" r="33" />
+				<a graphic="s97" x="-230.95" y="-116.45" r="11" />
+			</layer>
+		</animation>
+		<animation id="x12">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-244.35" y="-118.05" r="18" />
+				<a graphic="s97" x="-271" y="-112.2" r="56" />
+				<a graphic="s97" x="-297.7" y="-106.3" r="94" />
+				<a graphic="s97" x="-324.35" y="-100.45" r="132" />
+				<a graphic="s97" x="-351.05" y="-94.6" r="170" />
+				<a graphic="s97" x="-334.5" y="-112.25" r="-180" />
+				<a graphic="s97" x="-234.55" y="-126" r="-122" />
+				<a graphic="s97" x="-51.1" y="-136.05" r="-16" />
+				<a graphic="s97" x="-83.5" y="-128.7" r="-3" />
+				<a graphic="s97" x="-115.85" y="-121.45" r="9" />
+				<a graphic="s97" x="-151.8" y="-118.4" r="13" />
+				<a graphic="s97" x="-191.45" y="-119.65" r="6" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+			</layer>
+		</animation>
+		<animation id="x13">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-230.5" y="-121" r="0" />
+				<a graphic="s97" x="-229.5" y="-121" r="0" />
+				<a graphic="s97" x="-228.5" y="-121" r="0" />
+				<a graphic="s97" x="-229" y="-120.5" r="0" />
+				<a graphic="s97" x="-229.5" y="-120" r="0" />
+				<a graphic="s97" x="-230" y="-119.5" r="0" />
+				<a graphic="s97" x="-230.5" y="-119" r="0" />
+				<a graphic="s97" x="-231" y="-118.5" r="0" />
+				<a graphic="s97" x="-270.5" y="-102.85" r="-83" />
+				<a graphic="s97" x="-270.5" y="-103.6" r="-83" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+				<a graphic="s97" x="-231" y="-121" r="0" />
+			</layer>
+		</animation>
+		<animation id="x17">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-238.15" y="-119.7" r="7" />
+				<a graphic="s97" x="-252.4" y="-117.05" r="22" />
+				<a graphic="s97" x="-266.7" y="-114.4" r="38" />
+				<a graphic="s97" x="-280.9" y="-111.75" r="53" />
+				<a graphic="s97" x="-295.15" y="-109.15" r="68" />
+				<a graphic="s97" x="-309.45" y="-106.5" r="84" />
+				<a graphic="s97" x="-323.1" y="-97.65" r="91" />
+				<a graphic="s97" x="-336.75" y="-88.7" r="98" />
+				<a graphic="s97" x="-243.15" y="-111.5" r="128" />
+				<a graphic="s97" x="-42.1" y="-166.15" r="-178" />
+				<a graphic="s97" x="58.45" y="-193.45" r="-152" />
+				<a graphic="s97" x="70.9" y="-201.95" r="-88" />
+				<a graphic="s97" x="60.7" y="-151.2" r="-12" />
+				<a graphic="s97" x="22.65" y="-102" r="0" />
+				<a graphic="s97" x="-8" y="-122" r="0" />
+			</layer>
+		</animation>
+		<animation id="x18">
+			<layer id="0" name="s97">
+				<a graphic="s97" x="-273.5" y="-100.85" r="56" />
+				<a graphic="s97" x="-322.15" y="-77.8" r="121" />
+				<a graphic="s97" x="-301.7" y="-101.85" r="131" />
+				<a graphic="s97" x="-90.15" y="-316.8" r="145" />
+				<a graphic="s97" x="-88.7" y="-318.85" r="148" />
+				<a graphic="s97" x="-84.45" y="-325.05" r="158" />
+				<a graphic="s97" x="-77.15" y="-335.35" r="174" />
+				<a graphic="s97" x="-67.2" y="-349.75" r="-164" />
+				<a graphic="s97" x="-54.25" y="-368.3" r="-135" />
+				<a graphic="s97" x="-38.45" y="-391.05" r="-100" />
+				<a graphic="s97" x="35.35" y="-363.5" r="-119" />
+				<a graphic="s97" x="109.3" y="-317.3" r="-164" />
+				<a graphic="s97" x="78.25" y="-201.65" r="-85" />
+				<a graphic="s97" x="22.65" y="-102" r="0" />
+				<a graphic="s97" x="-8" y="-122" r="0" />
+			</layer>
+		</animation>
+	</animations>
+</lib>
+

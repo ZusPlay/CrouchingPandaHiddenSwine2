@@ -1,0 +1,450 @@
+<lib>
+	<graphics>
+		<g name="s111" />
+	</graphics>
+	<animations>
+		<animation id="x00">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-212.1" y="-146.25" r="0" />
+				<a graphic="s111" x="-212.3" y="-146.75" r="0" />
+				<a graphic="s111" x="-212.5" y="-147.25" r="0" />
+				<a graphic="s111" x="-212.7" y="-147.75" r="0" />
+				<a graphic="s111" x="-212.9" y="-148.25" r="0" />
+				<a graphic="s111" x="-212.9" y="-148.2" r="0" />
+				<a graphic="s111" x="-212.65" y="-147.65" r="0" />
+				<a graphic="s111" x="-212.45" y="-147.1" r="0" />
+				<a graphic="s111" x="-212.2" y="-146.55" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x11">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-212" y="-147.3" r="0" />
+				<a graphic="s111" x="-212.15" y="-149.85" r="2" />
+				<a graphic="s111" x="-212.35" y="-152.4" r="3" />
+				<a graphic="s111" x="-212.5" y="-154.95" r="4" />
+				<a graphic="s111" x="-212.65" y="-157.55" r="6" />
+				<a graphic="s111" x="-212.8" y="-160.1" r="7" />
+				<a graphic="s111" x="-212.75" y="-160.15" r="7" />
+				<a graphic="s111" x="-212.75" y="-160.15" r="7" />
+				<a graphic="s111" x="-212.75" y="-160.15" r="7" />
+				<a graphic="s111" x="-212.8" y="-160.1" r="7" />
+				<a graphic="s111" x="-212.75" y="-160.15" r="7" />
+				<a graphic="s111" x="-212.75" y="-160.15" r="7" />
+				<a graphic="s111" x="-212.75" y="-160.15" r="7" />
+				<a graphic="s111" x="-212.4" y="-153.05" r="3" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x07">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-212" y="-148" r="-1" />
+				<a graphic="s111" x="-212" y="-152" r="-2" />
+				<a graphic="s111" x="-212" y="-156.05" r="-2" />
+				<a graphic="s111" x="-212.05" y="-158.05" r="-3" />
+				<a graphic="s111" x="-212.05" y="-158.05" r="-3" />
+				<a graphic="s111" x="-212.05" y="-158.05" r="-3" />
+				<a graphic="s111" x="-212.05" y="-158.05" r="-3" />
+				<a graphic="s111" x="-212.05" y="-158.05" r="-3" />
+				<a graphic="s111" x="-212.05" y="-158.05" r="-3" />
+				<a graphic="s111" x="-212" y="-158" r="-3" />
+				<a graphic="s111" x="-211.95" y="-153.2" r="-2" />
+				<a graphic="s111" x="-212" y="-148.35" r="-1" />
+			</layer>
+		</animation>
+		<animation id="x01">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-234.35" y="-140.55" r="-12" />
+				<a graphic="s111" x="-279" y="-129.5" r="-36" />
+				<a graphic="s111" x="-226" y="-136.85" r="-5" />
+				<a graphic="s111" x="-205.75" y="-143.25" r="5" />
+			</layer>
+		</animation>
+		<animation id="x10">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-211.5" y="-146.4" r="1" />
+				<a graphic="s111" x="-227.5" y="-146.15" r="-2" />
+				<a graphic="s111" x="-260.45" y="-144.8" r="-12" />
+				<a graphic="s111" x="-293.45" y="-133.45" r="-31" />
+				<a graphic="s111" x="-225.7" y="-198.55" r="0" />
+				<a graphic="s111" x="-225.7" y="-198.55" r="0" />
+				<a graphic="s111" x="-220.15" y="-177.5" r="0" />
+				<a graphic="s111" x="-214.75" y="-156.45" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0f">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="-14.35" y="-140.5" r="-12" />
+				<a graphic="s111" x="-59" y="-129.5" r="-36" />
+				<a graphic="s111" x="-6.05" y="-136.85" r="-5" />
+				<a graphic="s111" x="14.25" y="-143.2" r="5" />
+			</layer>
+		</animation>
+		<animation id="x0d">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-234.35" y="-140.55" r="-12" />
+				<a graphic="s111" x="-279" y="-129.5" r="-36" />
+				<a graphic="s111" x="-226" y="-136.85" r="-5" />
+				<a graphic="s111" x="-205.75" y="-143.25" r="5" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-234.35" y="-140.55" r="-12" />
+				<a graphic="s111" x="-279" y="-129.5" r="-36" />
+				<a graphic="s111" x="-226" y="-136.85" r="-5" />
+				<a graphic="s111" x="-205.75" y="-143.25" r="5" />
+			</layer>
+		</animation>
+		<animation id="x0a">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-259.15" y="-131.95" r="-23" />
+				<a graphic="s111" x="-292.9" y="-114.2" r="-41" />
+				<a graphic="s111" x="-303.25" y="-103.65" r="-49" />
+				<a graphic="s111" x="-272.9" y="-117.75" r="-33" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0b">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-201.35" y="-148.7" r="25" />
+				<a graphic="s111" x="-196.1" y="-150.05" r="37" />
+				<a graphic="s111" x="-196.05" y="-150.05" r="37" />
+				<a graphic="s111" x="-257.55" y="-144.95" r="-11" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x09">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-212.1" y="-146.25" r="0" />
+				<a graphic="s111" x="-212.3" y="-146.75" r="0" />
+				<a graphic="s111" x="-212.5" y="-147.25" r="0" />
+				<a graphic="s111" x="-212.7" y="-147.75" r="0" />
+				<a graphic="s111" x="-212.9" y="-148.25" r="0" />
+				<a graphic="s111" x="-212.9" y="-148.2" r="0" />
+				<a graphic="s111" x="-212.65" y="-147.65" r="0" />
+				<a graphic="s111" x="-212.45" y="-147.1" r="0" />
+				<a graphic="s111" x="-212.2" y="-146.55" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-211.2" y="-142.1" r="4" />
+				<a graphic="s111" x="-209.65" y="-134.35" r="12" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x02">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="-31" y="-142.5" r="-15" />
+				<a graphic="s111" x="-31" y="-142.5" r="-15" />
+				<a graphic="s111" x="68.5" y="-137" r="39" />
+				<a graphic="s111" x="21" y="-145.5" r="-1" />
+				<a graphic="s111" x="21" y="-145.5" r="-1" />
+				<a graphic="s111" x="21" y="-145.5" r="-1" />
+			</layer>
+		</animation>
+		<animation id="x06">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="-11.5" y="-140.45" r="-12" />
+				<a graphic="s111" x="-50.5" y="-129.5" r="-35" />
+				<a graphic="s111" x="19.05" y="-144.6" r="11" />
+				<a graphic="s111" x="38.6" y="-150.05" r="22" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0e">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="53.9" y="-152.15" r="34" />
+				<a graphic="s111" x="89.65" y="-147.7" r="46" />
+				<a graphic="s111" x="107.5" y="-145.5" r="52" />
+				<a graphic="s111" x="74.35" y="-145.7" r="34" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="-23.25" y="-140.05" r="-15" />
+				<a graphic="s111" x="-2.35" y="-144.05" r="-5" />
+			</layer>
+		</animation>
+		<animation id="x0c">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="-11.5" y="-140.45" r="-12" />
+				<a graphic="s111" x="-50.5" y="-129.5" r="-35" />
+				<a graphic="s111" x="19.05" y="-144.6" r="11" />
+				<a graphic="s111" x="38.6" y="-150.05" r="22" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="-20.15" y="-137.7" r="-15" />
+				<a graphic="s111" x="-48.3" y="-129.35" r="-30" />
+				<a graphic="s111" x="-62.3" y="-125.25" r="-37" />
+				<a graphic="s111" x="-30.2" y="-128.2" r="-14" />
+				<a graphic="s111" x="34" y="-134.2" r="32" />
+				<a graphic="s111" x="66.05" y="-137.25" r="55" />
+				<a graphic="s111" x="73.6" y="-140" r="55" />
+				<a graphic="s111" x="44.55" y="-144.4" r="27" />
+			</layer>
+		</animation>
+		<animation id="x03">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-197.3" y="-148.85" r="8" />
+				<a graphic="s111" x="-167.75" y="-154.55" r="25" />
+				<a graphic="s111" x="-111" y="-85.5" r="78" />
+				<a graphic="s111" x="-69" y="-13.5" r="122" />
+				<a graphic="s111" x="-69" y="-13.5" r="122" />
+				<a graphic="s111" x="-69" y="-13.5" r="122" />
+			</layer>
+		</animation>
+		<animation id="x04">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-219.8" y="-144.15" r="-6" />
+				<a graphic="s111" x="-235.3" y="-140.3" r="-17" />
+				<a graphic="s111" x="-172.25" y="-143.3" r="-2" />
+				<a graphic="s111" x="-98.35" y="-151.15" r="19" />
+				<a graphic="s111" x="-92.05" y="-157.5" r="19" />
+				<a graphic="s111" x="-49" y="-152.55" r="28" />
+				<a graphic="s111" x="-7.45" y="-149.15" r="30" />
+				<a graphic="s111" x="32.95" y="-147.5" r="26" />
+				<a graphic="s111" x="25.35" y="-149.8" r="16" />
+				<a graphic="s111" x="17.05" y="-149.75" r="7" />
+				<a graphic="s111" x="8" y="-147" r="-1" />
+			</layer>
+		</animation>
+		<animation id="x08">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-187.6" y="-130.1" r="19" />
+				<a graphic="s111" x="-138.75" y="-98.35" r="59" />
+				<a graphic="s111" x="-138.75" y="-98.35" r="59" />
+				<a graphic="s111" x="-106.4" y="-223.5" r="70" />
+				<a graphic="s111" x="-84.8" y="-306.95" r="77" />
+				<a graphic="s111" x="-74.05" y="-348.7" r="81" />
+				<a graphic="s111" x="-72.5" y="-354.05" r="81" />
+				<a graphic="s111" x="-70.7" y="-355.45" r="81" />
+				<a graphic="s111" x="-67.15" y="-358.2" r="81" />
+				<a graphic="s111" x="-61.8" y="-362.35" r="81" />
+				<a graphic="s111" x="-54.7" y="-367.85" r="81" />
+				<a graphic="s111" x="-0.1" y="-329.55" r="70" />
+				<a graphic="s111" x="87.1" y="-239.3" r="65" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x05">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-10.75" y="-139.5" r="4" />
+				<a graphic="s111" x="-24.55" y="-130.65" r="23" />
+				<a graphic="s111" x="-81.25" y="-133.5" r="16" />
+				<a graphic="s111" x="-157.8" y="-138.4" r="1" />
+				<a graphic="s111" x="-185.8" y="-140.9" r="6" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x16">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-212.1" y="-146.25" r="0" />
+				<a graphic="s111" x="-212.3" y="-146.75" r="0" />
+				<a graphic="s111" x="-212.5" y="-147.25" r="0" />
+				<a graphic="s111" x="-212.7" y="-147.75" r="0" />
+				<a graphic="s111" x="-212.9" y="-148.25" r="0" />
+				<a graphic="s111" x="-212.9" y="-148.2" r="0" />
+				<a graphic="s111" x="-212.65" y="-147.65" r="0" />
+				<a graphic="s111" x="-212.45" y="-147.1" r="0" />
+				<a graphic="s111" x="-212.2" y="-146.55" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212.1" y="-146.25" r="0" />
+				<a graphic="s111" x="-212.3" y="-146.75" r="0" />
+				<a graphic="s111" x="-212.5" y="-147.25" r="0" />
+				<a graphic="s111" x="-212.7" y="-147.75" r="0" />
+				<a graphic="s111" x="-212.9" y="-148.25" r="0" />
+				<a graphic="s111" x="-212.9" y="-148.2" r="0" />
+				<a graphic="s111" x="-212.65" y="-147.65" r="0" />
+				<a graphic="s111" x="-212.45" y="-147.1" r="0" />
+				<a graphic="s111" x="-212.2" y="-146.55" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212.1" y="-146.25" r="0" />
+				<a graphic="s111" x="-212.3" y="-146.75" r="0" />
+				<a graphic="s111" x="-212.5" y="-147.25" r="0" />
+				<a graphic="s111" x="-212.3" y="-146.75" r="0" />
+				<a graphic="s111" x="-212.1" y="-146.25" r="0" />
+				<a graphic="s111" x="-212" y="-138.5" r="0" />
+				<a graphic="s111" x="-237.2" y="-97.8" r="-24" />
+				<a graphic="s111" x="-287.65" y="-31.45" r="-72" />
+				<a graphic="s111" x="-284.1" y="-31.1" r="-78" />
+				<a graphic="s111" x="-280.65" y="-30.65" r="-84" />
+				<a graphic="s111" x="-285.3" y="-31.2" r="-76" />
+				<a graphic="s111" x="-262.4" y="-64.65" r="-48" />
+				<a graphic="s111" x="-212" y="-131" r="0" />
+				<a graphic="s111" x="-212" y="-141" r="0" />
+			</layer>
+		</animation>
+		<animation id="x15">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-217.6" y="-146.5" r="-3" />
+				<a graphic="s111" x="-228.55" y="-147.7" r="-8" />
+				<a graphic="s111" x="-239.65" y="-148.8" r="-14" />
+				<a graphic="s111" x="-239.65" y="-145.45" r="-14" />
+				<a graphic="s111" x="-239.6" y="-143.8" r="-14" />
+				<a graphic="s111" x="-239.65" y="-143.8" r="-14" />
+				<a graphic="s111" x="-239.65" y="-143.8" r="-14" />
+				<a graphic="s111" x="-239.6" y="-143.8" r="-14" />
+				<a graphic="s111" x="-239.6" y="-143.8" r="-14" />
+				<a graphic="s111" x="-237.95" y="-138.8" r="-14" />
+				<a graphic="s111" x="-234.65" y="-128.8" r="-14" />
+				<a graphic="s111" x="-234.65" y="-128.8" r="-14" />
+				<a graphic="s111" x="-234.65" y="-128.8" r="-14" />
+				<a graphic="s111" x="-238" y="-138.8" r="-14" />
+				<a graphic="s111" x="-239.6" y="-143.8" r="-14" />
+				<a graphic="s111" x="-239.65" y="-143.8" r="-14" />
+				<a graphic="s111" x="-230.45" y="-144.6" r="-9" />
+				<a graphic="s111" x="-221.15" y="-145.25" r="-5" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212.1" y="-146.25" r="0" />
+				<a graphic="s111" x="-212.3" y="-146.75" r="0" />
+				<a graphic="s111" x="-212.5" y="-147.25" r="0" />
+				<a graphic="s111" x="-212.7" y="-147.75" r="0" />
+				<a graphic="s111" x="-212.9" y="-148.25" r="0" />
+				<a graphic="s111" x="-212.85" y="-148.1" r="0" />
+				<a graphic="s111" x="-212.5" y="-147.25" r="0" />
+				<a graphic="s111" x="-212.15" y="-146.4" r="0" />
+			</layer>
+		</animation>
+		<animation id="x14">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-222.95" y="-143.85" r="-7" />
+				<a graphic="s111" x="-244.8" y="-139.7" r="-21" />
+				<a graphic="s111" x="-256.9" y="-137" r="-28" />
+				<a graphic="s111" x="-258.95" y="-135.6" r="-30" />
+				<a graphic="s111" x="-261" y="-134.3" r="-31" />
+				<a graphic="s111" x="-263.15" y="-133" r="-32" />
+				<a graphic="s111" x="-265.25" y="-131.65" r="-33" />
+				<a graphic="s111" x="-267.4" y="-130.3" r="-34" />
+				<a graphic="s111" x="-266.25" y="-130.8" r="-34" />
+				<a graphic="s111" x="-262" y="-133.1" r="-32" />
+				<a graphic="s111" x="-257.7" y="-135.4" r="-30" />
+				<a graphic="s111" x="-253.35" y="-137.65" r="-27" />
+				<a graphic="s111" x="-249.05" y="-139.95" r="-25" />
+				<a graphic="s111" x="-244.7" y="-142.2" r="-23" />
+				<a graphic="s111" x="-244.45" y="-142.45" r="-23" />
+				<a graphic="s111" x="-248.15" y="-140.45" r="-25" />
+				<a graphic="s111" x="-251.8" y="-138.55" r="-27" />
+				<a graphic="s111" x="-255.5" y="-136.55" r="-28" />
+				<a graphic="s111" x="-259.25" y="-134.55" r="-30" />
+				<a graphic="s111" x="-262.85" y="-132.6" r="-32" />
+				<a graphic="s111" x="-266.55" y="-130.7" r="-34" />
+				<a graphic="s111" x="-266.65" y="-130.55" r="-34" />
+				<a graphic="s111" x="-263.2" y="-132.35" r="-32" />
+				<a graphic="s111" x="-259.85" y="-134.25" r="-31" />
+				<a graphic="s111" x="-256.35" y="-136.05" r="-29" />
+				<a graphic="s111" x="-252.85" y="-137.9" r="-27" />
+				<a graphic="s111" x="-249.45" y="-139.75" r="-25" />
+				<a graphic="s111" x="-246.05" y="-141.6" r="-24" />
+				<a graphic="s111" x="-242.6" y="-143.4" r="-22" />
+				<a graphic="s111" x="-230.3" y="-144.5" r="-13" />
+				<a graphic="s111" x="-218" y="-145.5" r="-5" />
+			</layer>
+		</animation>
+		<animation id="x12">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-222.45" y="-143" r="-5" />
+				<a graphic="s111" x="-243.25" y="-137" r="-15" />
+				<a graphic="s111" x="-264.25" y="-130.95" r="-25" />
+				<a graphic="s111" x="-285.15" y="-124.95" r="-35" />
+				<a graphic="s111" x="-306.05" y="-118.95" r="-45" />
+				<a graphic="s111" x="-296.65" y="-135.15" r="-36" />
+				<a graphic="s111" x="-229.1" y="-144.25" r="2" />
+				<a graphic="s111" x="-103.4" y="-146.15" r="69" />
+				<a graphic="s111" x="-123" y="-142.95" r="62" />
+				<a graphic="s111" x="-142.7" y="-139.65" r="55" />
+				<a graphic="s111" x="-164.25" y="-139.65" r="42" />
+				<a graphic="s111" x="-188.15" y="-142.75" r="21" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x13">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+				<a graphic="s111" x="-256.7" y="-135" r="-24" />
+				<a graphic="s111" x="-252.45" y="-133.1" r="-20" />
+				<a graphic="s111" x="-199.5" y="-140.5" r="11" />
+				<a graphic="s111" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x17">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-219.1" y="-143.95" r="-3" />
+				<a graphic="s111" x="-233.25" y="-139.85" r="-9" />
+				<a graphic="s111" x="-247.45" y="-135.75" r="-14" />
+				<a graphic="s111" x="-261.65" y="-131.7" r="-20" />
+				<a graphic="s111" x="-275.8" y="-127.6" r="-25" />
+				<a graphic="s111" x="-290" y="-123.5" r="-30" />
+				<a graphic="s111" x="-298.5" y="-118.55" r="-35" />
+				<a graphic="s111" x="-306.95" y="-113.45" r="-40" />
+				<a graphic="s111" x="-210.9" y="-133.95" r="-12" />
+				<a graphic="s111" x="-10.45" y="-179.95" r="50" />
+				<a graphic="s111" x="85.1" y="-218.55" r="52" />
+				<a graphic="s111" x="74" y="-221.85" r="11" />
+				<a graphic="s111" x="62.25" y="-165.7" r="0" />
+				<a graphic="s111" x="40.65" y="-130" r="0" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x18">
+			<layer id="0" name="s111">
+				<a graphic="s111" x="-256.55" y="-124.3" r="-20" />
+				<a graphic="s111" x="-307.45" y="-99.5" r="-43" />
+				<a graphic="s111" x="-288.8" y="-124.35" r="-44" />
+				<a graphic="s111" x="-88.6" y="-348.1" r="-35" />
+				<a graphic="s111" x="-86.95" y="-350.15" r="-35" />
+				<a graphic="s111" x="-81.8" y="-355.95" r="-35" />
+				<a graphic="s111" x="-73.25" y="-365.75" r="-35" />
+				<a graphic="s111" x="-61.35" y="-379.35" r="-35" />
+				<a graphic="s111" x="-46.05" y="-396.95" r="-35" />
+				<a graphic="s111" x="-27.3" y="-418.3" r="-35" />
+				<a graphic="s111" x="63.1" y="-407.45" r="-15" />
+				<a graphic="s111" x="154.25" y="-381.35" r="7" />
+				<a graphic="s111" x="111.4" y="-250.05" r="5" />
+				<a graphic="s111" x="40.65" y="-130" r="0" />
+				<a graphic="s111" x="8" y="-146" r="0" />
+			</layer>
+		</animation>
+	</animations>
+</lib>
+

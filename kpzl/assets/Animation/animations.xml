@@ -1,0 +1,31 @@
+<animations>
+	<a graphic="Animation/x01" x="30" y="30" scale="1.6" emptyFramesCount="9" duration="0.03" />
+	<a graphic="Animation/x02" x="-20" y="30" scale="2.3" emptyFramesCount="24" duration="0.03" />
+	<a graphic="Animation/x03" x="30" y="0" scale="2.3" emptyFramesCount="8" duration="0.03" />
+	<a graphic="Animation/x04" x="30" y="150" scale="2" emptyFramesCount="4" duration="0.03" />
+	<a graphic="Animation/x05" x="120" y="100" scale="2" emptyFramesCount="45" duration="0.03" />
+	<a graphic="Animation/x06" x="-55" y="0" scale="1.6" emptyFramesCount="45" duration="0.03" />
+	<a graphic="Animation/x07" x="-55" y="0" scale="1.6" emptyFramesCount="45" duration="0.03" />
+	<a graphic="Animation/x08" x="-20" y="0" scale="1.8" emptyFramesCount="0" duration="0.03" />
+	<a graphic="Animation/x09" x="0" y="120" scale="1.6" emptyFramesCount="15" duration="0.03" />
+	<a graphic="Animation/x0a" x="-330" y="-180" scale="3" emptyFramesCount="21" duration="0.03" />
+	<a graphic="Animation/x0b" x="0" y="0" scale="1.6" emptyFramesCount="18" duration="0.03" />
+	<a graphic="Animation/x0c" x="-300" y="100" scale="3" emptyFramesCount="26" duration="0.03" />
+	<a graphic="Animation/x0d" x="-330" y="100" scale="5" emptyFramesCount="12" duration="0.03" />
+	<a graphic="Animation/x0e" x="-380" y="-100" scale="5" emptyFramesCount="30" duration="0.03" />
+	<a graphic="Animation/x0f" x="-40" y="150" scale="3" emptyFramesCount="2" duration="0.03" />
+	<a graphic="Animation/x10" x="150" y="0" scale="3" emptyFramesCount="50" duration="0.03" />
+	<a graphic="Animation/x11" x="0" y="0" scale="0" emptyFramesCount="0" duration="0.03" />
+	<a graphic="Animation/x12" x="0" y="0" scale="0" emptyFramesCount="0" duration="0.03" />
+	<a graphic="Animation/x13" x="0" y="0" scale="0" emptyFramesCount="0" duration="0.03" />
+	<a graphic="Animation/x14" x="0" y="0" scale="0" emptyFramesCount="0" duration="0.03" />
+	<a graphic="Animation/x15" x="0" y="0" scale="0" emptyFramesCount="0" duration="0.03" />
+	<a graphic="Animation/x16" x="0" y="0" scale="0" emptyFramesCount="0" duration="0.03" />
+	<a graphic="Animation/x17" x="0" y="0" scale="0" emptyFramesCount="0" duration="0.03" />
+	<a graphic="Animation/x18" x="0" y="0" scale="0" emptyFramesCount="0" duration="0.03" />
+	<a graphic="Animation/x19" x="0" y="0" scale="0" emptyFramesCount="0" duration="0.03" />
+	<a graphic="Animation/x1a" x="0" y="0" scale="0" emptyFramesCount="0" duration="0.03" />
+	<a graphic="Animation/arenaElk" x="300" y="300" scale="1.1" emptyFramesCount="70" duration="0.0416" />
+    <a graphic="Animation/arenaSmoke" x="170" y="5" scale="1" emptyFramesCount="0" duration="0.0416" />
+    <a graphic="Animation/arenaSmoke1" x="250" y="30" scale="1" emptyFramesCount="70" duration="0.0416" />
+</animations>

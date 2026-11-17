@@ -1,0 +1,37 @@
+<stages>
+	<stage num="0" activeButton="-2" tutorialPos="7" posX="-100" posY="108" angle="0" text="1"/>
+	<stage num="1" activeButton="-1" tutorialPos="7" posX="350" posY="620" angle="180" text="2"/>
+	<stage num="2" activeButton="-1" tutorialPos="11" posX="-306" posY="256" angle="30" text="3"/>
+	<stage num="3" activeButton="-1" tutorialPos="11" posX="110" posY="133" angle="0" text="4"/>
+	<stage num="4" activeButton="11" tutorialPos="8" posX="590" posY="620" angle="180" text="5"/>
+	<stage num="5" activeButton="1" tutorialPos="9" posX="940" posY="620" angle="180" text="32"/>
+	<stage num="6" activeButton="-2" tutorialPos="8" posX="55" posY="660" angle="180" text="7"/>
+	<stage num="7" activeButton="-2" tutorialPos="8" posX="185" posY="660" angle="180" text="8"/>
+	<stage num="8" activeButton="-2" tutorialPos="8" posX="415" posY="655" angle="180" text="9"/>
+	<stage num="9" activeButton="9" tutorialPos="8" posX="570" posY="500" angle="0" text="10"/>
+	<stage num="10" activeButton="5" tutorialPos="8" posX="340" posY="190" angle="180" text="11"/>
+	<stage num="11" activeButton="2" tutorialPos="4" posX="245" posY="110" angle="0" text=""/>
+	<stage num="12" activeButton="2" tutorialPos="10" posX="330" posY="90" angle="0" text="12"/>
+	<stage num="13" activeButton="5" tutorialPos="4" posX="340" posY="190" angle="180" text=""/>
+	<stage num="14" activeButton="2" tutorialPos="4" posX="245" posY="110" angle="0" text=""/>
+	<stage num="15" activeButton="1" tutorialPos="11" posX="175" posY="100" angle="0" text="13"/>
+	<stage num="16" activeButton="10" tutorialPos="8" posX="852" posY="317" angle="180" text="14"/>
+	<stage num="17" activeButton="57" tutorialPos="8" posX="50" posY="150" angle="180" text="15"/>
+	<stage num="18" activeButton="10" tutorialPos="4" posX="325" posY="100" angle="0" text=""/>
+	<stage num="19" activeButton="51" tutorialPos="10" posX="660" posY="315" angle="0" text="16"/>
+	<stage num="20" activeButton="4" tutorialPos="8" posX="775" posY="624" angle="180" text="17"/>
+	<stage num="21" activeButton="-5" tutorialPos="8" posX="310" posY="180" angle="180" text="18"/>
+	<stage num="22" activeButton="-2" tutorialPos="8" posX="-1000" posY="100" angle="90" text="19"/>
+	<stage num="23" activeButton="3" tutorialPos="7" posX="395" posY="230" angle="180" text="20"/>
+	<stage num="24" activeButton="-2" tutorialPos="7" posX="-1000" posY="100" angle="0" text="21"/>
+	<stage num="25" activeButton="-2" tutorialPos="12" posX="200" posY="80" angle="0" text="22"/>
+	<stage num="26" activeButton="-2" tutorialPos="10" posX="200" posY="80" angle="0" text="23"/>
+	<stage num="27" activeButton="2" tutorialPos="7" posX="300" posY="240" angle="180" text="24"/>
+	<stage num="28" activeButton="324" tutorialPos="8" posX="418" posY="215" angle="0" text="31"/>
+	<stage num="29" activeButton="1" tutorialPos="4" posX="170" posY="30" angle="180" text=""/>
+	<stage num="30" activeButton="7" tutorialPos="10" posX="390" posY="80" angle="0" text="26"/>
+	<stage num="31" activeButton="8" tutorialPos="8" posX="181" posY="310" angle="180" text="27"/>
+	<stage num="32" activeButton="8" tutorialPos="8" posX="100" posY="-100" angle="90" text="28"/>
+	<stage num="33" activeButton="-2" tutorialPos="8" posX="380" posY="100" angle="0" text="29"/>
+	<stage num="34" activeButton="-2" tutorialPos="8" posX="380" posY="100" angle="0" text="30"/>
+</stages>

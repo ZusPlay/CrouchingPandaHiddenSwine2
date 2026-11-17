@@ -1,0 +1,312 @@
+"Ok" = "Ok";
+"Cancel" = "Отмена";
+"Error" = "Ошибка";
+
+"The server sent not what you need!!!" = "Сервер прислал не то что нужно!";
+"No internet connection" = "Нет соединения с интернетом";
+
+"DailyBonusTitle" = "Заходи в игру каждый день и получай ценные призы";
+"DailyBonusTime" = "Время до следующего приза:";
+"DailyBonusDay" = "День";
+
+"Boss rebirth" = "Вы можете купить свиток воскрешения босса.";
+"Boss cost" = "Стоимость";
+"Boss min level" = "Ваш уровень должен быть больше ";
+"Boss battle description win" = "Вы выиграли:";
+"Boss max dead" = "Босс убит максимальное количество раз";
+"Boss min wins count" = "Чтобы сразиться с боссом, Вам необходимо еще %s побед над противниками";
+"Boss dead" = "Босс будет доступен через %s";
+"Boss weak" = "Сначала Вы должны победить более слабого боса";
+
+"Social long messages" = "Cлишком большая длинна сообщения";
+"Social enter a message" = "Введите сообщение";
+"Social facebook not login" = "Вы не авторизованы в facebook";
+"Social twitter not login" = "Вы не авторизованы в twitter";
+"Social already added" = "Пользователь уже добавлен в список друзей";
+"Social message no send" = "Не удалось отправить сообщение";
+"Social no name" = "Player";
+"Social new players not found" = "Игроков среди ваших друзей не найдено";
+"Social deleteFriend" = "Вы уверены, что хотите удалить из друзей этого пользователя?";
+"Social add using code" = "Если Вы знаете Персональный Код другого игрока, введите его в это поле, чтобы добавить его в друзья.";
+"Social deleteHistory" = "Вы уверены, что хотите удалить историю сообщений с этим пользователем?";
+"Social full inbox" = "У получателя больше 20 непрочитанных сообщений, попробуйте позже";
+"Social not network for post" = "Постинг в социальные сети отключен, включите в меню \"Социальные сети\"";
+"Social added by code" = "Добавлен по коду:";
+"Social add new friends" = "Добавьте новых друзей:";
+
+"Wheel Your gain is" = "Ваш выигрыш составляет ";
+"Wheel Congratulations" = "Поздравляем! На арене вас ждут дополнительные бои: ";
+"Wheel You won the" = "Вы выиграли ";
+"Wheel Count" = " штук";
+"Wheel further attempt" = "Вы выиграли дополнительную попытку";
+"Wheel Vacant slot in your inventory" = "Освободите ячейки в вашем рюкзаке, чтобы забрать приз. ";
+"Wheel New Achiev" = "Поздравляем, у вас появилось новое достижение:";
+
+"Perk new instinct" = "Вы получили новый инстинкт ";
+
+"User not found" = "Игрок не найден";
+
+"Availability boss" = "Доступен с %d-го уровня";
+"Prizes for winning the following:" = "Полученные призы:";
+
+"AppsFireNewNotification" = "У Вас есть новые уведомления";
+"AppsFireNoNewNotification" = "У Вас нет новых уведомлений";
+
+"Enter name" = "Введите имя";
+"Enter code" = "Введите код";
+
+"Choose one of the heroes" = "Выбирай одного из героев";
+"Inventory" = "Инвентарь";
+"Instincts" = "Инстинкты";
+"Training" = "Тренировка";
+"TrainingDescription" = "Каждая тренировка улучшает характеристику <br>на 2 единицы. Учтите, что спортивную форму легко потерять: каждый день бонус уменьшается на 2 единицы. Эта тренировка стоит %d песо.";
+"AreSureToUse" = "Вы уверены что хотите использовать %s";
+"Price:" = "Цена:";
+"Amount:" = "Количество:";
+"Are you sure you want to sell?" = "Вы уверены что хотите продать?";
+"Sell" = "Продать";
+"Buy" = "Купить";
+"Use" = "Использовать";
+"SelectItems" = "Выберите количество предметов, которое Вы хотите перенести от %d до %d";
+"Endurance:" = "Выносливость:";
+"Power:" = "Сила:";
+"Dexterity:" = "Ловкость:";
+"strength: %d" = "сила: %d";
+"endurance: %d" = "выносливость: %d";
+"aglity: %d" = "ловкость: %d";
+"Counterattack" = "Контратака";
+"Are you sure you want to buy this item?" = "Вы уверены что хотите купить этот предмет?";
+"Item purchased and is in your backpack" = "Предмет куплен и находится в вашем инвентаре";
+"You do not have enough money to buy this item" = "У Вас не хватает денег для покупки этого предмета";
+"In the backpack is not enough space for this subject" = "В рюкзаке не хватает места для этого предмета";
+"This item is not suitable for you requirements" = "Этот предмет не подходит Вам по требованиям";
+"Weapons" = "Оружие";
+"Armor" = "Броня";
+"Different" = "Разное";
+"Params:" = "Параметры:";
+"Health:" = "Здоровье:";
+"health" = "жизнь";
+"endurance" = "выносливость";
+"strenght" = "сила";
+"agility" = "ловкость";
+"Exp:" = "Опыт:";
+"expDesc" = "опыт";
+"GainExp" = "Получено опыта:            %s";
+"GainCoins" = "Получено денег:             %s";
+"NewLevelDesc" = "Поздравляем с получением уровня %d.\nВ магазине доступны новые предметы!";
+"Town" = "В город";
+"Arena" = "На арену";
+"Level" = "Уровень";
+"TailPers" = "Ваш персонаж устал в боях, так что может вернуться на арену не раньше чем через:";
+"You can buy one more fight:" = "Вы можете купить еще бой:";
+"Buy (1)" = "Купить (1)";
+"Buy (5)" = "Купить (5)";
+"Loading" = "Загрузка";
+"Request in progress.." = "Запрос в процессе...";
+"Shake to refresh" = "Встряхните чтобы обновить";
+"Please enter name of your pet" = "<center><br>Пожалуйста, введите имя вашего питомца</center>";
+"You have no money for training" = "У вас недостаточно денег для тренировки";
+"NOTMONEY" = "У Вас недостаточно денег!";
+
+"LevelUp?" = "Вы уверены что хотите повысить уровень инкстинка %s за %d %s?";
+"LevelUp" = "Повысить уровень";
+"LevelDown" = "Понизить уровень";
+"LevelDown?" = "Вы уверены что хотите понизить уровень инкстинка %s и получить %d %s?";
+
+"Your game version is outdated! Download a new version." = "Ваша версия игры устарела! Скачайте новую версию.";
+"Download update: %d/%d" = "Загрузка обновлений: %d/%d";
+"RateTitle" = "Нравится Панда? Проголосуйте в App Store!";
+"RateAlertDescription" = "\n";
+"RateOk" = "Хорошо!";
+"RateCancel" = "Не сейчас";
+"RateNever" = "Никогда";
+"Pesso" = "Песо";
+"Real" = "Реал";
+
+"Choose to buy" = "Выберите для покупки";
+"ItemBonusPrice" = "Количество&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Бонус&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Цена";
+"Bank" = "Банк";
+
+"Are you done the creating of your pers?" = "<br><center>Вы завершили создание вашего персонажа?</center>";
+"Peso" = "Песо";
+"Loading Request" = "Запрос в процессе...";
+"<br>Do you want to buy %d %@ for %@?" = "<center><br>Вы хотите купить %d %s за %s?</center>";
+"Reals" = "Реалы";
+"Pesos" = "Песо";
+"<center>Select the number of items that you want <br>to transfer 1 to %d</center>" = "<center>Выберите количество элементов, которые<br>вы хотите переместить с 1 по %d</center>";
+"<center>Select the number of items that you want to buy</center>" = "<center>Выберите количество предметов, которое хотите приобрести</center>";
+"<center>Select the number of items that you want to sell<br>1 to %d</center>" = "<center>Выберите количество предметов, которое хотите продать с 1 по %d</center>";
+
+"Position&nbsp;Name&nbsp;Wins" = "Место&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Имя&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Кол-во побед";
+
+"POST_ACHIEV" = "Я получил(а) достижение %s %d уровня в игре \"Крадущаяся панда, затаившийся лось\"!";
+"ENTER_CODE" = "Введи в игре код %s и получишь 300 Песо. Присоединяйся, скачай бесплатно в App Store.";
+
+"Succesfully posted to wall!" = "Успешно опубликовано на стене!";
+"See your Facebok page for detailes" = "Смотрите Вашу страницу на Facebook для подробностей";
+
+"Failed to post to your wall" = "Публикация на стену не удалась";
+
+"Unknown error occured" = "Неизвестная ошибка";
+
+"Download in app" = "Скачать игру в App Store";
+"Are you sure" = "<br>Вы уверены?";
+
+"The game link in App Store." = "Скачать игру в App Store.";
+
+"You have no enought money" = "У Вас не хватает денег";
+
+
+"GAME_TITLE" = "Крадущаяся панда, затаившийся лось";
+
+"New perk!" = "Новый инстинкт!";
+
+"You've reach a new perk" = "Вы получили новый инстинкт";
+
+"The new battles is comming.." = "У вас появилась новая битва!";
+
+"I`ve reached level %2$d %1$@ achievement in Crouching Panda iPhone game! Join me for free! Download it from  App Store." = "У меня уровень %2$d достижения %1$s в игре «Крадущаяся Панда» для iPhone! Присоединяйтесь! Игра бесплатна в App Store.";
+
+"App Store link" = "Ссылка в App Store";
+
+"POST_LEVEL" = "Я уже %d Уровня в игре \"Крадущаяся панда, притаившийся лось\" для iPhone!";
+"POST_LEVEL_TWITTER" = "Я уже %d Уровня в игре \"Крадущаяся панда, притаившийся лось\" для iPhone!";
+
+"POST_CODE" = "Мне нужна помощь в игре «Крадущаяся панда, затаившийся лось» для iPhone!";
+"POST_CODE_DETAILS" = "Скачай её бесплатно и введи КОД  %s, тогда мы получим БОНУС 300 Песо. Присоединяйся!";
+
+"POST_CODE_TWITTER" = "Присоединяйтесь ко мне в игре «Крадущаяся Панда» для iPhone! Вводите код %s, и получите 300 Песо.";
+
+"ONLINE" = "Онлайн";
+"OFFLINE" = "Офлайн";
+
+"Social connect" = "Выберите социальные сети, с которыми хотите делиться своими достижениями в игре, поставив напротив них галочки.";
+"Facebook" = "Facebook";
+"Vkontakte" = "ВКонтакте";
+"Twitter" = "Twitter";
+"My World" = "Мой Мир";
+
+"Social networks" = "Cоциальные сети";
+
+"Networks Allow To Post" = "Сети &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Разрешить постинг";
+
+"POST_PERK_TWITTER" = "У меня уровень %2$d инстинкта %1$s в игре «Крадущаяся Панда» для iPhone! Присоединяйтесь! Игра бесплатна в App Store.";
+"POST_PERK" = "Я получил(а) инстинкт %s %d уровня в игре \"Крадущаяся панда, затаившийся лось\"!";
+
+"Code Button" = "Персональный код";
+
+"YourCode" = "Попросите своих друзей в социальных сетях ввести <font color=#ff0000>Ваш персональный код в нашей игре: %s</font> и вы оба получите по 300 Песо!";
+
+"AttackYouFriendButtonLabel" = "Напасть на друга";
+"PreferencesLabel" = "Настройки";
+"FAQ" = "F.A.Q.";
+"MoreGamesLabel" = "Наши игры";
+
+"AttackYouFriend" = "Если Вы знаете Персональный Код другого игрока, введите его в это поле, чтобы напасть на него.";
+
+"EnterCode" = "Введите здесь Персональный Код другого игрока, чтобы получить 300 Песо.";
+
+"YouCodeIsIncorrect" = "<center>Введенный код не существует.<br>Проверьте код и попробуйте снова.</center>";
+
+"CodeSuccesfullyAdded" = "<br><center>Код был успешно добавлен!</center>";
+
+"Top 50 for a month" = "ТОП 25 за месяц";
+"Top 50 for a week" = "ТОП 25 за неделю";
+"Top powerful for a week" = "ТОП 25 среди Сильных за неделю";
+"Top dexterous for a week" = "ТОП 25 среди Ловких за неделю";
+"Top stamina for a week" = "ТОП 25 среди Выносливых за неделю";
+
+"Twitter Info" = "Twitter";
+"Vkontakte info" = "Вконтакте";
+"MyWorld info" = "Мой Мир";
+"Facebook info" = "Facebook";
+
+"Enable Push new fights notifications" = "Уведомление о новых боях";
+"Enable Push attacked notifications" = "Уведомление о нападениях";
+"Enable Push notifications" = "Сообщать мне, когда доступен новый бой.";
+"Enable sound" = "Enable sound";
+
+"Are you sure to logout from %@" = "Вы действительно хотите выйти из %s?";
+
+"Are you sure to change you Animal<br>for %d %@?" = "Вы уверены, что хотите сменить своего зверя?<br>Характеристики не изменятся, только его внешний вид. Стоимость: %d %s";
+
+"Enable sound" = "Включить звук";
+
+"This message will be post" = "Это сообщение будет опубликовано";
+
+"Введите код с картинки" = "Введите код с картинки";
+
+"FRIEND_HELP" = "Мне нужна ваша помощь! Я играю в игру «Крадущаяся Панда…» на iPhone и мне не хватает боев.";
+"FRIEND_HELP_DETAILS" = " Пройдите, по ссылке ниже, и тогда я получу дополнительный бой. Спасибо!\n%s";
+"FRIEND_HELP_TWITTER" = "Друзья, помогайте! Добавьте мне бой в игре \"Крадущаяся Панда...\", кликнув на ссылку. Спасибо!\n%s";
+
+"ASK_FRIEND_TO_HELP" = "Попросить помощи у друзей.<br>Вам уже помогли: %d/10 (%d %s)";
+"1fight" = "бой";
+"2fight" = "боя";
+"5fight" = "боев";
+
+"BUY_MORE_BATTLES" = "Купить еще бой:";
+
+"NO_MONEY_FOR_CHANGE_ANIMAL" = "У вас недостаточно денег для смены зверя.";
+
+"HelpTo" = "Помочь %s";
+
+"PAIR_BERRY" = "Объединить предметы?";
+"SURE_TO_UNPLUG_BERRY" = "Вы уверены что хотите снять улучшение?";
+"UNPLUG_%s_FIRST" = "В этот предмет уже встроено улучшение \"%s\". Сначала нужно его снять.";
+"GLADE_IS_COMPLETE" = "Вы собрали всё, что было на этой поляне. Пора двигаться дальше.";
+"BATTLE_IN_GLADE" = "Из кустов выскочил противник.<br>Приготовьтесь к бою!";
+"To glade" = "Назад";
+"ENERGY_IS_OUT" = "Вы потратили всю энергию и нуждаетесь в отдыхе";
+"USE_POTION" = "Использовать зелье";
+"BUY_ENERGY" = "Приобрести энергию";
+"NOT_YET_AVAILABLE" = "Когда Вы достигнете 8 уровня, для Вас откроется Полянка, полная сокровищ! Вы сможете собирать на ней Песо, элексиры, а также различные улучшения, которые встраиваются в экипировку, значительно усиливая её свойства. Дойти до 8 Уровня очень легко!";
+"NOT_YET_AVAILABLE2" = "Скоро Вы сможете сделать своего зверя ещё сильнее! Этот раздел станет доступен Вам после того, как Вы достигнете 8 уровня. Здесь вы сможете встроить в свою экипировку супер-улучшения, найденные на Полянках. С этими улучшениями Ваш зверь станет непобедимым!";
+"UNPLUG_BERRY_BEFORE_SELL" = "В этот предмет встроено улучшение. Его нужно снять перед продажей";
+
+"You under attack" = "На Вас напали!";
+"You`ve been attacked!" = "На Вас напали!";
+"No news" = "Новостей нет";
+"YouWon" = "Вы победили!";
+"EnemyWon" = "Вы проиграли!";
+"You was attacked by" = "Имя";
+"Attack date" = "Дата";
+"Winner" = "Победитель";
+"enemyLevel" = "Уровень";
+
+"dd.MM.yyyy" = "dd.MM.yyyy";
+"%@ You`ve been attacked by %@" = "%s На вас напал %s";
+
+"LiguePrizeDescription" = "Следующее время выдачи призов за место в Лиге: %s";
+"TournirRestartTime" = "Текущий Турнир заканчивается:%s %s";
+
+"NewItemsInStore" = "В магазине доступны новые предметы!";
+"New level!" = "Новый уровень!";
+"#&nbsp;Name&nbsp;Rating" = "   #          Имя            Рейтинг        Лига         Приз";
+"Bronze ligue" = "Бронз.";
+"Silver ligue" = "Сереб.";
+"Gold ligue" = "Золот.";
+
+"Your don't participate in Tournament"  = "Вы не попали в турнир";
+"Ligues don't exist" = "Турниры в данный момент не проводятся";
+"Item will be destroyed at:" = "Этот предмет будет уничтожен:";
+
+"Experience:" = "Опыт:";
+"Coins:" = "Монеты:";
+"Ligue's place:" = "Место в Лиге:";
+"Ligue's prize:" = "Приз за место в Лиге:";
+
+"PossibleCauseOfLoss" = "Возможная причина проигрыша";
+"ChangeAnimalDescription" = "Сменится только внешний вид зверя";
+"DeleteUserDescription" = "Ваш текущий зверь будет полностью удален";
+"ChangeAnimal" = "Сменить зверя";
+"ChangeAnimalButton" = "Сменить зверя / Начать игру заново";
+"DeleteUser" = "Начать игру с начала";
+"SureToDeleteUser%d %@" = "Вы уверены, что хотите начать игру заново? Это стоит %d %s. Все данные о текущем персонаже, включая оплаты, будут потеряны.";
+
+"CANT_ATTACK" = "Сейчас вы не можете напасть на этого игрока. Попробуйте позже.";
+"TRAINING_COST=%d"="<br>Общая стоимость этой тренировки составит %d Песо. Вы уверены?";
+
+"SERVER_UNAVAILABLE" = "Наблюдаются некоторые проблемы с доступом в Интернет.";
+
+"Enter Personal Code of another player to receive 300 Pesos for you both" = "Если вы введете Персональный  Код другого игрока, то вы оба получите по 300 Песо!";

@@ -1,0 +1,911 @@
+<lib>
+	<graphics>
+		<g name="fist_left_anim" />
+		<g name="foot_left_anim" />
+	</graphics>
+	<animations>
+		<animation id="x00">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-188" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-111" r="0" />
+				<a graphic="fist_left_anim" x="-187.2" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-186.4" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-186.2" y="-107.5" r="0" />
+				<a graphic="fist_left_anim" x="-186.6" y="-106.5" r="0" />
+				<a graphic="fist_left_anim" x="-187" y="-105.5" r="0" />
+				<a graphic="fist_left_anim" x="-187.5" y="-106.75" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x11">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-188.65" y="-113.3" r="-4" />
+				<a graphic="fist_left_anim" x="-190.05" y="-123.75" r="-11" />
+				<a graphic="fist_left_anim" x="-191.35" y="-134.25" r="-18" />
+				<a graphic="fist_left_anim" x="-192.65" y="-144.7" r="-25" />
+				<a graphic="fist_left_anim" x="-194.05" y="-155.2" r="-32" />
+				<a graphic="fist_left_anim" x="-195.4" y="-165.7" r="-39" />
+				<a graphic="fist_left_anim" x="-194.75" y="-172.2" r="-49" />
+				<a graphic="fist_left_anim" x="-194.1" y="-178.7" r="-59" />
+				<a graphic="fist_left_anim" x="-193.45" y="-185.15" r="-68" />
+				<a graphic="fist_left_anim" x="-192.8" y="-191.65" r="-78" />
+				<a graphic="fist_left_anim" x="-193.55" y="-184.3" r="-67" />
+				<a graphic="fist_left_anim" x="-194.3" y="-176.8" r="-56" />
+				<a graphic="fist_left_anim" x="-195" y="-169.35" r="-45" />
+				<a graphic="fist_left_anim" x="-191.75" y="-136.85" r="-20" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x07">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-184.9" y="-122.75" r="0" />
+				<a graphic="fist_left_anim" x="-178.75" y="-152.25" r="0" />
+				<a graphic="fist_left_anim" x="-172.6" y="-181.75" r="0" />
+				<a graphic="fist_left_anim" x="-172.45" y="-185.8" r="0" />
+				<a graphic="fist_left_anim" x="-178.4" y="-164.45" r="0" />
+				<a graphic="fist_left_anim" x="-178.35" y="-160.8" r="0" />
+				<a graphic="fist_left_anim" x="-172.35" y="-174.8" r="0" />
+				<a graphic="fist_left_anim" x="-166.35" y="-188.8" r="0" />
+				<a graphic="fist_left_anim" x="-167.6" y="-192.3" r="0" />
+				<a graphic="fist_left_anim" x="-168.85" y="-195.8" r="0" />
+				<a graphic="fist_left_anim" x="-176.5" y="-160.7" r="0" />
+				<a graphic="fist_left_anim" x="-184.15" y="-125.55" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-183" y="-51" r="14" />
+				<a graphic="foot_left_anim" x="-183" y="-51" r="14" />
+				<a graphic="foot_left_anim" x="-183" y="-51" r="14" />
+				<a graphic="foot_left_anim" x="-183" y="-51" r="14" />
+				<a graphic="foot_left_anim" x="-183" y="-51" r="14" />
+				<a graphic="foot_left_anim" x="-183" y="-51" r="14" />
+				<a graphic="foot_left_anim" x="-183" y="-51" r="14" />
+				<a graphic="foot_left_anim" x="-183" y="-51" r="14" />
+				<a graphic="foot_left_anim" x="-183" y="-51" r="14" />
+			</layer>
+		</animation>
+		<animation id="x01">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-188" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-111" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-206.45" y="-112.8" r="-15" />
+				<a graphic="fist_left_anim" x="-243.35" y="-125.45" r="-45" />
+				<a graphic="fist_left_anim" x="-204.05" y="-108.55" r="-5" />
+				<a graphic="fist_left_anim" x="-186.2" y="-103.95" r="7" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-177.95" y="-70.95" r="-114" />
+				<a graphic="foot_left_anim" x="-177.95" y="-70.95" r="-114" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x10">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-188.6" y="-107.8" r="1" />
+				<a graphic="fist_left_anim" x="-202.6" y="-109.15" r="8" />
+				<a graphic="fist_left_anim" x="-229.25" y="-112.45" r="18" />
+				<a graphic="fist_left_anim" x="-253.7" y="-112.6" r="-1" />
+				<a graphic="fist_left_anim" x="-200.1" y="-175.4" r="0" />
+				<a graphic="fist_left_anim" x="-200.1" y="-175.4" r="0" />
+				<a graphic="fist_left_anim" x="-195.3" y="-148.45" r="0" />
+				<a graphic="fist_left_anim" x="-190.4" y="-121.45" r="-1" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-192.45" y="-43.9" r="1" />
+				<a graphic="foot_left_anim" x="-194.9" y="-43.8" r="3" />
+				<a graphic="foot_left_anim" x="-194.9" y="-43.8" r="3" />
+				<a graphic="foot_left_anim" x="-194.9" y="-43.8" r="3" />
+				<a graphic="foot_left_anim" x="-157.05" y="-100.8" r="0" />
+				<a graphic="foot_left_anim" x="-157.05" y="-100.8" r="0" />
+				<a graphic="foot_left_anim" x="-170.2" y="-78.05" r="28" />
+				<a graphic="foot_left_anim" x="-183.45" y="-55.4" r="9" />
+			</layer>
+		</animation>
+		<animation id="x0f">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="32" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="32" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="32" y="-111" r="0" />
+				<a graphic="fist_left_anim" x="32" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="13.55" y="-112.8" r="-15" />
+				<a graphic="fist_left_anim" x="-23.35" y="-125.45" r="-45" />
+				<a graphic="fist_left_anim" x="15.9" y="-108.5" r="-5" />
+				<a graphic="fist_left_anim" x="33.75" y="-103.95" r="7" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="30" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="30" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="30" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="30" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="30" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="42.05" y="-70.95" r="-114" />
+				<a graphic="foot_left_anim" x="42.05" y="-70.95" r="-114" />
+				<a graphic="foot_left_anim" x="30" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0d">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-188" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-111" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-206.45" y="-112.8" r="-15" />
+				<a graphic="fist_left_anim" x="-243.35" y="-125.45" r="-45" />
+				<a graphic="fist_left_anim" x="-204.05" y="-108.55" r="-5" />
+				<a graphic="fist_left_anim" x="-186.2" y="-103.95" r="7" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-107.4" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-106.8" r="0" />
+				<a graphic="fist_left_anim" x="-206.45" y="-112.8" r="-15" />
+				<a graphic="fist_left_anim" x="-243.35" y="-125.45" r="-45" />
+				<a graphic="fist_left_anim" x="-204.05" y="-108.55" r="-5" />
+				<a graphic="fist_left_anim" x="-186.2" y="-103.95" r="7" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-177.95" y="-70.95" r="-114" />
+				<a graphic="foot_left_anim" x="-177.95" y="-70.95" r="-114" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-177.95" y="-70.95" r="-114" />
+				<a graphic="foot_left_anim" x="-177.95" y="-70.95" r="-114" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0a">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-188" y="-107.5" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-106.5" r="0" />
+				<a graphic="fist_left_anim" x="-212.9" y="-110.9" r="41" />
+				<a graphic="fist_left_anim" x="-235.05" y="-110.1" r="54" />
+				<a graphic="fist_left_anim" x="-244.7" y="-106.95" r="46" />
+				<a graphic="fist_left_anim" x="-225.85" y="-107.35" r="31" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0b">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-188" y="-107.5" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-106.5" r="0" />
+				<a graphic="fist_left_anim" x="-180.15" y="-158.75" r="8" />
+				<a graphic="fist_left_anim" x="-176.25" y="-184.9" r="13" />
+				<a graphic="fist_left_anim" x="-176.2" y="-184.9" r="13" />
+				<a graphic="fist_left_anim" x="-205.85" y="-138.05" r="-11" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-199" y="-44" r="-15" />
+				<a graphic="foot_left_anim" x="-199" y="-44" r="-15" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x09">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-188" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-111" r="0" />
+				<a graphic="fist_left_anim" x="-187.2" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-186.4" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-186.2" y="-107.5" r="0" />
+				<a graphic="fist_left_anim" x="-186.6" y="-106.5" r="0" />
+				<a graphic="fist_left_anim" x="-187" y="-105.5" r="0" />
+				<a graphic="fist_left_anim" x="-187.5" y="-106.75" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-107" r="0" />
+				<a graphic="fist_left_anim" x="-187.05" y="-103.35" r="4" />
+				<a graphic="fist_left_anim" x="-185.1" y="-97" r="12" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x02">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="11.2" y="-110.8" r="1" />
+				<a graphic="fist_left_anim" x="-30.45" y="-116.45" r="5" />
+				<a graphic="fist_left_anim" x="-72.1" y="-122.05" r="9" />
+				<a graphic="fist_left_anim" x="48.35" y="-132.95" r="-5" />
+				<a graphic="fist_left_anim" x="87.85" y="-128.75" r="-7" />
+				<a graphic="fist_left_anim" x="46.25" y="-109.45" r="3" />
+				<a graphic="fist_left_anim" x="40.6" y="-108.8" r="2" />
+				<a graphic="fist_left_anim" x="34.9" y="-108.3" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="33.9" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="39.75" y="-43.95" r="0" />
+				<a graphic="foot_left_anim" x="45.6" y="-43.95" r="0" />
+				<a graphic="foot_left_anim" x="48.6" y="-47.3" r="9" />
+				<a graphic="foot_left_anim" x="48.6" y="-47.25" r="9" />
+				<a graphic="foot_left_anim" x="45.6" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="39.75" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="33.9" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x06">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="36.5" y="-105.75" r="0" />
+				<a graphic="fist_left_anim" x="11" y="-124.15" r="-29" />
+				<a graphic="fist_left_anim" x="-49" y="-165.5" r="-85" />
+				<a graphic="fist_left_anim" x="45.85" y="-192.75" r="-29" />
+				<a graphic="fist_left_anim" x="76.35" y="-171.8" r="-1" />
+				<a graphic="fist_left_anim" x="42.25" y="-102.75" r="-1" />
+				<a graphic="fist_left_anim" x="38.05" y="-104.9" r="-1" />
+				<a graphic="fist_left_anim" x="34" y="-106.95" r="-1" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="31" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="43.5" y="-39.5" r="-7" />
+				<a graphic="foot_left_anim" x="43.5" y="-39.5" r="-7" />
+				<a graphic="foot_left_anim" x="43.5" y="-39.5" r="-7" />
+				<a graphic="foot_left_anim" x="43.5" y="-39.5" r="-7" />
+				<a graphic="foot_left_anim" x="43.5" y="-39.5" r="-7" />
+				<a graphic="foot_left_anim" x="43.5" y="-39.5" r="-7" />
+				<a graphic="foot_left_anim" x="31" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0e">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="41" y="-103.5" r="0" />
+				<a graphic="fist_left_anim" x="17.3" y="-143.9" r="-1" />
+				<a graphic="fist_left_anim" x="63.9" y="-110.45" r="36" />
+				<a graphic="fist_left_anim" x="87.1" y="-93.8" r="55" />
+				<a graphic="fist_left_anim" x="68.75" y="-98.55" r="36" />
+				<a graphic="fist_left_anim" x="32" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="4.15" y="-135.15" r="-16" />
+				<a graphic="fist_left_anim" x="22.7" y="-117.05" r="-6" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="43.5" y="-39.5" r="-7" />
+				<a graphic="foot_left_anim" x="46.35" y="-39.5" r="-7" />
+				<a graphic="foot_left_anim" x="49.2" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="50.7" y="-39.5" r="-7" />
+				<a graphic="foot_left_anim" x="44.1" y="-41.05" r="-5" />
+				<a graphic="foot_left_anim" x="31" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="30.2" y="-51.8" r="-19" />
+				<a graphic="foot_left_anim" x="30.75" y="-46.65" r="-7" />
+			</layer>
+		</animation>
+		<animation id="x0c">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="36.5" y="-105.75" r="0" />
+				<a graphic="fist_left_anim" x="11" y="-124.15" r="-29" />
+				<a graphic="fist_left_anim" x="-49" y="-165.5" r="-85" />
+				<a graphic="fist_left_anim" x="45.85" y="-192.75" r="-29" />
+				<a graphic="fist_left_anim" x="76.35" y="-171.8" r="-1" />
+				<a graphic="fist_left_anim" x="42.25" y="-102.75" r="-1" />
+				<a graphic="fist_left_anim" x="41.6" y="-103.15" r="-1" />
+				<a graphic="fist_left_anim" x="41" y="-103.5" r="0" />
+				<a graphic="fist_left_anim" x="-15.1" y="-110.8" r="3" />
+				<a graphic="fist_left_anim" x="-71.15" y="-118.1" r="6" />
+				<a graphic="fist_left_anim" x="-99.15" y="-121.75" r="8" />
+				<a graphic="fist_left_anim" x="-48.75" y="-127.5" r="5" />
+				<a graphic="fist_left_anim" x="52.2" y="-139" r="-3" />
+				<a graphic="fist_left_anim" x="102.65" y="-144.65" r="-6" />
+				<a graphic="fist_left_anim" x="100.9" y="-142.25" r="-10" />
+				<a graphic="fist_left_anim" x="65.6" y="-123.95" r="-7" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="37.25" y="-41.7" r="-4" />
+				<a graphic="foot_left_anim" x="43.45" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="43.45" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="43.45" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="43.45" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="43.5" y="-39.5" r="-7" />
+				<a graphic="foot_left_anim" x="43.45" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="43.5" y="-39.5" r="-7" />
+				<a graphic="foot_left_anim" x="43.45" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="43.45" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="43.45" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="43.45" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="43.45" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="43.45" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="43.45" y="-39.45" r="-7" />
+				<a graphic="foot_left_anim" x="37.3" y="-41.75" r="-4" />
+			</layer>
+		</animation>
+		<animation id="x03">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-175.1" y="-107" r="23" />
+				<a graphic="fist_left_anim" x="-149.35" y="-105.05" r="70" />
+				<a graphic="fist_left_anim" x="-71.55" y="-77.5" r="71" />
+				<a graphic="fist_left_anim" x="-6.55" y="-50.95" r="49" />
+				<a graphic="fist_left_anim" x="-6.55" y="-50.95" r="49" />
+				<a graphic="fist_left_anim" x="-6.55" y="-50.95" r="49" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-187.85" y="-49.1" r="60" />
+				<a graphic="foot_left_anim" x="-187.85" y="-49.1" r="60" />
+				<a graphic="foot_left_anim" x="-187.85" y="-49.1" r="60" />
+			</layer>
+		</animation>
+		<animation id="x04">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-191.9" y="-112.55" r="5" />
+				<a graphic="fist_left_anim" x="-199.85" y="-121.45" r="17" />
+				<a graphic="fist_left_anim" x="-141.35" y="-118.95" r="31" />
+				<a graphic="fist_left_anim" x="-74.95" y="-114.95" r="41" />
+				<a graphic="fist_left_anim" x="-66.65" y="-120.6" r="46" />
+				<a graphic="fist_left_anim" x="-30.6" y="-110.75" r="46" />
+				<a graphic="fist_left_anim" x="8.1" y="-107" r="46" />
+				<a graphic="fist_left_anim" x="49.75" y="-109.25" r="46" />
+				<a graphic="fist_left_anim" x="41.6" y="-108" r="22" />
+				<a graphic="fist_left_anim" x="35.65" y="-107.3" r="7" />
+				<a graphic="fist_left_anim" x="32" y="-107" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-167.1" y="-53.75" r="-54" />
+				<a graphic="foot_left_anim" x="-101.7" y="-38.6" r="-9" />
+				<a graphic="foot_left_anim" x="-96.7" y="-38.6" r="-9" />
+				<a graphic="foot_left_anim" x="-96.7" y="-38.6" r="-9" />
+				<a graphic="foot_left_anim" x="-91.7" y="-38.6" r="-9" />
+				<a graphic="foot_left_anim" x="-23.95" y="-56.25" r="51" />
+				<a graphic="foot_left_anim" x="-23.95" y="-56.25" r="51" />
+				<a graphic="foot_left_anim" x="40.35" y="-47.2" r="-24" />
+				<a graphic="foot_left_anim" x="30" y="-45" r="0" />
+			</layer>
+		</animation>
+		<animation id="x08">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-174.55" y="-90.5" r="33" />
+				<a graphic="fist_left_anim" x="-147.7" y="-55.5" r="101" />
+				<a graphic="fist_left_anim" x="-147.7" y="-55.5" r="101" />
+				<a graphic="fist_left_anim" x="-117.8" y="-187" r="77" />
+				<a graphic="fist_left_anim" x="-97.85" y="-274.7" r="62" />
+				<a graphic="fist_left_anim" x="-87.85" y="-318.55" r="54" />
+				<a graphic="fist_left_anim" x="-86.45" y="-324.1" r="52" />
+				<a graphic="fist_left_anim" x="-84.65" y="-325.5" r="46" />
+				<a graphic="fist_left_anim" x="-81.1" y="-328.25" r="34" />
+				<a graphic="fist_left_anim" x="-75.65" y="-332.45" r="16" />
+				<a graphic="fist_left_anim" x="-68.6" y="-338" r="-7" />
+				<a graphic="fist_left_anim" x="4.35" y="-297.8" r="-20" />
+				<a graphic="fist_left_anim" x="132.75" y="-244.25" r="32" />
+				<a graphic="fist_left_anim" x="32" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="32" y="-108" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-185.5" y="-42.15" r="0" />
+				<a graphic="foot_left_anim" x="-176.5" y="-38.5" r="0" />
+				<a graphic="foot_left_anim" x="-176.5" y="-38.5" r="0" />
+				<a graphic="foot_left_anim" x="-156.05" y="-160.45" r="10" />
+				<a graphic="foot_left_anim" x="-142.4" y="-241.65" r="18" />
+				<a graphic="foot_left_anim" x="-135.55" y="-282.25" r="21" />
+				<a graphic="foot_left_anim" x="-134.55" y="-287.5" r="21" />
+				<a graphic="foot_left_anim" x="-132.7" y="-288.9" r="17" />
+				<a graphic="foot_left_anim" x="-129.2" y="-291.6" r="8" />
+				<a graphic="foot_left_anim" x="-123.75" y="-295.75" r="-6" />
+				<a graphic="foot_left_anim" x="-116.7" y="-301.35" r="-23" />
+				<a graphic="foot_left_anim" x="-46.55" y="-259.05" r="-1" />
+				<a graphic="foot_left_anim" x="35.35" y="-162.15" r="-10" />
+				<a graphic="foot_left_anim" x="31" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="31" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x05">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="21.5" y="-100.75" r="14" />
+				<a graphic="fist_left_anim" x="-0.7" y="-80.55" r="14" />
+				<a graphic="fist_left_anim" x="-50.2" y="-79.4" r="15" />
+				<a graphic="fist_left_anim" x="-117.85" y="-94.85" r="15" />
+				<a graphic="fist_left_anim" x="-161.25" y="-101.6" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="31" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-7.75" y="-47.7" r="0" />
+				<a graphic="foot_left_anim" x="-89.15" y="-46.15" r="75" />
+				<a graphic="foot_left_anim" x="-153.95" y="-48.95" r="0" />
+				<a graphic="foot_left_anim" x="-152.75" y="-47.7" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x16">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-188" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-111" r="0" />
+				<a graphic="fist_left_anim" x="-187.2" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-186.4" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-186.2" y="-107.5" r="0" />
+				<a graphic="fist_left_anim" x="-186.6" y="-106.5" r="0" />
+				<a graphic="fist_left_anim" x="-187" y="-105.5" r="0" />
+				<a graphic="fist_left_anim" x="-187.5" y="-106.75" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-111" r="0" />
+				<a graphic="fist_left_anim" x="-187.2" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-186.4" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-186.2" y="-107.5" r="0" />
+				<a graphic="fist_left_anim" x="-186.6" y="-106.5" r="0" />
+				<a graphic="fist_left_anim" x="-187" y="-105.5" r="0" />
+				<a graphic="fist_left_anim" x="-187.5" y="-106.75" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-111" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-83" r="0" />
+				<a graphic="fist_left_anim" x="-206.75" y="-52.75" r="-24" />
+				<a graphic="fist_left_anim" x="-244.1" y="-42.35" r="-72" />
+				<a graphic="fist_left_anim" x="-242.2" y="-46.35" r="-78" />
+				<a graphic="fist_left_anim" x="-240.35" y="-50.4" r="-84" />
+				<a graphic="fist_left_anim" x="-242.85" y="-45.1" r="-76" />
+				<a graphic="fist_left_anim" x="-225.45" y="-47.5" r="-48" />
+				<a graphic="fist_left_anim" x="-188" y="-58" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-91.35" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-184" y="-20.55" r="-72" />
+				<a graphic="foot_left_anim" x="-184" y="-20.55" r="-72" />
+				<a graphic="foot_left_anim" x="-162.1" y="-16.6" r="-84" />
+				<a graphic="foot_left_anim" x="-162.1" y="-16.6" r="-84" />
+				<a graphic="foot_left_anim" x="-184" y="-20.55" r="-72" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x15">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-189" y="-113.85" r="-6" />
+				<a graphic="fist_left_anim" x="-190.8" y="-125.55" r="-17" />
+				<a graphic="fist_left_anim" x="-192.7" y="-137.25" r="-29" />
+				<a graphic="fist_left_anim" x="-192.75" y="-147.2" r="-29" />
+				<a graphic="fist_left_anim" x="-192.7" y="-151.6" r="-29" />
+				<a graphic="fist_left_anim" x="-192.7" y="-150.25" r="-29" />
+				<a graphic="fist_left_anim" x="-192.7" y="-152.25" r="-29" />
+				<a graphic="fist_left_anim" x="-192.7" y="-150.9" r="-29" />
+				<a graphic="fist_left_anim" x="-192.7" y="-151.3" r="-29" />
+				<a graphic="fist_left_anim" x="-192.7" y="-129.9" r="-29" />
+				<a graphic="fist_left_anim" x="-192.7" y="-85.25" r="-29" />
+				<a graphic="fist_left_anim" x="-192.7" y="-82.75" r="-29" />
+				<a graphic="fist_left_anim" x="-192.7" y="-80.25" r="-29" />
+				<a graphic="fist_left_anim" x="-192.7" y="-163.55" r="-29" />
+				<a graphic="fist_left_anim" x="-192.75" y="-206.85" r="-29" />
+				<a graphic="fist_left_anim" x="-192.7" y="-210.25" r="-29" />
+				<a graphic="fist_left_anim" x="-191.25" y="-176.15" r="-19" />
+				<a graphic="fist_left_anim" x="-189.5" y="-142.05" r="-10" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-111" r="0" />
+				<a graphic="fist_left_anim" x="-187.2" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-186.4" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-186.35" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-187" y="-108" r="0" />
+				<a graphic="fist_left_anim" x="-187.65" y="-108" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-180" y="-34" r="-30" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x14">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-184.9" y="-103" r="8" />
+				<a graphic="fist_left_anim" x="-178.75" y="-93.05" r="24" />
+				<a graphic="fist_left_anim" x="-177.5" y="-87.1" r="32" />
+				<a graphic="fist_left_anim" x="-181.3" y="-85.1" r="30" />
+				<a graphic="fist_left_anim" x="-184.95" y="-83.15" r="29" />
+				<a graphic="fist_left_anim" x="-188.75" y="-81.15" r="28" />
+				<a graphic="fist_left_anim" x="-192.4" y="-79.2" r="27" />
+				<a graphic="fist_left_anim" x="-196.1" y="-77.3" r="26" />
+				<a graphic="fist_left_anim" x="-194.65" y="-75.45" r="26" />
+				<a graphic="fist_left_anim" x="-188.2" y="-73.85" r="28" />
+				<a graphic="fist_left_anim" x="-181.7" y="-72.25" r="30" />
+				<a graphic="fist_left_anim" x="-175.15" y="-70.6" r="33" />
+				<a graphic="fist_left_anim" x="-168.6" y="-69.05" r="35" />
+				<a graphic="fist_left_anim" x="-162.2" y="-67.45" r="37" />
+				<a graphic="fist_left_anim" x="-161.65" y="-67.4" r="37" />
+				<a graphic="fist_left_anim" x="-167.15" y="-68.8" r="35" />
+				<a graphic="fist_left_anim" x="-172.8" y="-70.1" r="33" />
+				<a graphic="fist_left_anim" x="-178.4" y="-71.45" r="32" />
+				<a graphic="fist_left_anim" x="-184" y="-72.8" r="30" />
+				<a graphic="fist_left_anim" x="-189.55" y="-74.2" r="28" />
+				<a graphic="fist_left_anim" x="-195.15" y="-75.55" r="26" />
+				<a graphic="fist_left_anim" x="-195.35" y="-75.65" r="26" />
+				<a graphic="fist_left_anim" x="-190.15" y="-74.35" r="28" />
+				<a graphic="fist_left_anim" x="-184.95" y="-73.05" r="29" />
+				<a graphic="fist_left_anim" x="-179.75" y="-71.75" r="31" />
+				<a graphic="fist_left_anim" x="-174.45" y="-70.5" r="33" />
+				<a graphic="fist_left_anim" x="-169.3" y="-69.2" r="35" />
+				<a graphic="fist_left_anim" x="-164.1" y="-68" r="36" />
+				<a graphic="fist_left_anim" x="-158.9" y="-66.65" r="38" />
+				<a graphic="fist_left_anim" x="-170.55" y="-83.25" r="23" />
+				<a graphic="fist_left_anim" x="-182.15" y="-99.75" r="7" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+				<a graphic="foot_left_anim" x="-170" y="-39" r="45" />
+			</layer>
+		</animation>
+		<animation id="x12">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-192.9" y="-109.5" r="-6" />
+				<a graphic="fist_left_anim" x="-202.75" y="-112.45" r="-18" />
+				<a graphic="fist_left_anim" x="-212.55" y="-115.4" r="-30" />
+				<a graphic="fist_left_anim" x="-222.4" y="-118.4" r="-42" />
+				<a graphic="fist_left_anim" x="-232.2" y="-121.35" r="-53" />
+				<a graphic="fist_left_anim" x="-232.95" y="-122.7" r="-44" />
+				<a graphic="fist_left_anim" x="-209.7" y="-140.45" r="-89" />
+				<a graphic="fist_left_anim" x="-162.4" y="-174.25" r="170" />
+				<a graphic="fist_left_anim" x="-172.45" y="-174.4" r="169" />
+				<a graphic="fist_left_anim" x="-182.45" y="-174.5" r="169" />
+				<a graphic="fist_left_anim" x="-187.5" y="-161.35" r="135" />
+				<a graphic="fist_left_anim" x="-187.75" y="-134.7" r="67" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-171.5" y="-41.5" r="0" />
+				<a graphic="foot_left_anim" x="-171.5" y="-41.5" r="0" />
+				<a graphic="foot_left_anim" x="-171.5" y="-41.5" r="0" />
+				<a graphic="foot_left_anim" x="-171.5" y="-41.5" r="0" />
+				<a graphic="foot_left_anim" x="-171.5" y="-41.5" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x13">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-188" y="-108.6" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-109.8" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-111" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-110.1" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-109.2" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-108.3" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-107.4" r="0" />
+				<a graphic="fist_left_anim" x="-188" y="-106.5" r="0" />
+				<a graphic="fist_left_anim" x="-224.9" y="-119.15" r="-31" />
+				<a graphic="fist_left_anim" x="-223.75" y="-117" r="-26" />
+				<a graphic="fist_left_anim" x="-184.5" y="-100" r="14" />
+				<a graphic="fist_left_anim" x="-188" y="-108" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-177.95" y="-70.95" r="-114" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x17">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-194.95" y="-109.4" r="0" />
+				<a graphic="fist_left_anim" x="-208.85" y="-112.25" r="0" />
+				<a graphic="fist_left_anim" x="-222.75" y="-115.05" r="0" />
+				<a graphic="fist_left_anim" x="-236.7" y="-117.85" r="0" />
+				<a graphic="fist_left_anim" x="-250.6" y="-120.7" r="0" />
+				<a graphic="fist_left_anim" x="-264.5" y="-123.5" r="0" />
+				<a graphic="fist_left_anim" x="-269.2" y="-126.6" r="-5" />
+				<a graphic="fist_left_anim" x="-273.95" y="-129.7" r="-10" />
+				<a graphic="fist_left_anim" x="-189.25" y="-142.7" r="-10" />
+				<a graphic="fist_left_anim" x="-15.5" y="-165.6" r="-4" />
+				<a graphic="fist_left_anim" x="76.45" y="-192" r="0" />
+				<a graphic="fist_left_anim" x="76.45" y="-192" r="0" />
+				<a graphic="fist_left_anim" x="76.2" y="-128" r="0" />
+				<a graphic="fist_left_anim" x="64.65" y="-88.65" r="0" />
+				<a graphic="fist_left_anim" x="32" y="-108" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="35.35" y="-149.55" r="-30" />
+				<a graphic="foot_left_anim" x="96.85" y="-159.8" r="-88" />
+				<a graphic="foot_left_anim" x="112.45" y="-147.65" r="-111" />
+				<a graphic="foot_left_anim" x="78.95" y="-40" r="0" />
+				<a graphic="foot_left_anim" x="31" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x18">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-232.25" y="-105.8" r="-7" />
+				<a graphic="fist_left_anim" x="-282.85" y="-103.3" r="-15" />
+				<a graphic="fist_left_anim" x="-262.4" y="-128.25" r="-18" />
+				<a graphic="fist_left_anim" x="-47.4" y="-330.3" r="-35" />
+				<a graphic="fist_left_anim" x="-45.45" y="-332.15" r="-35" />
+				<a graphic="fist_left_anim" x="-39.8" y="-337.75" r="-35" />
+				<a graphic="fist_left_anim" x="-30.3" y="-347.1" r="-35" />
+				<a graphic="fist_left_anim" x="-17.1" y="-360.2" r="-35" />
+				<a graphic="fist_left_anim" x="0" y="-376.9" r="-35" />
+				<a graphic="fist_left_anim" x="20.8" y="-397.5" r="-35" />
+				<a graphic="fist_left_anim" x="98.95" y="-375.1" r="-15" />
+				<a graphic="fist_left_anim" x="174.65" y="-336.2" r="7" />
+				<a graphic="fist_left_anim" x="132.55" y="-205.1" r="5" />
+				<a graphic="fist_left_anim" x="64.65" y="-88.65" r="0" />
+				<a graphic="fist_left_anim" x="32" y="-108" r="0" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-190" y="-44" r="0" />
+				<a graphic="foot_left_anim" x="-170.4" y="-68.05" r="-3" />
+				<a graphic="foot_left_anim" x="-13" y="-260.45" r="-20" />
+				<a graphic="foot_left_anim" x="-11" y="-262.65" r="-22" />
+				<a graphic="foot_left_anim" x="-4.8" y="-269.5" r="-28" />
+				<a graphic="foot_left_anim" x="5.5" y="-280.7" r="-39" />
+				<a graphic="foot_left_anim" x="19.9" y="-296.4" r="-54" />
+				<a graphic="foot_left_anim" x="38.4" y="-316.65" r="-73" />
+				<a graphic="foot_left_anim" x="61" y="-341.5" r="-97" />
+				<a graphic="foot_left_anim" x="109.45" y="-318.7" r="-70" />
+				<a graphic="foot_left_anim" x="150.25" y="-276.55" r="-25" />
+				<a graphic="foot_left_anim" x="117.15" y="-155.7" r="-10" />
+				<a graphic="foot_left_anim" x="62.95" y="-41.35" r="0" />
+				<a graphic="foot_left_anim" x="31" y="-44" r="0" />
+			</layer>
+		</animation>
+		<animation id="x19">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-176.9" y="-105.3" r="101" />
+				<a graphic="fist_left_anim" x="-113.05" y="-98.85" r="36" />
+				<a graphic="fist_left_anim" x="-77.2" y="-101.35" r="4" />
+				<a graphic="fist_left_anim" x="-69.5" y="-112.8" r="5" />
+				<a graphic="fist_left_anim" x="-54.9" y="-115.25" r="2" />
+				<a graphic="fist_left_anim" x="-33.5" y="-108.95" r="-4" />
+				<a graphic="fist_left_anim" x="-15.8" y="-105.6" r="6" />
+				<a graphic="fist_left_anim" x="-1.65" y="-105.3" r="33" />
+				<a graphic="fist_left_anim" x="-4.1" y="-105.9" r="68" />
+				<a graphic="fist_left_anim" x="-23.3" y="-107.65" r="111" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-167.1" y="-53.75" r="-54" />
+				<a graphic="foot_left_anim" x="-167.1" y="-53.75" r="-54" />
+				<a graphic="foot_left_anim" x="-101.7" y="-38.6" r="-9" />
+				<a graphic="foot_left_anim" x="-101.7" y="-38.6" r="-9" />
+				<a graphic="foot_left_anim" x="-102.8" y="-38.6" r="-9" />
+				<a graphic="foot_left_anim" x="-102.8" y="-38.6" r="-9" />
+				<a graphic="foot_left_anim" x="-102" y="-38.6" r="-9" />
+				<a graphic="foot_left_anim" x="-102" y="-38.6" r="-9" />
+				<a graphic="foot_left_anim" x="-68.2" y="-52.05" r="51" />
+				<a graphic="foot_left_anim" x="-10.35" y="-53.35" r="-28" />
+			</layer>
+		</animation>
+		<animation id="x1a">
+			<layer id="0" name="fist_left_anim">
+				<a graphic="fist_left_anim" x="-208.85" y="-108.5" r="133" />
+				<a graphic="fist_left_anim" x="-176.5" y="-102.05" r="38" />
+				<a graphic="fist_left_anim" x="-193.9" y="-86.65" r="67" />
+				<a graphic="fist_left_anim" x="-193.9" y="-86.65" r="67" />
+				<a graphic="fist_left_anim" x="-193.9" y="-86.65" r="67" />
+				<a graphic="fist_left_anim" x="-196" y="-127.85" r="-31" />
+				<a graphic="fist_left_anim" x="-196" y="-127.85" r="-31" />
+				<a graphic="fist_left_anim" x="-193.9" y="-86.65" r="67" />
+				<a graphic="fist_left_anim" x="-193.9" y="-86.65" r="67" />
+				<a graphic="fist_left_anim" x="-193.9" y="-86.65" r="67" />
+				<a graphic="fist_left_anim" x="-196" y="-127.85" r="-31" />
+				<a graphic="fist_left_anim" x="-196" y="-127.85" r="-31" />
+				<a graphic="fist_left_anim" x="-193.9" y="-86.65" r="67" />
+				<a graphic="fist_left_anim" x="-193.9" y="-86.65" r="67" />
+				<a graphic="fist_left_anim" x="-193.9" y="-86.65" r="67" />
+				<a graphic="fist_left_anim" x="-196" y="-127.85" r="-31" />
+				<a graphic="fist_left_anim" x="-196" y="-127.85" r="-31" />
+				<a graphic="fist_left_anim" x="-204.6" y="-115" r="79" />
+			</layer>
+			<layer id="1" name="foot_left_anim">
+				<a graphic="foot_left_anim" x="-173.7" y="-45" r="0" />
+				<a graphic="foot_left_anim" x="-205.05" y="-36.25" r="0" />
+				<a graphic="foot_left_anim" x="-235.2" y="-36.25" r="0" />
+				<a graphic="foot_left_anim" x="-246.15" y="-36.25" r="0" />
+				<a graphic="foot_left_anim" x="-237.7" y="-36.25" r="0" />
+				<a graphic="foot_left_anim" x="-198.25" y="-42.85" r="0" />
+				<a graphic="foot_left_anim" x="-194.6" y="-42.85" r="0" />
+				<a graphic="foot_left_anim" x="-235.2" y="-36.25" r="0" />
+				<a graphic="foot_left_anim" x="-246.15" y="-36.25" r="0" />
+				<a graphic="foot_left_anim" x="-237.7" y="-36.25" r="0" />
+				<a graphic="foot_left_anim" x="-198.25" y="-42.85" r="0" />
+				<a graphic="foot_left_anim" x="-194.6" y="-42.85" r="0" />
+				<a graphic="foot_left_anim" x="-235.2" y="-36.25" r="0" />
+				<a graphic="foot_left_anim" x="-246.15" y="-36.25" r="0" />
+				<a graphic="foot_left_anim" x="-237.7" y="-36.25" r="0" />
+				<a graphic="foot_left_anim" x="-198.25" y="-42.85" r="0" />
+				<a graphic="foot_left_anim" x="-194.6" y="-42.85" r="0" />
+				<a graphic="foot_left_anim" x="-170.75" y="-47.9" r="-36" />
+			</layer>
+		</animation>
+	</animations>
+</lib>
+

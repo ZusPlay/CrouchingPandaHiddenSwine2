@@ -1,0 +1,507 @@
+<lib>
+	<graphics>
+		<g name="head" />
+		<g name="bottle_anim" />
+		<g name="head_happy" />
+		<g name="head_angry" />
+		<g name="head_death" />
+	</graphics>
+	<animations>
+		<animation id="x00">
+			<layer id="0" name="head">
+				<a graphic="head" x="-212" y="-146.5" r="0" />
+				<a graphic="head" x="-212" y="-147.5" r="0" />
+				<a graphic="head" x="-212" y="-148.5" r="0" />
+				<a graphic="head" x="-212" y="-149.5" r="0" />
+				<a graphic="head" x="-212" y="-150.5" r="0" />
+				<a graphic="head" x="-212" y="-150.45" r="0" />
+				<a graphic="head" x="-212" y="-149.35" r="0" />
+				<a graphic="head" x="-212" y="-148.2" r="0" />
+				<a graphic="head" x="-212" y="-147.1" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x11">
+			<layer id="0" name="bottle_anim">
+				<a graphic="bottle_anim" x="-186.05" y="-157.95" r="-20" />
+				<a graphic="bottle_anim" x="-190" y="-165.95" r="-25" />
+				<a graphic="bottle_anim" x="-195" y="-165.95" r="-30" />
+				<a graphic="bottle_anim" x="-197" y="-175.95" r="-40" />
+				<a graphic="bottle_anim" x="-210" y="-185.95" r="-50" />
+				<a graphic="bottle_anim" x="-215" y="-190.15" r="-60" />
+				<a graphic="bottle_anim" x="-220" y="-195.15" r="-70" />
+				<a graphic="bottle_anim" x="-220" y="-195.15" r="-90" />
+				<a graphic="bottle_anim" x="-220" y="-195.15" r="-100" />
+				<a graphic="bottle_anim" x="-220" y="-195.3" r="-110" />
+				<a graphic="bottle_anim" x="-220" y="-185.3" r="-115" />
+				<a graphic="bottle_anim" x="-220" y="-185.3" r="-100" />
+				<a graphic="bottle_anim" x="-220" y="-175" r="-90" />
+				<a graphic="bottle_anim" x="-190" y="-160.15" r="-50" />
+				<a graphic="bottle_anim" x="-186.05" y="-140.95" r="-30 " />
+			</layer>
+			<layer id="1" name="head">
+				<a graphic="head" x="-214.7" y="-145.1" r="-4" />
+				<a graphic="head" x="-220.15" y="-143.25" r="-11" />
+				<a graphic="head" x="-225.6" y="-141.45" r="-19" />
+				<a graphic="head" x="-231.05" y="-139.7" r="-26" />
+				<a graphic="head" x="-236.45" y="-137.9" r="-33" />
+				<a graphic="head" x="-241.9" y="-136.1" r="-40" />
+				<a graphic="head" x="-242.55" y="-135.7" r="-43" />
+				<a graphic="head" x="-243.2" y="-135.25" r="-45" />
+				<a graphic="head" x="-243.95" y="-134.85" r="-48" />
+				<a graphic="head" x="-244.55" y="-134.5" r="-50" />
+				<a graphic="head" x="-243.75" y="-136.4" r="-47" />
+				<a graphic="head" x="-243.05" y="-138.2" r="-45" />
+				<a graphic="head" x="-242.25" y="-140.15" r="-42" />
+				<a graphic="head" x="-226.95" y="-143.55" r="-20" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x07">
+			<layer id="0" name="head">
+				<a graphic="head" x="-212.3" y="-149" r="0" />
+				<a graphic="head" x="-212.9" y="-155" r="0" />
+				<a graphic="head" x="-213.5" y="-161" r="0" />
+				<a graphic="head_happy" x="-213.5" y="-161" r="0" />
+				<a graphic="head_happy" x="-213.5" y="-161" r="0" />
+				<a graphic="head_happy" x="-213.5" y="-161" r="0" />
+				<a graphic="head_happy" x="-213.5" y="-161" r="0" />
+				<a graphic="head_happy" x="-213.5" y="-161" r="0" />
+				<a graphic="head_happy" x="-213.5" y="-161" r="0" />
+				<a graphic="head_happy" x="-213.5" y="-161" r="0" />
+				<a graphic="head" x="-213.1" y="-157.25" r="0" />
+				<a graphic="head" x="-212.35" y="-149.75" r="0" />
+			</layer>
+		</animation>
+		<animation id="x01">
+			<layer id="0" name="head">
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-234.15" y="-144" r="-42" />
+				<a graphic="head" x="-278.5" y="-140" r="-124" />
+				<a graphic="head" x="-226.85" y="-130.6" r="-29" />
+				<a graphic="head" x="-206.5" y="-136" r="9" />
+			</layer>
+		</animation>
+		<animation id="x10">
+			<layer id="0" name="head_angry">
+				<a graphic="head_angry" x="-211.95" y="-146" r="1" />
+				<a graphic="head_angry" x="-228.15" y="-145.3" r="-2" />
+				<a graphic="head_angry" x="-260.5" y="-144" r="-13" />
+				<a graphic="head_angry" x="-296" y="-133.5" r="-29" />
+				<a graphic="head_angry" x="-246.45" y="-191.8" r="-17" />
+				<a graphic="head_angry" x="-246.45" y="-191.8" r="-17" />
+				<a graphic="head_angry" x="-232.65" y="-173.5" r="-10" />
+				<a graphic="head_angry" x="-218.9" y="-155.1" r="-4" />
+			</layer>
+		</animation>
+		<animation id="x0f">
+			<layer id="0" name="head_angry">
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+				<a graphic="head_angry" x="-14.65" y="-144.85" r="-42" />
+				<a graphic="head_angry" x="-57.95" y="-142.5" r="-126" />
+				<a graphic="head_angry" x="-6.3" y="-131.85" r="-30" />
+				<a graphic="head_angry" x="13.25" y="-136.2" r="9" />
+			</layer>
+		</animation>
+		<animation id="x0d">
+			<layer id="0" name="head">
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-234.15" y="-144" r="-42" />
+				<a graphic="head" x="-278.5" y="-140" r="-124" />
+				<a graphic="head" x="-226.85" y="-130.6" r="-29" />
+				<a graphic="head" x="-206.5" y="-136" r="9" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-234.15" y="-144" r="-42" />
+				<a graphic="head" x="-278.5" y="-140" r="-124" />
+				<a graphic="head" x="-226.85" y="-130.6" r="-29" />
+				<a graphic="head" x="-206.5" y="-136" r="9" />
+			</layer>
+		</animation>
+		<animation id="x0a">
+			<layer id="0" name="head">
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-260.35" y="-129.55" r="-13" />
+				<a graphic="head" x="-294.25" y="-110.5" r="-19" />
+				<a graphic="head" x="-304.05" y="-99.7" r="-19" />
+				<a graphic="head" x="-273.35" y="-115.1" r="-13" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0b">
+			<layer id="0" name="head">
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-208.45" y="-138.8" r="-2" />
+				<a graphic="head" x="-206.7" y="-135.25" r="-2" />
+				<a graphic="head" x="-206.7" y="-135.2" r="-2" />
+				<a graphic="head" x="-257.15" y="-142.35" r="-11" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x09">
+			<layer id="0" name="head">
+				<a graphic="head" x="-212" y="-146.5" r="0" />
+				<a graphic="head" x="-212" y="-147.5" r="0" />
+				<a graphic="head" x="-212" y="-148.5" r="0" />
+				<a graphic="head" x="-212" y="-149.5" r="0" />
+				<a graphic="head" x="-212" y="-150.5" r="0" />
+				<a graphic="head" x="-212" y="-150.45" r="0" />
+				<a graphic="head" x="-212" y="-149.35" r="0" />
+				<a graphic="head" x="-212" y="-148.2" r="0" />
+				<a graphic="head" x="-212" y="-147.1" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-206.35" y="-138.05" r="-34" />
+				<a graphic="head" x="-195.1" y="-122.3" r="-102" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x02">
+			<layer id="0" name="head_angry">
+				<a graphic="head_angry" x="0.6" y="-145.2" r="0" />
+				<a graphic="head_angry" x="-12.2" y="-143.6" r="0" />
+				<a graphic="head_angry" x="-25" y="-142" r="0" />
+				<a graphic="head_angry" x="19.65" y="-139" r="0" />
+				<a graphic="head_angry" x="35.5" y="-140.35" r="0" />
+				<a graphic="head_angry" x="22.5" y="-146" r="0" />
+				<a graphic="head_angry" x="16.3" y="-146" r="0" />
+				<a graphic="head_angry" x="10.1" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x06">
+			<layer id="0" name="head_angry">
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+				<a graphic="head_angry" x="0.4" y="-140.4" r="-7" />
+				<a graphic="head_angry" x="-12.8" y="-129.15" r="-20" />
+				<a graphic="head_angry" x="19.8" y="-143.05" r="-3" />
+				<a graphic="head_angry" x="26.7" y="-149" r="3" />
+				<a graphic="head_angry" x="8" y="-147" r="0" />
+				<a graphic="head_angry" x="8" y="-147" r="0" />
+				<a graphic="head_angry" x="8" y="-147" r="0" />
+			</layer>
+		</animation>
+		<animation id="x0e">
+			<layer id="0" name="head_angry">
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+				<a graphic="head_angry" x="36.05" y="-149.9" r="5" />
+				<a graphic="head_angry" x="72.65" y="-139.8" r="-4" />
+				<a graphic="head_angry" x="91" y="-134.8" r="-8" />
+				<a graphic="head_angry" x="63" y="-138.5" r="-5" />
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+				<a graphic="head_angry" x="-24" y="-140.5" r="-36" />
+				<a graphic="head_angry" x="-3.4" y="-144.2" r="-12" />
+			</layer>
+		</animation>
+		<animation id="x0c">
+			<layer id="0" name="head_angry">
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+				<a graphic="head_angry" x="0.4" y="-140.4" r="-7" />
+				<a graphic="head_angry" x="-12.8" y="-129.15" r="-20" />
+				<a graphic="head_angry" x="19.8" y="-143.05" r="-3" />
+				<a graphic="head_angry" x="26.7" y="-149" r="3" />
+				<a graphic="head_angry" x="8" y="-147" r="0" />
+				<a graphic="head_angry" x="7.5" y="-146.45" r="0" />
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+				<a graphic="head_angry" x="-20.1" y="-139.25" r="-5" />
+				<a graphic="head_angry" x="-47.1" y="-132.5" r="-10" />
+				<a graphic="head_angry" x="-60.65" y="-129.1" r="-12" />
+				<a graphic="head_angry" x="-37" y="-133.95" r="-8" />
+				<a graphic="head_angry" x="10.3" y="-143.6" r="-1" />
+				<a graphic="head_angry" x="33.95" y="-148.35" r="3" />
+				<a graphic="head_angry" x="38.3" y="-155.6" r="2" />
+				<a graphic="head_angry" x="25.4" y="-154.9" r="0" />
+			</layer>
+		</animation>
+		<animation id="x03">
+			<layer id="0" name="head">
+				<a graphic="head" x="-195.25" y="-148.5" r="12" />
+				<a graphic="head" x="-161.75" y="-153.5" r="37" />
+				<a graphic="head" x="-119.5" y="-95.05" r="43" />
+				<a graphic="head_death" x="-66" y="-20" r="0" />
+				<a graphic="head_death" x="-66" y="-20" r="0" />
+				<a graphic="head_death" x="-66" y="-20" r="0" />
+			</layer>
+		</animation>
+		<animation id="x04">
+			<layer id="0" name="head_angry">
+				<a graphic="head_angry" x="-222.25" y="-146" r="0" />
+				<a graphic="head_angry" x="-242.75" y="-146" r="0" />
+				<a graphic="head_angry" x="-179.25" y="-143.5" r="0" />
+				<a graphic="head_angry" x="-99.2" y="-143.5" r="1" />
+				<a graphic="head_angry" x="-86.55" y="-148.5" r="5" />
+				<a graphic="head_angry" x="-47.85" y="-141.2" r="5" />
+				<a graphic="head_angry" x="-5.9" y="-136.9" r="5" />
+				<a graphic="head_angry" x="39.45" y="-135.5" r="5" />
+				<a graphic="head_angry" x="27.75" y="-144.15" r="1" />
+				<a graphic="head_angry" x="17.3" y="-148.35" r="0" />
+				<a graphic="head_angry" x="8" y="-148" r="0" />
+			</layer>
+		</animation>
+		<animation id="x08">
+			<layer id="0" name="head_angry">
+				<a graphic="head_angry" x="-200.85" y="-122.65" r="3" />
+				<a graphic="head_angry" x="-178.55" y="-75.95" r="11" />
+				<a graphic="head_angry" x="-178.55" y="-75.95" r="11" />
+				<a graphic="head_angry" x="-133" y="-214.7" r="39" />
+				<a graphic="head_angry" x="-102.6" y="-307.2" r="58" />
+				<a graphic="head_angry" x="-87.4" y="-353.4" r="67" />
+				<a graphic="head_angry" x="-85.3" y="-359.3" r="68" />
+				<a graphic="head_angry" x="-83.5" y="-360.7" r="68" />
+				<a graphic="head_angry" x="-79.95" y="-363.45" r="68" />
+				<a graphic="head_angry" x="-74.6" y="-367.6" r="68" />
+				<a graphic="head_angry" x="-67.5" y="-373.15" r="68" />
+				<a graphic="head_angry" x="-11.3" y="-335.35" r="72" />
+				<a graphic="head_angry" x="57.5" y="-249.7" r="43" />
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x05">
+			<layer id="0" name="head">
+				<a graphic="head" x="-11.25" y="-121.5" r="0" />
+				<a graphic="head" x="-34.5" y="-91.75" r="0" />
+				<a graphic="head" x="-86.25" y="-96" r="0" />
+				<a graphic="head" x="-153.25" y="-111.5" r="0" />
+				<a graphic="head" x="-186.35" y="-127" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x16">
+			<layer id="0" name="head">
+				<a graphic="head" x="-212" y="-146.5" r="0" />
+				<a graphic="head" x="-212" y="-147.5" r="0" />
+				<a graphic="head" x="-212" y="-148.5" r="0" />
+				<a graphic="head" x="-212" y="-149.5" r="0" />
+				<a graphic="head" x="-212" y="-150.5" r="0" />
+				<a graphic="head" x="-212" y="-150.45" r="0" />
+				<a graphic="head" x="-212" y="-149.35" r="0" />
+				<a graphic="head" x="-212" y="-148.2" r="0" />
+				<a graphic="head" x="-212" y="-147.1" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146.5" r="0" />
+				<a graphic="head" x="-212" y="-147.5" r="0" />
+				<a graphic="head" x="-212" y="-148.5" r="0" />
+				<a graphic="head" x="-212" y="-149.5" r="0" />
+				<a graphic="head" x="-212" y="-150.5" r="0" />
+				<a graphic="head" x="-212" y="-150.45" r="0" />
+				<a graphic="head" x="-212" y="-149.35" r="0" />
+				<a graphic="head" x="-212" y="-148.2" r="0" />
+				<a graphic="head" x="-212" y="-147.1" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146.5" r="0" />
+				<a graphic="head" x="-212" y="-147.5" r="0" />
+				<a graphic="head" x="-212" y="-148.5" r="0" />
+				<a graphic="head" x="-212" y="-147.5" r="0" />
+				<a graphic="head" x="-212" y="-146.5" r="0" />
+				<a graphic="head" x="-212" y="-106" r="0" />
+				<a graphic="head" x="-237.2" y="-54.5" r="-24" />
+				<a graphic="head" x="-287.65" y="-31.45" r="-72" />
+				<a graphic="head" x="-284.1" y="-31.1" r="-78" />
+				<a graphic="head" x="-280.65" y="-30.65" r="-84" />
+				<a graphic="head" x="-285.3" y="-31.2" r="-76" />
+				<a graphic="head" x="-262.4" y="-42.95" r="-48" />
+				<a graphic="head" x="-212" y="-66" r="0" />
+				<a graphic="head" x="-212" y="-119.35" r="0" />
+			</layer>
+		</animation>
+		<animation id="x15">
+			<layer id="0" name="head_angry">
+				<a graphic="head_angry" x="-212" y="-146" r="0" />
+				<a graphic="head_angry" x="-212" y="-146" r="0" />
+				<a graphic="head_angry" x="-212" y="-146" r="0" />
+				<a graphic="head_angry" x="-212" y="-146" r="0" />
+				<a graphic="head_angry" x="-212" y="-146" r="0" />
+				<a graphic="head_angry" x="-212" y="-146" r="0" />
+				<a graphic="head_angry" x="-212" y="-146" r="0" />
+				<a graphic="head_angry" x="-211.25" y="-146.9" r="-9" />
+				<a graphic="head_angry" x="-210.8" y="-151.85" r="-26" />
+				<a graphic="head_angry" x="-212.95" y="-160.25" r="-44" />
+				<a graphic="head_angry" x="-212.9" y="-150.3" r="-44" />
+				<a graphic="head_angry" x="-213" y="-145.3" r="-44" />
+				<a graphic="head_angry" x="-212.95" y="-145.25" r="-44" />
+				<a graphic="head_angry" x="-212.95" y="-145.25" r="-44" />
+				<a graphic="head_angry" x="-213" y="-145.3" r="-44" />
+				<a graphic="head_angry" x="-213" y="-145.3" r="-44" />
+				<a graphic="head_angry" x="-211.35" y="-140.3" r="-44" />
+				<a graphic="head_angry" x="-207.95" y="-130.25" r="-44" />
+				<a graphic="head_angry" x="-207.95" y="-130.3" r="-44" />
+				<a graphic="head_angry" x="-207.95" y="-130.25" r="-44" />
+				<a graphic="head_angry" x="-211.3" y="-140.3" r="-44" />
+				<a graphic="head_angry" x="-213" y="-145.3" r="-44" />
+				<a graphic="head_angry" x="-212.95" y="-145.25" r="-44" />
+				<a graphic="head_angry" x="-211.05" y="-142.95" r="-29" />
+				<a graphic="head_angry" x="-210.85" y="-143" r="-15" />
+				<a graphic="head_angry" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146.5" r="0" />
+				<a graphic="head" x="-212" y="-147.5" r="0" />
+				<a graphic="head" x="-212" y="-148.5" r="0" />
+				<a graphic="head" x="-212" y="-149.5" r="0" />
+				<a graphic="head" x="-212" y="-150.5" r="0" />
+				<a graphic="head" x="-212" y="-150.15" r="0" />
+				<a graphic="head" x="-212" y="-148.5" r="0" />
+				<a graphic="head" x="-212" y="-146.85" r="0" />
+			</layer>
+		</animation>
+		<animation id="x14">
+			<layer id="0" name="head">
+				<a graphic="head" x="-221.95" y="-145.2" r="11" />
+				<a graphic="head" x="-241.7" y="-149.7" r="35" />
+				<a graphic="head_death" x="-236.8" y="-124" r="36" />
+				<a graphic="head_death" x="-238.15" y="-123.85" r="37" />
+				<a graphic="head_death" x="-239.5" y="-123.75" r="38" />
+				<a graphic="head_death" x="-240.85" y="-123.7" r="39" />
+				<a graphic="head_death" x="-242.2" y="-123.7" r="41" />
+				<a graphic="head_death" x="-243.6" y="-123.7" r="42" />
+				<a graphic="head_death" x="-240.95" y="-124.05" r="42" />
+				<a graphic="head_death" x="-234.5" y="-124.95" r="42" />
+				<a graphic="head_death" x="-228.1" y="-125.9" r="42" />
+				<a graphic="head_death" x="-221.7" y="-126.8" r="42" />
+				<a graphic="head_death" x="-215.25" y="-127.7" r="42" />
+				<a graphic="head_death" x="-208.85" y="-128.65" r="42" />
+				<a graphic="head_death" x="-208.45" y="-128.7" r="42" />
+				<a graphic="head_death" x="-213.95" y="-127.9" r="42" />
+				<a graphic="head_death" x="-219.45" y="-127.15" r="42" />
+				<a graphic="head_death" x="-224.95" y="-126.35" r="42" />
+				<a graphic="head_death" x="-230.45" y="-125.55" r="42" />
+				<a graphic="head_death" x="-235.95" y="-124.8" r="42" />
+				<a graphic="head_death" x="-241.45" y="-124" r="42" />
+				<a graphic="head_death" x="-241.6" y="-123.95" r="42" />
+				<a graphic="head_death" x="-236.45" y="-124.7" r="42" />
+				<a graphic="head_death" x="-231.3" y="-125.45" r="42" />
+				<a graphic="head_death" x="-226.2" y="-126.15" r="42" />
+				<a graphic="head_death" x="-221.05" y="-126.9" r="42" />
+				<a graphic="head_death" x="-215.9" y="-127.65" r="42" />
+				<a graphic="head_death" x="-210.8" y="-128.35" r="42" />
+				<a graphic="head_death" x="-205.7" y="-129.05" r="42" />
+				<a graphic="head" x="-212.1" y="-140.65" r="22" />
+				<a graphic="head" x="-211.95" y="-143.3" r="7" />
+			</layer>
+		</animation>
+		<animation id="x12">
+			<layer id="0" name="head_angry">
+				<a graphic="head_angry" x="-223.6" y="-145.15" r="0" />
+				<a graphic="head_angry" x="-246.85" y="-143.45" r="0" />
+				<a graphic="head_angry" x="-269.95" y="-141.7" r="0" />
+				<a graphic="head_angry" x="-293.1" y="-140" r="0" />
+				<a graphic="head_angry" x="-316.45" y="-138.25" r="0" />
+				<a graphic="head_angry" x="-298.6" y="-148.4" r="-11" />
+				<a graphic="head_angry" x="-208.8" y="-152.8" r="-12" />
+				<a graphic="head_angry" x="-46.55" y="-151.05" r="-5" />
+				<a graphic="head_angry" x="-57.95" y="-143.95" r="-6" />
+				<a graphic="head_angry" x="-69.35" y="-136.9" r="-6" />
+				<a graphic="head_angry" x="-102.3" y="-135.9" r="-5" />
+				<a graphic="head_angry" x="-157.3" y="-141" r="-3" />
+				<a graphic="head_angry" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x13">
+			<layer id="0" name="head">
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+				<a graphic="head" x="-256.35" y="-142" r="-83" />
+				<a graphic="head" x="-252.65" y="-135.3" r="-76" />
+				<a graphic="head" x="-201" y="-126" r="19" />
+				<a graphic="head" x="-212" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x17">
+			<layer id="0" name="head_angry">
+				<a graphic="head_angry" x="-222.9" y="-144.5" r="0" />
+				<a graphic="head_angry" x="-244.7" y="-141.5" r="0" />
+				<a graphic="head_angry" x="-266.5" y="-138.5" r="0" />
+				<a graphic="head_angry" x="-288.35" y="-135.5" r="0" />
+				<a graphic="head_angry" x="-310.15" y="-132.5" r="0" />
+				<a graphic="head_angry" x="-331.95" y="-129.5" r="0" />
+				<a graphic="head_angry" x="-340.55" y="-120.95" r="-5" />
+				<a graphic="head_angry" x="-349.1" y="-112.3" r="-10" />
+				<a graphic="head_angry" x="-248.2" y="-133.95" r="-8" />
+				<a graphic="head_angry" x="-37.85" y="-185.95" r="2" />
+				<a graphic="head_angry" x="67.5" y="-211.95" r="22" />
+				<a graphic="head_angry" x="56" y="-209.05" r="18" />
+				<a graphic="head_angry" x="50.7" y="-151.5" r="0" />
+				<a graphic="head_angry" x="40.3" y="-113.35" r="0" />
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x18">
+			<layer id="0" name="head_angry">
+				<a graphic="head_angry" x="-271.9" y="-126.9" r="0" />
+				<a graphic="head_angry" x="-340.35" y="-105.1" r="0" />
+				<a graphic="head_angry" x="-320" y="-129.6" r="1" />
+				<a graphic="head_angry" x="-88.6" y="-348.1" r="10" />
+				<a graphic="head_angry" x="-86.85" y="-349.9" r="11" />
+				<a graphic="head_angry" x="-81.4" y="-355.15" r="14" />
+				<a graphic="head_angry" x="-72.45" y="-363.95" r="18" />
+				<a graphic="head_angry" x="-59.85" y="-376.3" r="24" />
+				<a graphic="head_angry" x="-43.7" y="-392.05" r="32" />
+				<a graphic="head_angry" x="-23.9" y="-411.4" r="41" />
+				<a graphic="head_angry" x="48.95" y="-379.65" r="50" />
+				<a graphic="head_angry" x="119.15" y="-330.65" r="55" />
+				<a graphic="head_angry" x="92.5" y="-210.8" r="27" />
+				<a graphic="head_angry" x="40.3" y="-113.35" r="0" />
+				<a graphic="head_angry" x="7" y="-146" r="0" />
+			</layer>
+		</animation>
+		<animation id="x19">
+			<layer id="0" name="head">
+				<a graphic="head" x="-158.85" y="-147.8" r="11" />
+				<a graphic="head" x="-123.25" y="-143.3" r="3" />
+				<a graphic="head" x="-102.3" y="-142.85" r="1" />
+				<a graphic="head" x="-95.8" y="-146.65" r="3" />
+				<a graphic="head" x="-79.15" y="-145.8" r="5" />
+				<a graphic="head" x="-52.25" y="-140.3" r="5" />
+				<a graphic="head" x="-30.35" y="-136" r="5" />
+				<a graphic="head" x="-13.3" y="-132.9" r="5" />
+				<a graphic="head" x="-3.7" y="-136" r="7" />
+				<a graphic="head" x="-1.65" y="-145.45" r="12" />
+			</layer>
+		</animation>
+		<animation id="x1a">
+			<layer id="0" name="head">
+				<a graphic="head" x="-187.45" y="-150.15" r="26" />
+				<a graphic="head" x="-198.25" y="-150.05" r="52" />
+				<a graphic="head" x="-198.25" y="-150.15" r="72" />
+				<a graphic="head" x="-198.25" y="-150.15" r="80" />
+				<a graphic="head" x="-195.1" y="-129.05" r="80" />
+				<a graphic="head" x="-208.55" y="-146.05" r="47" />
+				<a graphic="head" x="-228.1" y="-147.1" r="47" />
+				<a graphic="head" x="-198.25" y="-150.15" r="72" />
+				<a graphic="head" x="-198.25" y="-150.15" r="80" />
+				<a graphic="head" x="-195.1" y="-129.05" r="80" />
+				<a graphic="head" x="-208.55" y="-146.05" r="47" />
+				<a graphic="head" x="-228.1" y="-147.1" r="47" />
+				<a graphic="head" x="-198.25" y="-150.15" r="72" />
+				<a graphic="head" x="-198.25" y="-150.15" r="80" />
+				<a graphic="head" x="-195.1" y="-129.05" r="80" />
+				<a graphic="head" x="-208.55" y="-146.05" r="47" />
+				<a graphic="head" x="-228.1" y="-147.1" r="47" />
+				<a graphic="head" x="-193.75" y="-149.15" r="25" />
+			</layer>
+		</animation>
+	</animations>
+</lib>
+
